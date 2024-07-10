@@ -1,0 +1,58 @@
+{
+   "checksum": "a0af7295a08d1231d7ccc8cf2feb1093",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13365054223383281",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13365054242026972",
+            "date_last_used": "0",
+            "guid": "888db69a-e7dd-4ac3-b1a9-049883e87fd5",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Maths Formula book Inner",
+            "type": "url",
+            "url": "file:///run/media/purex/Pheonix/SSC%20Courses/Carrerwill/Gagan%20Pratap/Books/Maths%20Concept%20King%20Book%20(UPDATED).pdf"
+         }, {
+            "date_added": "13365054253362049",
+            "date_last_used": "13365064736844752",
+            "guid": "4343567c-0b4b-40ac-b10a-92d61dee6956",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GAGAN PRATAP ARITHMETIC COMPLETE CLASS NOTES.pdf",
+            "type": "url",
+            "url": "file:///run/media/purex/Pheonix/SSC%20Courses/Carrerwill/Gagan%20Pratap/Books/GAGAN%20PRATAP%20ARITHMETIC%20COMPLETE%20CLASS%20NOTES.pdf"
+         } ],
+         "date_added": "13365054223383284",
+         "date_last_used": "0",
+         "date_modified": "13365054253362049",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13365054223383285",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

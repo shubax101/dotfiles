@@ -1,0 +1,7 @@
+[Added Associations]
+application/toml=sublime-text_subl.desktop;
+text/markdown=sublime-text_subl.desktop;
+
+[Default Applications]
+application/toml=sublime-text_subl.desktop;
+text/markdown=sublime-text_subl.desktop;
