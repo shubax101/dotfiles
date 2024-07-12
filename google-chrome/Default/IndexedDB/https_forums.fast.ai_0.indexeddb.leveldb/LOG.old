@@ -1,6 +1,0 @@
-2024/07/10-17:16:55.714 4977 Creating DB /home/purex/.config/google-chrome/Default/IndexedDB/https_forums.fast.ai_0.indexeddb.leveldb since it was missing.
-2024/07/10-17:16:55.725 4977 Reusing MANIFEST /home/purex/.config/google-chrome/Default/IndexedDB/https_forums.fast.ai_0.indexeddb.leveldb/MANIFEST-000001
-2024/07/10-17:18:18.218 4978 Level-0 table #5: started
-2024/07/10-17:18:18.230 4978 Level-0 table #5: 72691 bytes OK
-2024/07/10-17:18:18.236 4978 Delete type=0 #3
-2024/07/10-17:18:18.237 4978 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
