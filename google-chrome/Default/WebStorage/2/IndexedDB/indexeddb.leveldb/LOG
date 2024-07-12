@@ -1,3 +1,7 @@
-2024/07/10-10:07:36.918 10b59 Reusing MANIFEST /home/purex/.config/google-chrome/Default/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2024/07/10-10:07:36.918 10b59 Recovering log #3
-2024/07/10-10:07:36.919 10b59 Reusing old log /home/purex/.config/google-chrome/Default/WebStorage/2/IndexedDB/indexeddb.leveldb/000003.log 
+2024/07/10-19:22:21.785 497a Reusing MANIFEST /home/purex/.config/google-chrome/Default/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/07/10-19:22:21.785 497a Recovering log #3
+2024/07/10-19:22:21.791 497a Reusing old log /home/purex/.config/google-chrome/Default/WebStorage/2/IndexedDB/indexeddb.leveldb/000003.log 
+2024/07/10-19:32:57.781 4977 Level-0 table #5: started
+2024/07/10-19:32:57.790 4977 Level-0 table #5: 915428 bytes OK
+2024/07/10-19:32:57.797 4977 Delete type=0 #3
+2024/07/10-19:32:57.797 4977 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

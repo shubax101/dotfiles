@@ -1,11 +1,66 @@
 {
-   "checksum": "a0af7295a08d1231d7ccc8cf2feb1093",
+   "checksum": "17eabe85dabcbf7b836520a8bf47708c",
    "roots": {
       "bookmark_bar": {
-         "children": [  ],
+         "children": [ {
+            "date_added": "13365082660209886",
+            "date_last_used": "13365082812400563",
+            "guid": "6219d738-b9a1-49e3-97a9-4320a2596002",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Meta Deep Learning",
+            "type": "url",
+            "url": "file:///run/media/purex/Pheonix/Courses/Ai%20Courses/Books/Radek%20Osmulski%20-%20Meta%20learning_%20How%20To%20Learn%20Deep%20Learning%20And%20Thrive%20In%20The%20Digital%20World%20(2021,%20Radek%20Osmulski)%20-%20libgen.li.pdf"
+         }, {
+            "date_added": "13365082855164244",
+            "date_last_used": "13365188690671581",
+            "guid": "4686bdd4-752c-4105-99ae-7b5a849c18cb",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Fast Ai",
+            "type": "url",
+            "url": "https://course.fast.ai/"
+         }, {
+            "date_added": "13365082874782659",
+            "date_last_used": "0",
+            "guid": "20246568-1b6f-4754-8eb0-cc696f40614c",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Deep Learning for coders",
+            "type": "url",
+            "url": "file:///run/media/purex/Pheonix/Courses/Ai%20Courses/Books/Jeremy%20Howard,%20Sylvain%20Gugger%20-%20Deep%20Learning%20for%20Coders%20with%20fastai%20and%20PyTorch_%20AI%20Applications%20Without%20a%20PhD%20(2020,%20O'Reilly%20Media).pdf"
+         }, {
+            "date_added": "13365082918142297",
+            "date_last_used": "0",
+            "guid": "79e15466-0f4a-4882-bebd-9b86df09b793",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Kaggle",
+            "type": "url",
+            "url": "https://www.kaggle.com/"
+         }, {
+            "date_added": "13365084646321513",
+            "date_last_used": "0",
+            "guid": "b1ab5c43-e760-44a1-9ff5-5523932071f7",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "fast.ai Course Forums",
+            "type": "url",
+            "url": "https://forums.fast.ai/"
+         } ],
          "date_added": "13365054223383281",
          "date_last_used": "0",
-         "date_modified": "0",
+         "date_modified": "13365084646321513",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
@@ -37,7 +92,7 @@
          } ],
          "date_added": "13365054223383284",
          "date_last_used": "0",
-         "date_modified": "13365054253362049",
+         "date_modified": "13365082660209886",
          "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
          "name": "Other bookmarks",

@@ -1,0 +1,305 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">Zmlyc3Q=</entry>
+        <entry encoding="base64">c29tZXRoaW5nIHdlbnQgd3Jvbmcgd2l0aCBmaXJzdF9yZXFfYnl0ZXM=</entry>
+        <entry encoding="base64">c29tZXRoaW5n</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">dnM=</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="pure-otp-1a1c62a">
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/pure-otp/cmd/app/main.go" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/programming/Go/Projects/pure-otp/cmd/app/main.go" protocol="file" />
+    </project>
+    <project id="go-shopify-59ab82b5">
+      <jump line="55" column="36" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="108" column="9" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="103" column="8" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="123" column="72" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="107" column="0" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="111" column="22" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="114" column="8" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="115" column="58" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="105" column="77" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="106" column="8" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="104" column="0" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="110" column="19" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="54" column="12" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="58" column="35" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="113" column="17" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="118" column="36" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="125" column="40" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="129" column="0" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="139" column="45" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="147" column="4" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="124" column="26" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="128" column="0" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="143" column="45" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="126" column="15" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="153" column="4" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="185" column="34" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="152" column="51" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="157" column="0" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="217" column="4" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="33" column="52" filename="$USER_HOME$/programming/Go/Projects/go-shopify/pkg/tokens.go" protocol="file" />
+      <jump line="156" column="4" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="214" column="4" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="230" column="0" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="233" column="81" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="218" column="15" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="232" column="22" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="237" column="22" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="241" column="23" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="239" column="37" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="219" column="23" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="243" column="4" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="225" column="126" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="229" column="8" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="251" column="37" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="231" column="25" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="228" column="36" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="236" column="26" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="221" column="19" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="238" column="36" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="224" column="0" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="261" column="5" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="263" column="40" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="270" column="4" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="248" column="4" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="250" column="0" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="244" column="0" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="246" column="18" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="114" column="4" filename="$USER_HOME$/programming/Go/Projects/go-shopify/pkg/tokens.go" protocol="file" />
+      <jump line="245" column="4" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="255" column="29" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="254" column="29" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="249" column="4" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="266" column="18" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="264" column="0" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="265" column="20" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="268" column="5" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="18" column="23" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/payloads/checkout.go" protocol="file" />
+      <jump line="179" column="4" filename="$USER_HOME$/programming/Go/Projects/go-shopify/pkg/tokens.go" protocol="file" />
+      <jump line="276" column="81" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="178" column="25" filename="$USER_HOME$/programming/Go/Projects/go-shopify/pkg/tokens.go" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/payloads/shipping.go" protocol="file" />
+      <jump line="274" column="45" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="8" column="5" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/payloads/shipping.go" protocol="file" />
+      <jump line="98" column="5" filename="$USER_HOME$/programming/Go/Projects/go-shopify/pkg/tokens.go" protocol="file" />
+      <jump line="102" column="13" filename="$USER_HOME$/programming/Go/Projects/go-shopify/pkg/tokens.go" protocol="file" />
+      <jump line="103" column="9" filename="$USER_HOME$/programming/Go/Projects/go-shopify/pkg/tokens.go" protocol="file" />
+      <jump line="104" column="9" filename="$USER_HOME$/programming/Go/Projects/go-shopify/pkg/tokens.go" protocol="file" />
+      <jump line="105" column="10" filename="$USER_HOME$/programming/Go/Projects/go-shopify/pkg/tokens.go" protocol="file" />
+      <jump line="10" column="31" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/payloads/shipping.go" protocol="file" />
+      <jump line="18" column="13" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/payloads/shipping.go" protocol="file" />
+      <jump line="176" column="48" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/payloads/shipping.go" protocol="file" />
+      <jump line="106" column="9" filename="$USER_HOME$/programming/Go/Projects/go-shopify/pkg/tokens.go" protocol="file" />
+      <jump line="39" column="9" filename="$USER_HOME$/programming/Go/Projects/go-shopify/pkg/tokens.go" protocol="file" />
+      <jump line="14" column="51161" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/payloads/shipping.go" protocol="file" />
+      <jump line="252" column="34" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="272" column="31" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="262" column="37" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="260" column="45" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="159" column="82" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="269" column="59" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="258" column="34" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/go-shopify/Results/11-Jul-24_13-41-33/Shipping Payload.txt" protocol="file" />
+      <jump line="149" column="26" filename="$USER_HOME$/programming/Go/Projects/go-shopify/Results/11-Jul-24_13-41-33/Shipping Payload.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/go-shopify/settings/Low Amount Filtered.txt" protocol="file" />
+      <jump line="21" column="33" filename="$USER_HOME$/programming/Go/Projects/go-shopify/settings/Low Amount Filtered.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/go-shopify/settings/LowAmount.txt" protocol="file" />
+      <jump line="20" column="0" filename="$USER_HOME$/programming/Go/Projects/go-shopify/settings/Low Amount Filtered.txt" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/programming/Go/Projects/go-shopify/settings/LowAmount.txt" protocol="file" />
+      <jump line="253" column="34" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="240" column="73" filename="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" protocol="file" />
+    </project>
+    <project id="mitm-go-proxy-f2f0282d">
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/examples/change-html/main.go" protocol="file" />
+      <jump line="22" column="0" filename="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/examples/change-html/main.go" protocol="file" />
+      <jump line="14" column="18" filename="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/examples/change-html/main.go" protocol="file" />
+      <jump line="2" column="7" filename="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/examples/change-html/main.go" protocol="file" />
+      <jump line="8" column="35" filename="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/examples/change-html/main.go" protocol="file" />
+      <jump line="7" column="41" filename="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/examples/change-html/main.go" protocol="file" />
+      <jump line="65" column="20" filename="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/proxy/proxy.go" protocol="file" />
+      <jump line="68" column="0" filename="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/proxy/proxy.go" protocol="file" />
+      <jump line="40" column="10" filename="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/examples/change-html/main.go" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/LICENSE" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/web/web.go" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/cmd/dummycert/main.go" protocol="file" />
+      <jump line="2" column="7" filename="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/cmd/dummycert/main.go" protocol="file" />
+      <jump line="19" column="5" filename="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/cmd/dummycert/main.go" protocol="file" />
+      <jump line="225" column="5" filename="/usr/lib/go/src/builtin/builtin.go" protocol="file" />
+      <jump line="20" column="21" filename="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/cmd/dummycert/main.go" protocol="file" />
+      <jump line="15" column="5" filename="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/cmd/dummycert/main.go" protocol="file" />
+      <jump line="34" column="25" filename="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/cmd/dummycert/main.go" protocol="file" />
+      <jump line="21" column="57" filename="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/cmd/dummycert/main.go" protocol="file" />
+      <jump line="49" column="0" filename="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/cmd/dummycert/main.go" protocol="file" />
+      <jump line="35" column="5" filename="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/cmd/dummycert/main.go" protocol="file" />
+      <jump line="32" column="5" filename="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/cmd/dummycert/main.go" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/cmd/mitmproxy/main.go" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/README.md" protocol="file" />
+      <jump line="22" column="13" filename="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/cmd/dummycert/main.go" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/mitmproxy.go" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/programming/Go/Projects/go-shopify/Results/OLD/01-Jun-24_13-06-31/ERROR.txt" timestamp="1720684336451">
+        <mark key="&quot;" line="9" column="780" />
+      </file>
+      <file name="/a.dummy" timestamp="1720681345675">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/go-shopify/pkg/structs.go" timestamp="1720684332169">
+        <mark key="&quot;" line="11" column="20" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/go-shopify/internal/payloads/shipping.go" timestamp="1720684525096">
+        <mark key="&quot;" line="18" column="20" />
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="51162" />
+        <mark key="^" line="14" column="51162" />
+        <mark key="." line="14" column="51161" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/go-shopify/internal/payloads/payment.go" timestamp="1720684359297">
+        <mark key="&quot;" line="13" column="11" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/go-shopify/internal/payloads/checkout.go" timestamp="1720684120481">
+        <mark key="&quot;" line="18" column="23" />
+        <mark key="'" line="10" column="20" />
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="51162" />
+        <mark key="." line="10" column="51161" />
+        <mark key="^" line="10" column="51162" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/go-shopify/cmd/app/main.go" timestamp="1720684332208">
+        <mark key="&quot;" line="6" column="7" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/go-shopify/pkg/tokens.go" timestamp="1720684340121">
+        <mark key="&quot;" line="12" column="11" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="." line="179" column="0" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/go-shopify/settings/LowAmount.txt" timestamp="1720685706984">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/LICENSE" timestamp="1720631403685">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/cmd/dummycert/main.go" timestamp="1720631894492">
+        <mark key="&quot;" line="22" column="13" />
+        <mark key="'" line="20" column="21" />
+        <mark key="[" line="21" column="54" />
+        <mark key="]" line="21" column="58" />
+        <mark key="^" line="21" column="58" />
+        <mark key="." line="21" column="57" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/go-shopify/cmd/bot/services/tasks.go" timestamp="1720684332469">
+        <mark key="&quot;" line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/mitmproxy.go" timestamp="1720631896591">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="/usr/lib/go/src/builtin/builtin.go" timestamp="1720631521335">
+        <mark key="&quot;" line="225" column="5" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/README.md" timestamp="1720631892970">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/go-shopify/internal/shopify/main.go" timestamp="1720685846901">
+        <mark key="&quot;" line="265" column="4" />
+        <mark key="'" line="252" column="34" />
+        <mark key="[" line="241" column="72" />
+        <mark key="]" line="241" column="74" />
+        <mark key="." line="241" column="73" />
+        <mark key="^" line="241" column="74" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/web/web.go" timestamp="1720631434108">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/mitm-go-proxy/cmd/mitmproxy/main.go" timestamp="1720631895811">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/go-shopify/settings/LowAmount_bak.txt" timestamp="1720678978045">
+        <mark key="&quot;" line="112" column="9" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/go-shopify/Results/11-Jul-24_13-41-33/Shipping Payload.txt" timestamp="1720685681547">
+        <mark key="&quot;" line="149" column="26" />
+        <mark key="'" line="0" column="0" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">YTFmNmM5OTNmM2ZhMzkzZjgyMjdlN2RmNTk5MjcyZDE0OTY2ODBlNg==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">XG4=</text>
+      </register>
+      <register name="/" type="CHARACTER_WISE">
+        <text encoding="base64">c29tZXRoaW5n</text>
+      </register>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">c3RpY2tpdHdpdGhzdHlsZXNob3AuY29tOjQxNzIxOTk5ODE4OTQ3Cg==</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">bWlzc2luZ2xpbmsuc2hvcDo0MzU0NjA3MjI4NTQyMgptaXNzaW5nbGluay5zaG9wOjQzNTQ2MDcyMjg1NDIyCm1pc3NpbmdsaW5rLnNob3A6NDM1NDYwNzIyODU0MjIKbWlzc2luZ2xpbmsuc2hvcDo0MzU0NjA3MjI4NTQyMgptaXNzaW5nbGluay5zaG9wOjQzNTQ2MDcyMjg1NDIyCm1pc3NpbmdsaW5rLnNob3A6NDM1NDYwNzIyODU0MjIK</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">CWxvZy5JbmZvKCJFeHRyYWN0aW5nIFtQYXltZW50XSB0b2tlbnMg8J+UjSIpCg==</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCXJldHVybiBzZWxmLCBlcnJvcnMuRXJyb3JmKCJTb21ldGhpbmcgd2VudCB3cm9uZyB3aXRoIHNlbmRTaGlwcGluZ01ldGhvZERldGFpbHNcbiVzIiwgZXJyLkVycm9yKCkpCgl9Cg==</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">CWxvZy5JbmZvKCJFeHRyYWN0aW5nIFtTaGlwcGluZ10gdG9rZW5zIPCflI0iKQo=</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">CS8vIGZtdC5QcmludGxuKCJbU2Vjb25kIFJlcXVlc3RdIFN0YXR1cyBDb2RlID0gIiwgc2Vjb25kX3JlcS5TdGF0dXNDb2RlKQo=</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">CQlzZWxmID0gc2VsZi5hZGRfcmV0cnkoKQo=</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">CQkJLy9wa2cuU2F2ZXIuVGVzdChzdHJpbmcoZmlyc3RfcmVxX2J5dGVzKSwgImZpcnN0X3JlcV9ieXRlcyIpCg==</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">c29tZXRoaW5n</last-search>
+      <last-offset encoding="base64" />
+      <last-pattern encoding="base64">c29tZXRoaW5n</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

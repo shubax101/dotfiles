@@ -1,0 +1,13 @@
+Andrej
+Imagenette
+Kaggle
+Karapthy
+Osmulski
+Radek
+fast.ai
+hyperparameters
+imagenette
+kaggle
+miniGPT
+resnet
+checksum_v1 = bc8ee62905eed6b33f0c06f34be3b8b6

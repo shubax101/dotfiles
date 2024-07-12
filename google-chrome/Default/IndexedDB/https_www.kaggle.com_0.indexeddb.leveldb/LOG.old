@@ -1,0 +1,13 @@
+2024/07/10-17:08:45.091 4978 Reusing MANIFEST /home/purex/.config/google-chrome/Default/IndexedDB/https_www.kaggle.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/10-17:08:45.091 4978 Recovering log #4
+2024/07/10-17:08:45.091 4978 Reusing old log /home/purex/.config/google-chrome/Default/IndexedDB/https_www.kaggle.com_0.indexeddb.leveldb/000004.log 
+2024/07/10-17:08:45.109 4977 Level-0 table #8: started
+2024/07/10-17:08:45.113 4977 Level-0 table #8: 4001 bytes OK
+2024/07/10-17:08:45.119 4977 Delete type=0 #4
+2024/07/10-17:08:45.120 4977 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/07/10-17:09:28.050 4978 Compacting 1@1 + 1@2 files
+2024/07/10-17:09:28.055 4978 Generated table #9@1: 40 keys, 2618 bytes
+2024/07/10-17:09:28.056 4978 Compacted 1@1 + 1@2 files => 2618 bytes
+2024/07/10-17:09:28.063 4978 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/10-17:09:28.064 4978 Delete type=2 #5
+2024/07/10-17:09:28.064 4978 Delete type=2 #8

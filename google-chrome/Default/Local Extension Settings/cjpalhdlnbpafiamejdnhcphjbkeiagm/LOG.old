@@ -1,46 +1,9 @@
-2024/07/10-08:33:43.990 10b56 Reusing MANIFEST /home/purex/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2024/07/10-08:33:43.991 10b56 Recovering log #11
-2024/07/10-08:33:43.991 10b56 Reusing old log /home/purex/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000011.log 
-2024/07/10-08:34:23.418 10b56 Level-0 table #15: started
-2024/07/10-08:34:23.453 10b56 Level-0 table #15: 5502959 bytes OK
-2024/07/10-08:34:23.460 10b56 Delete type=0 #11
-2024/07/10-08:35:20.430 10b55 Level-0 table #17: started
-2024/07/10-08:35:20.473 10b55 Level-0 table #17: 7601983 bytes OK
-2024/07/10-08:35:20.480 10b55 Delete type=0 #14
-2024/07/10-08:35:20.481 10b55 Compacting 4@0 + 1@1 files
-2024/07/10-08:35:20.494 10b55 Generated table #18@0: 6 keys, 2505333 bytes
-2024/07/10-08:35:20.516 10b55 Generated table #19@0: 8 keys, 2767703 bytes
-2024/07/10-08:35:20.536 10b55 Generated table #20@0: 3 keys, 2291452 bytes
-2024/07/10-08:35:20.581 10b55 Generated table #21@0: 2 keys, 5048332 bytes
-2024/07/10-08:35:20.590 10b55 Generated table #22@0: 7 keys, 1060786 bytes
-2024/07/10-08:35:20.591 10b55 Compacted 4@0 + 1@1 files => 13673606 bytes
-2024/07/10-08:35:20.598 10b55 compacted to: files[ 0 5 1 0 0 0 0 ]
-2024/07/10-08:35:20.598 10b55 Delete type=2 #8
-2024/07/10-08:35:20.598 10b55 Delete type=2 #10
-2024/07/10-08:35:20.598 10b55 Delete type=2 #12
-2024/07/10-08:35:20.598 10b55 Delete type=2 #15
-2024/07/10-08:35:20.598 10b55 Delete type=2 #17
-2024/07/10-08:35:20.601 10b55 Expanding@1 1+1 (2505333+4218816 bytes) to 5+1 (13673606+4218816 bytes)
-2024/07/10-08:35:20.601 10b55 Compacting 5@1 + 1@2 files
-2024/07/10-08:35:20.614 10b55 Generated table #23@1: 6 keys, 2505333 bytes
-2024/07/10-08:35:20.636 10b55 Generated table #24@1: 8 keys, 2767703 bytes
-2024/07/10-08:35:20.656 10b55 Generated table #25@1: 6 keys, 2674741 bytes
-2024/07/10-08:35:20.717 10b55 Generated table #26@1: 2 keys, 5048332 bytes
-2024/07/10-08:35:20.730 10b55 Generated table #27@1: 14 keys, 1062654 bytes
-2024/07/10-08:35:20.730 10b55 Compacted 5@1 + 1@2 files => 14058763 bytes
-2024/07/10-08:35:20.736 10b55 compacted to: files[ 0 0 5 0 0 0 0 ]
-2024/07/10-08:35:20.736 10b55 Delete type=2 #5
-2024/07/10-08:35:20.736 10b55 Delete type=2 #18
-2024/07/10-08:35:20.736 10b55 Delete type=2 #19
-2024/07/10-08:35:20.736 10b55 Delete type=2 #20
-2024/07/10-08:35:20.736 10b55 Delete type=2 #21
-2024/07/10-08:35:20.736 10b55 Delete type=2 #22
-2024/07/10-09:35:24.442 10b55 Level-0 table #29: started
-2024/07/10-09:35:24.482 10b55 Level-0 table #29: 6506685 bytes OK
-2024/07/10-09:35:24.490 10b55 Delete type=0 #16
-2024/07/10-10:34:28.797 10b56 Level-0 table #31: started
-2024/07/10-10:34:28.823 10b56 Level-0 table #31: 4524599 bytes OK
-2024/07/10-10:34:28.830 10b56 Delete type=0 #28
-2024/07/10-10:35:25.777 10b59 Level-0 table #33: started
-2024/07/10-10:35:25.819 10b59 Level-0 table #33: 7599971 bytes OK
-2024/07/10-10:35:25.827 10b59 Delete type=0 #30
+2024/07/11-21:54:45.751 5d11 Reusing MANIFEST /home/purex/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/07/11-21:54:45.753 5d11 Recovering log #53
+2024/07/11-21:54:45.753 5d11 Reusing old log /home/purex/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000053.log 
+2024/07/11-21:55:24.470 5d12 Level-0 table #63: started
+2024/07/11-21:55:24.486 5d12 Level-0 table #63: 5587594 bytes OK
+2024/07/11-21:55:24.494 5d12 Delete type=0 #53
+2024/07/11-21:56:21.510 5d11 Level-0 table #65: started
+2024/07/11-21:56:21.549 5d11 Level-0 table #65: 7056723 bytes OK
+2024/07/11-21:56:21.556 5d11 Delete type=0 #62
