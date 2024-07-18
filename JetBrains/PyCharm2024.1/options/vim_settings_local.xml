@@ -1,0 +1,117 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="scientificProject-5877dcf9">
+      <jump line="44" column="0" filename="$USER_HOME$/PycharmProjects/scientificProject/sample.ipynb" protocol="notebook" />
+      <jump line="70" column="7" filename="$USER_HOME$/PycharmProjects/scientificProject/sample.ipynb" protocol="notebook" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/scientificProject/sample.ipynb" protocol="notebook" />
+      <jump line="64" column="0" filename="$USER_HOME$/PycharmProjects/scientificProject/sample.ipynb" protocol="notebook" />
+    </project>
+    <project id="stripo-1a2960c4">
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Python/stripo/stripo.py" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/programming/Python/stripo/stripo.py" protocol="file" />
+      <jump line="7" column="40" filename="$USER_HOME$/programming/Python/stripo/stripo.py" protocol="file" />
+      <jump line="8" column="70" filename="$USER_HOME$/programming/Python/stripo/stripo.py" protocol="file" />
+      <jump line="11" column="32" filename="$USER_HOME$/programming/Python/stripo/stripo.py" protocol="file" />
+      <jump line="9" column="26" filename="$USER_HOME$/programming/Python/stripo/stripo.py" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/programming/Python/stripo/stripo.py" protocol="file" />
+      <jump line="13" column="25" filename="$USER_HOME$/programming/Python/stripo/stripo.py" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/programming/Python/stripo/stripo.py" protocol="file" />
+      <jump line="17" column="22" filename="$USER_HOME$/programming/Python/stripo/stripo.py" protocol="file" />
+      <jump line="5" column="0" filename="$USER_HOME$/programming/Python/stripo/stripo.py" protocol="file" />
+      <jump line="22" column="44" filename="$USER_HOME$/programming/Python/stripo/stripo.py" protocol="file" />
+      <jump line="21" column="19" filename="$USER_HOME$/programming/Python/stripo/stripo.py" protocol="file" />
+      <jump line="36" column="0" filename="$USER_HOME$/programming/Python/stripo/stripo.py" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/PycharmProjects/scientificProject/sample.ipynb" timestamp="1720867219202">
+        <mark key="[" line="52" column="9" />
+        <mark key="]" line="52" column="9" />
+        <mark key="^" line="52" column="14" />
+        <mark key="." line="52" column="9" />
+      </file>
+      <file name="$USER_HOME$/programming/Python/stripo/stripo.py" timestamp="1721063602330">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="10" column="39" />
+        <mark key="]" line="10" column="38" />
+        <mark key="." line="10" column="37" />
+        <mark key="^" line="10" column="38" />
+      </file>
+      <file name="/Python Console.py" timestamp="1720861644441">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/" timestamp="1720866211394">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="CHARACTER_WISE">
+        <text encoding="base64">ciJwYXltZW50X21ldGhvZF9kYXRhXFtwYXltZW50X3VzZXJfYWdlbnRcXT0oLio/KSYiLCByInBheW1lbnRfbWV0aG9kX2RhdGFcW3JlZmVycmVyXF09KC4qPykmIiwKICAgICAgICAgICAgICAgICAgIHIicGF5bWVudF9tZXRob2RfZGF0YVxbY2FyZFxdXFtjdmNcXT0oLio/KSYiLCByInBheW1lbnRfbWV0aG9kX2RhdGFcW3Bhc3RlZF9maWVsZHNcXT0oLio/KSYiLAogICAgICAgICAgICAgICAgICAgciJjYXJkXFtjdmNcXT0oLio/KSYiLCA=</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">Jg==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">aWYgIiI6Z2VvLmlzc3Vlci5jYXJkaW5hbGNvbW1lcmNlLmNvbQ==</text>
+      </register>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">YnlwYXNzX3BhdHRlcm5zID0gW3IicGF5bWVudF9tZXRob2RfZGF0YVxbcGF5bWVudF91c2VyX2FnZW50XF09KC4qPykmIiwgciJwYXltZW50X21ldGhvZF9kYXRhXFtyZWZlcnJlclxdPSguKj8pJiIsCiAgICAgICAgICAgICAgICAgICByInBheW1lbnRfbWV0aG9kX2RhdGFcW2NhcmRcXVxbY3ZjXF09KC4qPykmIiwgciJwYXltZW50X21ldGhvZF9kYXRhXFtwYXN0ZWRfZmllbGRzXF09KC4qPykmIiwKICAgICAgICAgICAgICAgICAgIHIiY2FyZFxbY3ZjXF09KC4qPykmIiwgciJwYXN0ZWRfZmllbGRzPSguKj8pJiJdCgoKZGVmIHJlcXVlc3QoZmxvdzogaHR0cC5IVFRQRmxvdykgLT4gTm9uZToKICAgICMgaWYgImFwaS5zdHJpcGUuY29tL3YxL3BheW1lbnRfaW50ZW50cy8iIGluIGZsb3cucmVxdWVzdC5wcmV0dHlfdXJsOgogICAgaWYgImFwaS5zdHJpcGUuY29tL3YxLyIgaW4gZmxvdy5yZXF1ZXN0LnByZXR0eV91cmw6CiAgICAgICAgcmVxdWVzdF9wYXlsb2FkID0gZmxvdy5yZXF1ZXN0LmdldF90ZXh0KCkKCiAgICAgICAgZm9yIHBhdHRlcm4gaW4gYnlwYXNzX3BhdHRlcm5zOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICByZXF1ZXN0X3BheWxvYWQgPSByZS5zdWIocGF0dGVybiwgJycsIHJlcXVlc3RfcGF5bG9hZCkKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICAgICAgcHJpbnQoIiIpCgogICAgICAgIGZsb3cucmVxdWVzdC50ZXh0ID0gcmVxdWVzdF9wYXlsb2FkCg==</text>
+      </register>
+      <register name="1" type="CHARACTER_WISE">
+        <text encoding="base64">ciJwYXltZW50X21ldGhvZF9kYXRhXFtwYXltZW50X3VzZXJfYWdlbnRcXT0oLio/KSYiLCByInBheW1lbnRfbWV0aG9kX2RhdGFcW3JlZmVycmVyXF09KC4qPykmIiwKICAgICAgICAgICAgICAgICAgIHIicGF5bWVudF9tZXRob2RfZGF0YVxbY2FyZFxdXFtjdmNcXT0oLio/KSYiLCByInBheW1lbnRfbWV0aG9kX2RhdGFcW3Bhc3RlZF9maWVsZHNcXT0oLio/KSYiLAogICAgICAgICAgICAgICAgICAgciJjYXJkXFtjdmNcXT0oLio/KSYiLCA=</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgIHRyeToK</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHByaW50KCJGYWlsZWQgdG8iKQo=</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6Cg==</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIiIpCg==</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICBwcmludCgiQllQQVNTSU5HIikK</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgZmFsc2VfZGV0ZWN0aW9ucy5hcHBlbmQoaW1nX2Rlc3QpCg==</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-offset encoding="base64" />
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

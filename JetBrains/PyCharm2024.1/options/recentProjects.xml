@@ -1,0 +1,42 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/scientificProject">
+          <value>
+            <RecentProjectMetaInfo frameTitle="scientificProject – sample.ipynb" projectWorkspaceId="2jBXr2Ph0BEz4dcqgNe5xTGuTrq">
+              <option name="activationTimestamp" value="1720867547779" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-241.18034.82" />
+              <option name="buildTimestamp" value="1719250980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="1932" y="51" width="1896" height="1017" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1720861640434" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/programming/Python/stripo">
+          <value>
+            <RecentProjectMetaInfo frameTitle="stripo – stripo.py" opened="true" projectWorkspaceId="2j464JPfixCLwaOuyVaWpJr1cNM">
+              <option name="activationTimestamp" value="1721069760599" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-241.18034.82" />
+              <option name="buildTimestamp" value="1719250980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="2884" y="51" width="944" height="1017" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1720886303287" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/programming/Python/stripo" />
+    <option name="lastProjectLocation" value="$USER_HOME$/PycharmProjects" />
+  </component>
+</application>

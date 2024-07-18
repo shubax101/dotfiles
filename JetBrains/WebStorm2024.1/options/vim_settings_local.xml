@@ -1,0 +1,133 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="stripo-8c9a613">
+      <jump line="20" column="17" filename="$USER_HOME$/programming/Javascript/stripo/background.js" protocol="file" />
+      <jump line="23" column="0" filename="$USER_HOME$/programming/Javascript/stripo/background.js" protocol="file" />
+      <jump line="13" column="17" filename="$USER_HOME$/programming/Javascript/stripo/background.js" protocol="file" />
+      <jump line="7" column="34" filename="$USER_HOME$/programming/Javascript/stripo/background.js" protocol="file" />
+      <jump line="4" column="19" filename="$USER_HOME$/programming/Javascript/stripo/background.js" protocol="file" />
+      <jump line="9" column="0" filename="$USER_HOME$/programming/Javascript/stripo/background.js" protocol="file" />
+      <jump line="2" column="31" filename="$USER_HOME$/programming/Javascript/stripo/background.js" protocol="file" />
+      <jump line="23" column="0" filename="$USER_HOME$/programming/Javascript/stripo/manifest.json" protocol="file" />
+      <jump line="16" column="22" filename="$USER_HOME$/programming/Javascript/stripo/background.js" protocol="file" />
+      <jump line="14" column="13" filename="$USER_HOME$/programming/Javascript/stripo/background.js" protocol="file" />
+      <jump line="28" column="0" filename="$USER_HOME$/programming/Javascript/stripo/background.js" protocol="file" />
+      <jump line="3" column="43" filename="$USER_HOME$/programming/Javascript/stripo/background.js" protocol="file" />
+      <jump line="5" column="8" filename="$USER_HOME$/programming/Javascript/stripo/background.js" protocol="file" />
+      <jump line="14" column="0" filename="$USER_HOME$/programming/Javascript/stripo/manifest.json" protocol="file" />
+      <jump line="31" column="27" filename="$USER_HOME$/programming/Javascript/stripo/background.js" protocol="file" />
+      <jump line="29" column="0" filename="$USER_HOME$/programming/Javascript/stripo/background.js" protocol="file" />
+      <jump line="26" column="16" filename="$USER_HOME$/programming/Javascript/stripo/background.js" protocol="file" />
+      <jump line="1" column="22" filename="$USER_HOME$/programming/Javascript/stripo/manifest.json" protocol="file" />
+      <jump line="20" column="0" filename="$USER_HOME$/programming/Javascript/stripo/rules.json" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Javascript/stripo/rules.json" protocol="file" />
+      <jump line="19" column="0" filename="$USER_HOME$/programming/Javascript/stripo/rules.json" protocol="file" />
+      <jump line="8" column="34" filename="$USER_HOME$/programming/Javascript/stripo/background.js" protocol="file" />
+      <jump line="10" column="8" filename="$USER_HOME$/programming/Javascript/stripo/background.js" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Javascript/stripo/background.js" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Javascript/stripo/content.js" protocol="file" />
+      <jump line="25" column="0" filename="$USER_HOME$/programming/Javascript/stripo/manifest.json" protocol="file" />
+      <jump line="24" column="2" filename="$USER_HOME$/programming/Javascript/stripo/manifest.json" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Javascript/stripo/manifest.json" protocol="file" />
+      <jump line="34" column="0" filename="$USER_HOME$/programming/Javascript/stripo/manifest.json" protocol="file" />
+      <jump line="7" column="4" filename="$USER_HOME$/programming/Javascript/stripo/manifest.json" protocol="file" />
+      <jump line="25" column="0" filename="$USER_HOME$/programming/Javascript/stripo/background.js" protocol="file" />
+      <jump line="13" column="4" filename="$USER_HOME$/programming/Javascript/stripo/content.js" protocol="file" />
+      <jump line="7" column="30" filename="$USER_HOME$/programming/Javascript/stripo/content.js" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/programming/Javascript/stripo/content.js" timestamp="1720888348557">
+        <mark key="[" line="3" column="91" />
+        <mark key="]" line="3" column="92" />
+        <mark key="^" line="3" column="92" />
+        <mark key="." line="3" column="91" />
+      </file>
+      <file name="$USER_HOME$/programming/Javascript/stripo/manifest.json" timestamp="1720888242988">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/programming/Javascript/stripo/background.js" timestamp="1720888153042">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/programming/Javascript/stripo/rules.json" timestamp="1720888138023">
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="19" column="1" />
+        <mark key="." line="19" column="1" />
+        <mark key="^" line="19" column="0" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="CHARACTER_WISE">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">KQ==</text>
+      </register>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">ICAvLyBsZXQgYm9keVN0cmluZyA9IGRlY29kZXIuZGVjb2RlKHJlcXVlc3RCb2R5LnJhd1swXS5ieXRlcyk7Cg==</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">ICAgICJob3N0UGVybWlzc2lvbnMiLAo=</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">ewogICJtYW5pZmVzdF92ZXJzaW9uIjogMywKICAibmFtZSI6ICJQYXlsb2FkIE1vZGlmaWVyIiwKICAidmVyc2lvbiI6ICIxLjAiLAogICJwZXJtaXNzaW9ucyI6IFsKICAgICJkZWNsYXJhdGl2ZU5ldFJlcXVlc3QiLAogICAgImRlY2xhcmF0aXZlTmV0UmVxdWVzdFdpdGhIb3N0QWNjZXNzIiwKICAgICJob3N0UGVybWlzc2lvbnMiCiAgXSwKICAiaG9zdF9wZXJtaXNzaW9ucyI6IFsKICAgICJodHRwOi8vKi8qIiwKICAgICJodHRwczovLyovKiIKICBdLAogICJiYWNrZ3JvdW5kIjogewogICAgInNlcnZpY2Vfd29ya2VyIjogImJhY2tncm91bmQuanMiCiAgfSwKICAiZGVjbGFyYXRpdmVfbmV0X3JlcXVlc3QiOiB7CiAgICAicnVsZV9yZXNvdXJjZXMiOiBbCiAgICAgIHsKICAgICAgICAiaWQiOiAicnVsZXNldF8xIiwKICAgICAgICAiZW5hYmxlZCI6IHRydWUsCiAgICAgICAgInBhdGgiOiAicnVsZXMuanNvbiIKICAgICAgfQogICAgXQogIH0KfQo=</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">Y2hyb21lLndlYlJlcXVlc3Qub25CZWZvcmVSZXF1ZXN0LmFkZExpc3RlbmVyKAogIGZ1bmN0aW9uKGRldGFpbHMpIHsKICAgIGlmIChkZXRhaWxzLm1ldGhvZCA9PT0gIlBPU1QiICYmIGRldGFpbHMucmVxdWVzdEJvZHkpIHsKICAgICAgbGV0IGZvcm1EYXRhID0gZGV0YWlscy5yZXF1ZXN0Qm9keS5mb3JtRGF0YTsKICAgICAgbGV0IG1vZGlmaWVkRGF0YSA9IG5ldyBGb3JtRGF0YSgpOwoKICAgICAgZm9yIChsZXQga2V5IGluIGZvcm1EYXRhKSB7CiAgICAgICAgaWYgKGZvcm1EYXRhLmhhc093blByb3BlcnR5KGtleSkpIHsKICAgICAgICAgIGxldCBuZXdWYWx1ZSA9IG1vZGlmeVBheWxvYWQoa2V5LCBmb3JtRGF0YVtrZXldKTsKICAgICAgICAgIG1vZGlmaWVkRGF0YS5hcHBlbmQoa2V5LCBuZXdWYWx1ZSk7CiAgICAgICAgfQogICAgICB9CgogICAgICAvLyBDcmVhdGUgYSBuZXcgcmVxdWVzdCB3aXRoIHRoZSBtb2RpZmllZCBmb3JtIGRhdGEKICAgICAgbGV0IHhociA9IG5ldyBYTUxIdHRwUmVxdWVzdCgpOwogICAgICB4aHIub3BlbigiUE9TVCIsIGRldGFpbHMudXJsLCB0cnVlKTsKICAgICAgeGhyLnNlbmQobW9kaWZpZWREYXRhKTsKCiAgICAgIHJldHVybiB7IGNhbmNlbDogdHJ1ZSB9OwogICAgfQogIH0sCiAgeyB1cmxzOiBbIjxhbGxfdXJscz4iXSB9LAogIFsiYmxvY2tpbmciLCAicmVxdWVzdEJvZHkiXQopOwoKZnVuY3Rpb24gbW9kaWZ5UGF5bG9hZChrZXksIHZhbHVlKSB7CiAgLy8gWW91ciBsb2dpYyB0byBtb2RpZnkgdGhlIHBheWxvYWQKICByZXR1cm4gdmFsdWUgKyAiX21vZGlmaWVkIjsKfQo=</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">WwogIHsKICAgICJpZCI6IDEsCiAgICAicHJpb3JpdHkiOiAxLAogICAgImFjdGlvbiI6IHsKICAgICAgInR5cGUiOiAibW9kaWZ5SGVhZGVycyIsCiAgICAgICJyZXF1ZXN0SGVhZGVycyI6IFsKICAgICAgICB7CiAgICAgICAgICAiaGVhZGVyIjogIkNvbnRlbnQtVHlwZSIsCiAgICAgICAgICAib3BlcmF0aW9uIjogInNldCIsCiAgICAgICAgICAidmFsdWUiOiAiYXBwbGljYXRpb24vanNvbiIKICAgICAgICB9CiAgICAgIF0KICAgIH0sCiAgICAiY29uZGl0aW9uIjogewogICAgICAidXJsRmlsdGVyIjogIioiLAogICAgICAicmVzb3VyY2VUeXBlcyI6IFsieG1saHR0cHJlcXVlc3QiXQogICAgfQogIH0KXQo=</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">ewo=</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-offset encoding="base64" />
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

@@ -1,0 +1,58 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="3" l="1720883391186" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="1" l="1720887895337" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="3" l="1720887897595" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="22" l="1720888308371" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="4" l="1720888271764" />
+    </e>
+    <e n="EditorCopy">
+      <i c="2" l="1720883547801" />
+    </e>
+    <e n="EditorEnter">
+      <i c="6" l="1720888266718" />
+    </e>
+    <e n="InsertInlineCompletionAction">
+      <i c="3" l="1720888282814" />
+    </e>
+    <e n="NewFile">
+      <i c="2" l="1720887617052" />
+    </e>
+    <e n="NewJavaScriptFile">
+      <i c="3" l="1720888179737" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="15" l="1720888207669" />
+    </e>
+    <e n="ReformatCode">
+      <i c="1" l="1720883493123" />
+    </e>
+    <e n="SaveAll">
+      <i c="23" l="1720888351803" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1720883550060" />
+    </e>
+    <e n="WelcomeScreen.Plugins">
+      <i c="1" l="1720883551362" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="50" l="1720888348554" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1720883210708" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="23" l="1720888351794" />
+    </e>
+  </component>
+</application>

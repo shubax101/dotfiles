@@ -1,0 +1,41 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Downloads/extension">
+          <value>
+            <RecentProjectMetaInfo frameTitle="extension – captchaDetector.js" projectWorkspaceId="2jCFZRlYfqtGqkeIh4O3tqTrKMX">
+              <option name="activationTimestamp" value="1720887185067" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-241.18034.50" />
+              <option name="buildTimestamp" value="1718794200000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="1932" y="564" width="944" height="504" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1720883208179" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/programming/Javascript/stripo">
+          <value>
+            <RecentProjectMetaInfo frameTitle="stripo – content.js" opened="true" projectWorkspaceId="2jCNk2McP8B2pDQRtH7O1UwBHEp">
+              <option name="activationTimestamp" value="1720888443962" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-241.18034.50" />
+              <option name="buildTimestamp" value="1718794200000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="1932" y="51" width="1896" height="1017" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1720887239375" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/programming/Javascript/stripo" />
+  </component>
+</application>
