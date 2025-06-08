@@ -1,0 +1,11 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$" value="true" />
+        <entry key="$USER_HOME$/RustroverProjects/untitled" value="true" />
+        <entry key="$USER_HOME$/programming/Rust/vsd" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

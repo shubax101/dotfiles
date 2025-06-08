@@ -1,0 +1,57 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/programming/Go/Projects/shopify/go-shopify">
+          <value>
+            <RecentProjectMetaInfo frameTitle="go-shopify – shopify/main.go" projectWorkspaceId="2gE6UdwblbIybkLpiubKhOnYpLy">
+              <option name="activationTimestamp" value="1721631879081" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-241.18034.61" />
+              <option name="buildTimestamp" value="1718905560000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="964" y="564" width="948" height="508" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1721541285063" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/programming/Go/Projects/pure_lib">
+          <value>
+            <RecentProjectMetaInfo frameTitle="pure_lib – 455986431038.txt" projectWorkspaceId="2hcrMFMoptrLFk3QHH9yNtMczqn">
+              <option name="activationTimestamp" value="1723020673233" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-241.18968.32" />
+              <option name="buildTimestamp" value="1722920940000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="2892" y="47" width="948" height="1025" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1723013793130" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/programming/Go/Projects/spectrum">
+          <value>
+            <RecentProjectMetaInfo frameTitle="spectrum – gate.go" opened="true" projectWorkspaceId="2jXue6k0yuMgcHTthJoyARYTlnP">
+              <option name="activationTimestamp" value="1723021283399" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-241.18968.32" />
+              <option name="buildTimestamp" value="1722920940000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="1928" y="47" width="1904" height="1025" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1723017817069" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/programming/Go/Projects/spectrum" />
+  </component>
+</application>

@@ -20,22 +20,39 @@
         </entry>
         <entry key="$USER_HOME$/programming/Javascript/stripo">
           <value>
-            <RecentProjectMetaInfo frameTitle="stripo – content.js" opened="true" projectWorkspaceId="2jCNk2McP8B2pDQRtH7O1UwBHEp">
-              <option name="activationTimestamp" value="1720888443962" />
+            <RecentProjectMetaInfo frameTitle="stripo – content.js" projectWorkspaceId="2jCNk2McP8B2pDQRtH7O1UwBHEp">
+              <option name="activationTimestamp" value="1722131425608" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-241.18034.50" />
               <option name="buildTimestamp" value="1718794200000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="4" />
               </option>
-              <frame x="1932" y="51" width="1896" height="1017" />
+              <frame x="1928" y="47" width="1904" height="1025" />
               <option name="productionCode" value="WS" />
               <option name="projectOpenTimestamp" value="1720887239375" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/WebstormProjects/braintree-reverse">
+          <value>
+            <RecentProjectMetaInfo frameTitle="braintree-reverse – reverse.js" opened="true" projectWorkspaceId="2jr3Znf2kX1KVKCOKxJKsDABqOR">
+              <option name="activationTimestamp" value="1722268780190" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-241.18034.50" />
+              <option name="buildTimestamp" value="1718794200000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="2884" y="47" width="948" height="1025" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1722131426455" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/programming/Javascript/stripo" />
+    <option name="lastOpenedProject" value="$USER_HOME$/WebstormProjects/braintree-reverse" />
+    <option name="lastProjectLocation" value="$USER_HOME$/WebstormProjects" />
   </component>
 </application>

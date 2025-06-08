@@ -1,5 +1,11 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="2" l="1722267708885" />
+    </e>
+    <e n="$SelectAll">
+      <i c="3" l="1722268531797" />
+    </e>
     <e n="$Undo">
       <i c="3" l="1720883391186" />
     </e>
@@ -9,8 +15,14 @@
     <e n="CommentByLineComment">
       <i c="3" l="1720887897595" />
     </e>
+    <e n="CopyAsPlainText">
+      <i c="1" l="1722131522233" />
+    </e>
+    <e n="CopyReferencePopupGroup">
+      <i c="2" l="1722132566509" />
+    </e>
     <e n="EditorBackSpace">
-      <i c="22" l="1720888308371" />
+      <i c="32" l="1722268531929" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="4" l="1720888271764" />
@@ -21,6 +33,15 @@
     <e n="EditorEnter">
       <i c="6" l="1720888266718" />
     </e>
+    <e n="EditorIncreaseFontSizeGlobal">
+      <i c="1" l="1722132087742" />
+    </e>
+    <e n="FindInPath">
+      <i c="10" l="1722268523692" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="17" l="1722267983880" />
+    </e>
     <e n="InsertInlineCompletionAction">
       <i c="3" l="1720888282814" />
     </e>
@@ -28,31 +49,64 @@
       <i c="2" l="1720887617052" />
     </e>
     <e n="NewJavaScriptFile">
-      <i c="3" l="1720888179737" />
+      <i c="5" l="1722267589125" />
+    </e>
+    <e n="NewProject">
+      <i c="1" l="1722131410619" />
     </e>
     <e n="PasteMultiple">
-      <i c="15" l="1720888207669" />
+      <i c="18" l="1722268778063" />
     </e>
     <e n="ReformatCode">
-      <i c="1" l="1720883493123" />
+      <i c="2" l="1722132386363" />
     </e>
     <e n="SaveAll">
-      <i c="23" l="1720888351803" />
+      <i c="25" l="1722268784360" />
     </e>
     <e n="SettingsEntryPoint">
       <i c="1" l="1720883550060" />
     </e>
+    <e n="SilentCodeCleanup">
+      <i c="1" l="1722132379499" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1722132862903" />
+    </e>
     <e n="WelcomeScreen.Plugins">
       <i c="1" l="1720883551362" />
     </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
+      <i c="3" l="1722267830894" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
+      <i c="4" l="1722267625356" />
+    </e>
     <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
-      <i c="50" l="1720888348554" />
+      <i c="166" l="1722268781901" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1722268533108" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1722132363936" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
       <i c="1" l="1720883210708" />
     </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="101" l="1722267655367" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveUpAction">
+      <i c="29" l="1722267656569" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
+      <i c="5" l="1722131471562" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
+      <i c="5" l="1722131471832" />
+    </e>
     <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
-      <i c="23" l="1720888351794" />
+      <i c="25" l="1722268784133" />
     </e>
   </component>
 </application>

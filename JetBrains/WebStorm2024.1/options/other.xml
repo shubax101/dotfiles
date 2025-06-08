@@ -7,8 +7,9 @@
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
     "GeneralSettings.initiallyConfigured": "true",
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "4",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "5",
     "LayoutCode.optimizeImports": "false",
+    "LayoutCode.rearrangeEntries": "true",
     "MarketplacePluginsSearchHistory": "idea\nv",
     "RunOnceActivity.llm.installer.activate.toolwindow": "true",
     "RunOnceActivity.webstorm.auto-popup.quick-doc.initialized": "true",
@@ -24,9 +25,10 @@
     "fontSizeToResetEditor": "13.0",
     "ide.memory.adjusted": "true",
     "ide.updates.previous.build.number": "WS-241.18034.50",
-    "ideavim.statistics.timestamp": "1720887389106",
+    "ideavim.statistics.timestamp": "1722267596169",
     "input.method.disabler.muted": "true",
     "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
     "previousColorScheme": "_@user_Dark",
     "registry.to.advanced.settings.migration.build": "WS-241.18034.50",
     "ts.lib.d.ts.version": "5.4.3"

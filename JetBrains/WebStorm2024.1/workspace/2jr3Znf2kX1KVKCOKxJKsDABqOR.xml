@@ -1,0 +1,142 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="braintree-reverse" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3f5p8toeo4pkg" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reverse.js">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="920">
+              <caret line="815" column="58" selection-start-line="815" selection-start-column="58" selection-end-line="815" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/xendit.js">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="882">
+              <caret line="93943" column="41" selection-start-line="93943" selection-start-column="41" selection-end-line="93943" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JavaScript": {
+      "usageCount": 3,
+      "lastUsed": 1722267594163
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>braintree</find>
+      <find>Bearer</find>
+      <find>Basic</find>
+      <find>publishable</find>
+      <find>i.auth</find>
+      <find />
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="moduleName" value="braintree-reverse" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/reverse.js" />
+      <option value="$PROJECT_DIR$/xendit.js" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JavaScript">
+      <summary usageCount="3" lastUsage="1722267594163" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="braintree-reverse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/purex/WebstormProjects/braintree-reverse}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3684000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12526041" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights left="0.12526041" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="698" y="280" width="524" height="558" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1722268779514">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="280" width="524" height="558" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1722268779514" />
+    <state x="2618" y="280" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1722131442136" />
+    <state x="802" y="216" width="723" height="864" key="find.popup" timestamp="1722268533109">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="802" y="216" width="723" height="864" key="find.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1722268533109" />
+    <state x="2722" y="216" width="649" height="864" key="find.popup/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1722132942985" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/reverse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="815" column="58" selection-start-line="815" selection-start-column="58" selection-end-line="815" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xendit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="93943" column="41" selection-start-line="93943" selection-start-column="41" selection-end-line="93943" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,4 +1,9 @@
 [EmbedSettings]
+embed-application/pdf=false
 embed-application/toml=false
+embed-application/x-mimearchive=false
 embed-text/markdown=false
 embed-text/plain=false
+embed-video/mp2t=false
+embed-video/mp4=false
+embed-video/x-matroska=false

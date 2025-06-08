@@ -1,0 +1,27 @@
+
+-------- SESSION 2025-01-15T12:12:51.550Z (24.10.01101+202410201932, linux, x64, 16592818176, XMIND LTD., vana_linux) --------
+[I 2025-01-15T12:12:51.569Z main:store:plugins:electron] current pid is "177712"
+[I 2025-01-15T12:12:51.571Z usage-stats] sync data
+[I 2025-01-15T12:12:51.634Z auto-updater] current version is "24.10.1101"
+[I 2025-01-15T12:12:52.019Z main:store:plugins:electron] Application will finish launching.
+[I 2025-01-15T12:12:52.024Z main:store:plugins:electron] Application arguments: ["/opt/Xmind/xmind"]
+[I 2025-01-15T12:12:52.029Z main:store:plugins:electron] Application is ready.
+[I 2025-01-15T12:12:52.196Z main:store:plugins:electron] Device ID: 5ad5fd31-0040-431f-81f3-a913106bba04
+[I 2025-01-15T12:13:18.329Z main:store:plugins:electron] Application receives arguments from another instance: ["/opt/Xmind/xmind","--allow-file-access-from-files","xmind-zen://login/google?session_id=rhABnrWSAoURJPxvxIWvBFitXPiI"] /home/purex
+[I 2025-01-15T12:20:28.547Z main:store:plugins:open-handler] Recover: Map(0) {}
+[I 2025-01-15T12:20:28.550Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2025-01-15T12:20:28.550Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2025-01-15T12:20:28.550Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2025-01-15T12:20:28.550Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2025-01-15T12:20:28.570Z main:store:plugins:open-handler] Open: xmind-zen://login/google?session_id=rhABnrWSAoURJPxvxIWvBFitXPiI
+[I 2025-01-15T12:20:28.621Z main:store:plugins:electron] All windows closed. Quit application....
+[I 2025-01-15T12:20:28.621Z main:store:plugins:electron] Application is intended to quit.
+[I 2025-01-15T12:20:28.621Z main:store:plugins:electron] Application status is quitting:  false
+[I 2025-01-15T12:20:28.622Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2025-01-15T12:20:28.622Z main:store:plugins:electron] All documents are closed.
+[I 2025-01-15T12:20:28.622Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2025-01-15T12:20:28.622Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2025-01-15T12:20:28.626Z main:store:plugins:electron] Application is intended to quit.
+[I 2025-01-15T12:20:28.627Z main:store:plugins:electron] Application status is quitting:  true
+[I 2025-01-15T12:20:28.627Z main:store:plugins:electron] Application will quit.
+[I 2025-01-15T12:20:28.627Z main:store:plugins:electron] Application quitted.

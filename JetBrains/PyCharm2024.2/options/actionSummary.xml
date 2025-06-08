@@ -1,0 +1,241 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="19" l="1728036941840" />
+    </e>
+    <e n="$Delete">
+      <i c="8" l="1728036769577" />
+    </e>
+    <e n="$Redo">
+      <i c="3" l="1723960884918" />
+    </e>
+    <e n="$SelectAll">
+      <i c="5" l="1728796580457" />
+    </e>
+    <e n="$Undo">
+      <i c="9" l="1728796582829" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="91" l="1728038056945" />
+    </e>
+    <e n="BraceOrQuoteOut">
+      <i c="1" l="1725809081689" />
+    </e>
+    <e n="ChangeLaf">
+      <i c="1" l="1720861771837" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="4" l="1727839143008" />
+    </e>
+    <e n="CollapseSelection">
+      <i c="1" l="1728039995206" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="82" l="1728040018181" />
+    </e>
+    <e n="Console.TableResult.ChooseExtractor">
+      <i c="1" l="1723950006691" />
+    </e>
+    <e n="Console.TableResult.DeleteRows">
+      <i c="1" l="1723950017858" />
+    </e>
+    <e n="Console.TableResult.Options">
+      <i c="1" l="1725417243491" />
+    </e>
+    <e n="ConsoleView.ClearAll">
+      <i c="1" l="1720866272128" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="976" l="1728796447640" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="264" l="1728038059172" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="2" l="1723914783667" />
+    </e>
+    <e n="EditorCopy">
+      <i c="164" l="1725417358212" />
+    </e>
+    <e n="EditorDecreaseFontSizeGlobal">
+      <i c="8" l="1723599388110" />
+    </e>
+    <e n="EditorDelete">
+      <i c="1" l="1727780308118" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="205" l="1727976363404" />
+    </e>
+    <e n="EditorDown">
+      <i c="143" l="1728038016399" />
+    </e>
+    <e n="EditorEnter">
+      <i c="374" l="1728038052037" />
+    </e>
+    <e n="EditorGutterToggleGlobalLineNumbers">
+      <i c="3" l="1720863354829" />
+    </e>
+    <e n="EditorIncreaseFontSizeGlobal">
+      <i c="9" l="1723599387335" />
+    </e>
+    <e n="EditorLeft">
+      <i c="7" l="1720862886041" />
+    </e>
+    <e n="EditorPaste">
+      <i c="6" l="1728796581075" />
+    </e>
+    <e n="EditorRight">
+      <i c="3" l="1721880439618" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="3" l="1727776739581" />
+    </e>
+    <e n="EditorTab">
+      <i c="1" l="1727976672218" />
+    </e>
+    <e n="EditorTabsEntryPoint">
+      <i c="7" l="1725026522134" />
+    </e>
+    <e n="EditorUp">
+      <i c="19" l="1727839102560" />
+    </e>
+    <e n="EnableNewUi">
+      <i c="1" l="1720861729384" />
+    </e>
+    <e n="FileChooser.TogglePathBar">
+      <i c="1" l="1727713953020" />
+    </e>
+    <e n="FindInPath">
+      <i c="1" l="1722746657278" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="17" l="1727838858442" />
+    </e>
+    <e n="GotoFile">
+      <i c="1" l="1723950011916" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="1" l="1723961908469" />
+    </e>
+    <e n="InsertInlineCompletionAction">
+      <i c="137" l="1728038017734" />
+    </e>
+    <e n="JupyterInterruptKernelAction">
+      <i c="3" l="1720865788946" />
+    </e>
+    <e n="JupyterNotebookCopyCellCommandModeAction">
+      <i c="1" l="1720861711997" />
+    </e>
+    <e n="JupyterNotebookInsertCellAboveCommandModeAction">
+      <i c="1" l="1720861711022" />
+    </e>
+    <e n="NewFile">
+      <i c="3" l="1727976318919" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="3" l="1723600209887" />
+    </e>
+    <e n="NotebookCellBorderInsertCellAboveAction">
+      <i c="1" l="1720863070704" />
+    </e>
+    <e n="NotebookDeleteCellAction">
+      <i c="6" l="1720866987400" />
+    </e>
+    <e n="NotebookOutputCollapseSingleInCellAction">
+      <i c="13" l="1720863586588" />
+    </e>
+    <e n="NotebookRunAllAction">
+      <i c="1" l="1720866936611" />
+    </e>
+    <e n="NotebookRunCellAction">
+      <i c="36" l="1720867221319" />
+    </e>
+    <e n="NotebookRunCellSelectBelowAction">
+      <i c="2" l="1720862365809" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="67" l="1728037210624" />
+    </e>
+    <e n="RenameElement">
+      <i c="3" l="1721880433513" />
+    </e>
+    <e n="Rerun">
+      <i c="1" l="1723393153689" />
+    </e>
+    <e n="SaveAll">
+      <i c="583" l="1728791385818" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="16" l="1727778344889" />
+    </e>
+    <e n="ShowSettings">
+      <i c="13" l="1727778346089" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="4" l="1723599473285" />
+    </e>
+    <e n="com.intellij.ide.actions.QuickChangeLookAndFeel$LafChangeAction">
+      <i c="1" l="1720861773890" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="4" l="1727976298642" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="2265" l="1728791382878" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
+      <i c="2" l="1720866358151" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="54" l="1727976565477" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="2" l="1723950014050" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="5" l="1728796615442" />
+    </e>
+    <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$3">
+      <i c="1" l="1720861689175" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.DockToolWindowAction">
+      <i c="1" l="1723916311244" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="20" l="1727976418516" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="3" l="1723599402792" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="2" l="1721739511570" />
+    </e>
+    <e n="com.intellij.terminal.actions.TerminalActionWrapper">
+      <i c="3" l="1723599255096" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="4" l="1724948419265" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="5" l="1728917599903" />
+    </e>
+    <e n="com.jetbrains.python.sdk.AddLocalInterpreterAction">
+      <i c="9" l="1727976306942" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="585" l="1728791385627" />
+    </e>
+    <e n="org.jetbrains.plugins.notebooks.editor.actions.InlayToolbarActionWrapper">
+      <i c="2" l="1720866359413" />
+    </e>
+    <e n="org.jetbrains.plugins.notebooks.jupyter.actions.JupyterCellTypeComboBox">
+      <i c="3" l="1720862617800" />
+    </e>
+    <e n="org.jetbrains.plugins.notebooks.jupyter.editor.JupyterAddCellButtonActionDelegate">
+      <i c="13" l="1720867214826" />
+    </e>
+    <e n="org.jetbrains.plugins.notebooks.jupyter.editor.JupyterKernelManagementAction">
+      <i c="1" l="1720862428397" />
+    </e>
+  </component>
+</application>

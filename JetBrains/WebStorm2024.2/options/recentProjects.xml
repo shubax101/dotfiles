@@ -1,0 +1,106 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Downloads/extension">
+          <value>
+            <RecentProjectMetaInfo frameTitle="extension – captchaDetector.js" projectWorkspaceId="2jCFZRlYfqtGqkeIh4O3tqTrKMX">
+              <option name="activationTimestamp" value="1720887185067" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-241.18034.50" />
+              <option name="buildTimestamp" value="1718794200000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="1932" y="564" width="944" height="504" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1720883208179" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/programming/Javascript/stripo">
+          <value>
+            <RecentProjectMetaInfo frameTitle="stripo – content.js" projectWorkspaceId="2jCNk2McP8B2pDQRtH7O1UwBHEp">
+              <option name="activationTimestamp" value="1722131425608" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-241.18034.50" />
+              <option name="buildTimestamp" value="1718794200000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="1928" y="47" width="1904" height="1025" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1720887239375" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WebstormProjects/braintree-reverse">
+          <value>
+            <RecentProjectMetaInfo frameTitle="braintree-reverse – reverse.js" projectWorkspaceId="2jr3Znf2kX1KVKCOKxJKsDABqOR">
+              <option name="activationTimestamp" value="1722268780190" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-241.18034.50" />
+              <option name="buildTimestamp" value="1718794200000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="2884" y="47" width="948" height="1025" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1722131426455" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/movies_project1/my-app">
+          <value>
+            <RecentProjectMetaInfo frameTitle="my-app – Header.js" projectWorkspaceId="2kkLsedgLot1be0mTKv1NLIObYO">
+              <option name="activationTimestamp" value="1723827381249" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-242.20224.342" />
+              <option name="buildTimestamp" value="1723172580000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="1928" y="47" width="1904" height="1025" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1723822835588" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/programming/extensions/hard m3u8">
+          <value>
+            <RecentProjectMetaInfo frameTitle="hard m3u8" projectWorkspaceId="2mxbMyvxkruAogxsV9pEJV1JTFM">
+              <option name="activationTimestamp" value="1728021469816" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-242.22855.79" />
+              <option name="buildTimestamp" value="1726666980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="1928" y="47" width="948" height="509" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1728021133821" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/programming/extensions/hard_m3u8">
+          <value>
+            <RecentProjectMetaInfo frameTitle="hard_m3u8 – contenst.js" opened="true" projectWorkspaceId="2mxcxEidSSKWoxgN9g7aUn3cbpf">
+              <option name="activationTimestamp" value="1728026879539" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-242.22855.79" />
+              <option name="buildTimestamp" value="1726666980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="1928" y="47" width="948" height="509" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1728021912837" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/programming/extensions/hard_m3u8" />
+    <option name="lastProjectLocation" value="$USER_HOME$/WebstormProjects" />
+  </component>
+</application>

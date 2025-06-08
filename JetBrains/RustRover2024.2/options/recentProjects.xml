@@ -1,0 +1,42 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/RustroverProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled – main.rs" projectWorkspaceId="2jYdfrLIESjVGz9ehqzHwsztDbO">
+              <option name="activationTimestamp" value="1721568113284" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RR-241.17890.39" />
+              <option name="buildTimestamp" value="1720773960000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="1928" y="47" width="1904" height="1025" />
+              <option name="productionCode" value="RR" />
+              <option name="projectOpenTimestamp" value="1721568051686" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/programming/Rust/vsd">
+          <value>
+            <RecentProjectMetaInfo frameTitle="vsd – downloader/mod.rs" opened="true" projectWorkspaceId="2nmQns7DA8crmYsopcUIz8O41A3">
+              <option name="activationTimestamp" value="1729584477568" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RR-242.22855.133" />
+              <option name="buildTimestamp" value="1727712240000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="2884" y="47" width="948" height="1025" />
+              <option name="productionCode" value="RR" />
+              <option name="projectOpenTimestamp" value="1729575942562" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/programming/Rust/vsd" />
+    <option name="lastProjectLocation" value="$USER_HOME$/RustroverProjects" />
+  </component>
+</application>

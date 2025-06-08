@@ -1,0 +1,23 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$" value="true" />
+        <entry key="$USER_HOME$/programming/Go/Projects/bins-go" value="true" />
+        <entry key="$USER_HOME$/programming/Go/Projects/carrerwill" value="true" />
+        <entry key="$USER_HOME$/programming/Go/Projects/go-parser" value="true" />
+        <entry key="$USER_HOME$/programming/Go/Projects/pure_lib" value="true" />
+        <entry key="$USER_HOME$/programming/Go/Projects/shopify/go-shopify" value="true" />
+        <entry key="$USER_HOME$/programming/Go/Projects/spectrum" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/programming/Go/Projects/shopify" />
+        <option value="$USER_HOME$/programming/Go/Projects" />
+      </list>
+    </option>
+  </component>
+</application>

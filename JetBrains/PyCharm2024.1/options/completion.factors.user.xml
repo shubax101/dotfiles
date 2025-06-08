@@ -11,6 +11,12 @@
         <observation name="explicitSelect" value="6.0" />
         <observation name="typedSelect" value="11.0" />
       </dailyData>
+      <dailyData date="25-07-2024">
+        <observation name="cancelled" value="2.0" />
+      </dailyData>
+      <dailyData date="11-08-2024">
+        <observation name="typedSelect" value="3.0" />
+      </dailyData>
     </factor>
     <factor id="completionType">
       <dailyData date="13-07-2024">
@@ -19,6 +25,9 @@
       <dailyData date="15-07-2024">
         <observation name="BASIC" value="24.0" />
       </dailyData>
+      <dailyData date="11-08-2024">
+        <observation name="BASIC" value="3.0" />
+      </dailyData>
     </factor>
     <factor id="completionUsage">
       <dailyData date="13-07-2024">
@@ -26,6 +35,12 @@
       </dailyData>
       <dailyData date="15-07-2024">
         <observation name="count" value="37.0" />
+      </dailyData>
+      <dailyData date="25-07-2024">
+        <observation name="count" value="2.0" />
+      </dailyData>
+      <dailyData date="11-08-2024">
+        <observation name="count" value="3.0" />
       </dailyData>
     </factor>
     <factor id="itemPosition">
@@ -85,6 +100,10 @@
       <dailyData date="15-07-2024">
         <observation name="average" value="143.3" />
         <observation name="count" value="20.0" />
+      </dailyData>
+      <dailyData date="11-08-2024">
+        <observation name="average" value="103.0" />
+        <observation name="count" value="7.0" />
       </dailyData>
     </factor>
   </component>

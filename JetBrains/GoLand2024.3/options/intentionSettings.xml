@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Go/Migrate function parameter to method receiver" />
+  </component>
+</application>

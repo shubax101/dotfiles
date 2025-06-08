@@ -1,0 +1,547 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="hard m3u8" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="360dybyaei3bx" />
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1728021140427
+    }
+  }
+}]]></component>
+  <component name="LanguageUsageStatistics">
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1728021140430" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hard m3u8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/purex/programming/extensions/hard m3u8}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hard m3u8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/purex/programming/extensions/hard m3u8}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/purex/programming/extensions/hard m3u8/extension}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hard m3u8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/purex/programming/extensions/hard m3u8}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/purex/programming/extensions/hard m3u8/extension}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/purex/programming/extensions/hard m3u8/extension/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="hard m3u8" />
+            <item name="hard m3u8" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="hard m3u8" />
+              <item name="dir{file:///home/purex/programming/extensions/hard m3u8}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.github" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".github" />
+                <item name="dir{file:///home/purex/programming/extensions/hard m3u8/.github}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.vscode" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".vscode" />
+                <item name="dir{file:///home/purex/programming/extensions/hard m3u8/.vscode}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/blogposts" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="blogposts" />
+                <item name="dir{file:///home/purex/programming/extensions/hard m3u8/blogposts}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/extension" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="extension" />
+                <item name="dir{file:///home/purex/programming/extensions/hard m3u8/extension}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/extension/.storybook" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".storybook" />
+                  <item name="dir{file:///home/purex/programming/extensions/hard m3u8/extension/.storybook}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/extension/src" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                  <item name="dir{file:///home/purex/programming/extensions/hard m3u8/extension/src}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/extension/src/assets" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="assets" />
+                    <item name="dir{file:///home/purex/programming/extensions/hard m3u8/extension/src/assets}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/extension/src/components" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="components" />
+                    <item name="dir{file:///home/purex/programming/extensions/hard m3u8/extension/src/components}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/extension/src/containers" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="containers" />
+                    <item name="dir{file:///home/purex/programming/extensions/hard m3u8/extension/src/containers}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/extension/src/pages" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="pages" />
+                    <item name="dir{file:///home/purex/programming/extensions/hard m3u8/extension/src/pages}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/extension/src/stories" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="stories" />
+                    <item name="dir{file:///home/purex/programming/extensions/hard m3u8/extension/src/stories}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/extension/src/types" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="types" />
+                    <item name="dir{file:///home/purex/programming/extensions/hard m3u8/extension/src/types}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/extension/src/utils" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="utils" />
+                    <item name="dir{file:///home/purex/programming/extensions/hard m3u8/extension/src/utils}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/extension/src/config.ts" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/typeScript.svg" iconPlugin="JavaScript" isLeaf="true" text="config.ts" />
+                    <item name="config.ts" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/extension/src/global.d.ts" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/fileTypes/typeScript.svg" iconPlugin="JavaScript" isLeaf="true" text="global.d.ts" />
+                    <item name="global.d.ts" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/extension/src/manifest.json" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="manifest.json" />
+                    <item name="manifest.json" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/extension/utils" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="utils" />
+                  <item name="dir{file:///home/purex/programming/extensions/hard m3u8/extension/utils}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/extension/.gitignore" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                  <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/extension/.nvmrc" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".nvmrc" />
+                  <item name=".nvmrc" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/extension/LICENSE" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="LICENSE" />
+                  <item name="LICENSE" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/extension/package.json" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="package.json" />
+                  <item name="package.json" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/extension/package-lock.json" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="package-lock.json" />
+                  <item name="package-lock.json" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/extension/README.md" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                  <item name="README.md" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/extension/tsconfig.json" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="tsconfig.json" />
+                  <item name="tsconfig.json" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/extension/webpack.config.js" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/javaScript.svg" iconPlugin="com.intellij" isLeaf="true" text="webpack.config.js" />
+                  <item name="webpack.config.js" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/extension/yarn.lock" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/nodejs/yarn.svg" iconPlugin="JavaScript" isLeaf="true" text="yarn.lock" />
+                  <item name="yarn.lock" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/node_modules" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="node_modules" />
+                <item name="dir{file:///home/purex/programming/extensions/hard m3u8/node_modules}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/prisma" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="prisma" />
+                <item name="dir{file:///home/purex/programming/extensions/hard m3u8/prisma}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/public" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="public" />
+                <item name="dir{file:///home/purex/programming/extensions/hard m3u8/public}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/scripts" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="scripts" />
+                <item name="dir{file:///home/purex/programming/extensions/hard m3u8/scripts}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                <item name="dir{file:///home/purex/programming/extensions/hard m3u8/src}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.env.example" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".env.example" />
+                <item name=".env.example" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.eslintrc.json" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/fileTypes/eslint.svg" iconPlugin="JavaScript" isLeaf="true" text=".eslintrc.json" />
+                <item name=".eslintrc.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.nvmrc" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".nvmrc" />
+                <item name=".nvmrc" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/CHANGELOG.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="CHANGELOG.md" />
+                <item name="CHANGELOG.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/components.json" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="components.json" />
+                <item name="components.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/next.config.js" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/javaScript.svg" iconPlugin="com.intellij" isLeaf="true" text="next.config.js" />
+                <item name="next.config.js" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/next-sitemap.config.js" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/javaScript.svg" iconPlugin="com.intellij" isLeaf="true" text="next-sitemap.config.js" />
+                <item name="next-sitemap.config.js" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/package.json" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="package.json" />
+                <item name="package.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/package-lock.json" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="package-lock.json" />
+                <item name="package-lock.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/postcss.config.js" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/javaScript.svg" iconPlugin="com.intellij" isLeaf="true" text="postcss.config.js" />
+                <item name="postcss.config.js" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tailwind.config.ts" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/fileTypes/typeScript.svg" iconPlugin="JavaScript" isLeaf="true" text="tailwind.config.ts" />
+                <item name="tailwind.config.ts" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tsconfig.json" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="tsconfig.json" />
+                <item name="tsconfig.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local">
+        <shellCommand>
+          <arg value="/usr/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="334000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32964134" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.34780487" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.3300926" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.34780487" left="0.32964134" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1838" height="313" key="GridCell.Tab.0.bottom" timestamp="1728021469805">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="313" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1728021469805" />
+    <state width="1838" height="313" key="GridCell.Tab.0.center" timestamp="1728021469805">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="313" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1728021469805" />
+    <state width="1838" height="313" key="GridCell.Tab.0.left" timestamp="1728021469805">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="313" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1728021469805" />
+    <state width="1838" height="313" key="GridCell.Tab.0.right" timestamp="1728021469805">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="313" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1728021469805" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

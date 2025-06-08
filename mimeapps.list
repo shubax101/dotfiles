@@ -1,10 +1,26 @@
 [Added Associations]
+application/pdf=firefox.desktop;sublime-text_subl.desktop;google-chrome.desktop;
 application/toml=sublime-text_subl.desktop;
+application/x-mimearchive=google-chrome.desktop;
 text/markdown=sublime-text_subl.desktop;
 text/plain=sublime-text_subl.desktop;
+video/mp2t=vlc.desktop;
+video/mp4=vlc.desktop;
+video/x-matroska=vlc.desktop;
+x-scheme-handler/tonsite=org.telegram.desktop.desktop;
+application/json=sublime-text_subl.desktop;
+application/x-zerosize=sublime-text_subl.desktop;
+image/png=swappy.desktop;
 
 [Default Applications]
+application/pdf=firefox.desktop
 application/toml=sublime-text_subl.desktop;
+application/x-extension-burp=install4j_24d0zv-BurpSuitePro.desktop
+application/x-mimearchive=google-chrome.desktop;
 text/markdown=sublime-text_subl.desktop;
 text/plain=sublime-text_subl.desktop;
-application/x-extension-burp=install4j_24d0zv-BurpSuitePro.desktop
+video/mp2t=vlc.desktop;
+video/mp4=vlc.desktop;
+video/x-matroska=vlc.desktop;
+x-scheme-handler/tonsite=org.telegram.desktop.desktop
+application/x-zerosize=sublime-text_subl.desktop

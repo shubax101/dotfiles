@@ -1,0 +1,530 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="carrerwill" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2kzgx1sno1xxo" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/settings.json">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="546">
+              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"settings.json","foregroundColor":-4473925,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,106,115,111,110,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-55,-15,-115,-58,-6,-1,-1,-1,-1,1,48,2]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/cmd/parmar.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="38">
+              <caret line="79" column="31" selection-start-line="79" selection-start-column="31" selection-end-line="79" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"parmar.go","foregroundColor":-4473925,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,12,105,99,111,110,115,47,103,111,46,115,118,103,18,18,105,99,111,110,115,47,101,120,112,117,105,47,103,111,46,115,118,103,26,24,111,114,103,46,106,101,116,98,114,97,105,110,115,46,112,108,117,103,105,110,115,46,103,111,40,-57,-27,-111,-15,3,48,8]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cmd/examo.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="87">
+              <caret line="88" column="17" lean-forward="true" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"examo.go","foregroundColor":-4473925,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,12,105,99,111,110,115,47,103,111,46,115,118,103,18,18,105,99,111,110,115,47,101,120,112,117,105,47,103,111,46,115,118,103,26,24,111,114,103,46,106,101,116,98,114,97,105,110,115,46,112,108,117,103,105,110,115,46,103,111,40,-57,-27,-111,-15,3,48,8]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "PLAIN_TEXT": {
+      "usageCount": 6,
+      "lastUsed": 1726417308627
+    },
+    "Go": {
+      "usageCount": 47,
+      "lastUsed": 1733717185258
+    },
+    "JSON": {
+      "usageCount": 15,
+      "lastUsed": 1733717089226
+    },
+    "AUTO_DETECTED": {
+      "usageCount": 1,
+      "lastUsed": 1725962136748
+    },
+    "TypeScript": {
+      "usageCount": 1,
+      "lastUsed": 1725963555562
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ord62</find>
+      <find>isDownloa</find>
+      <find>isDow</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/Results/chemistry untold</dir>
+      <dir>$PROJECT_DIR$/cmd</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/purex/programming/Go/Projects/carrerwill/cmd/parmar.go"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JSON">
+      <summary usageCount="15" lastUsage="1733717089231" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="6" lastUsage="1726417308627" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="1" lastUsage="1725963555562" />
+    </language>
+    <language id="go">
+      <summary usageCount="47" lastUsage="1733717185258" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="carrerwill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/carrerwill}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carrerwill" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/carrerwill}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/carrerwill/cmd}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="carrerwill" />
+            <item name="carrerwill" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="carrerwill" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/carrerwill}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/cmd" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="cmd" />
+                <item name="dir{file:///home/purex/programming/Go/Projects/carrerwill/cmd}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmd/anna.go" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="anna.go" />
+                  <item name="anna.go" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmd/bansal.go" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="bansal.go" />
+                  <item name="bansal.go" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmd/classplus.go" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="classplus.go" />
+                  <item name="classplus.go" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmd/durga.go" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="durga.go" />
+                  <item name="durga.go" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmd/examo.go" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="examo.go" />
+                  <item name="examo.go" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmd/gds.go" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="gds.go" />
+                  <item name="gds.go" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmd/parmar.go" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="parmar.go" />
+                  <item name="parmar.go" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmd/scrapper.go" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="scrapper.go" />
+                  <item name="scrapper.go" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmd/structs.go" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="structs.go" />
+                  <item name="structs.go" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/cmd/utils.go" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="utils.go" />
+                  <item name="utils.go" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Results" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Results" />
+                <item name="dir{file:///home/purex/programming/Go/Projects/carrerwill/Results}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="2" />
+                <item name="2" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/decrpt.go" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="decrpt.go" />
+                <item name="decrpt.go" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/go.mod" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/goMod.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="false" text="go.mod" />
+                <item name="go.mod" type="620a8d5e:NestingTreeNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/main.go" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="main.go" />
+                <item name="main.go" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/parmar.go" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/go.svg" iconPlugin="org.jetbrains.plugins.go" isLeaf="true" text="parmar.go" />
+                <item name="parmar.go" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/settings.json" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="settings.json" />
+                <item name="settings.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/settings_mem.json" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="settings_mem.json" />
+                <item name="settings_mem.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/settings_ngx.json" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="settings_ngx.json" />
+                <item name="settings_ngx.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/vsd" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="vsd" />
+                <item name="vsd" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29483122" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.2697561" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.2697561" left="0.29483122" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11380209" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.39212963" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.39212963" left="0.11380209" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2618" y="263" width="524" height="554" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1726546774874">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="263" width="524" height="554" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1726503552367" />
+    <state x="2618" y="263" width="524" height="554" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1726546774874" />
+    <state x="2772" y="420" width="645" height="560" key="find.popup" timestamp="1726135141253">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="782" y="340" width="645" height="560" key="find.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1725958787925" />
+    <state x="2772" y="420" width="645" height="560" key="find.popup/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1726135141253" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Results/Examo/Maths Special Batch by Ramo SIr (VOD).txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmd/scrapper.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-884">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmd/utils.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#786#803#0" expanded="true" />
+            <element signature="e#786#803#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vsd_video_as0ZLT5B-32240525.mp4.ts" />
+    <entry file="file://$PROJECT_DIR$/vsd_expect_script.exp" />
+    <entry file="file://$PROJECT_DIR$/Results/chemistry untold/22429327">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmd/bansal.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="102" column="12" lean-forward="true" selection-start-line="102" selection-start-column="12" selection-end-line="102" selection-end-column="12" />
+          <folding>
+            <element signature="e#368#397#0" expanded="true" />
+            <element signature="e#368#397#0" expanded="true" />
+            <element signature="e#477#494#0" expanded="true" />
+            <element signature="e#477#494#0" expanded="true" />
+            <element signature="e#553#570#0" expanded="true" />
+            <element signature="e#553#570#0" expanded="true" />
+            <element signature="e#627#660#0" expanded="true" />
+            <element signature="e#627#660#0" expanded="true" />
+            <element signature="e#1011#1028#0" expanded="true" />
+            <element signature="e#1011#1028#0" expanded="true" />
+            <element signature="e#1085#1118#0" expanded="true" />
+            <element signature="e#1085#1118#0" expanded="true" />
+            <element signature="e#1690#1726#0" expanded="true" />
+            <element signature="e#1690#1726#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmd/structs.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Results/Anna Academy/Anna Academy.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmd/anna.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="149" column="111" selection-start-line="149" selection-start-column="111" selection-end-line="149" selection-end-column="111" />
+          <folding>
+            <element signature="e#2755#2780#0" expanded="true" />
+            <element signature="e#2755#2780#0" expanded="true" />
+            <element signature="e#3213#3238#0" expanded="true" />
+            <element signature="e#3213#3238#0" expanded="true" />
+            <element signature="e#3399#3424#0" expanded="true" />
+            <element signature="e#3399#3424#0" expanded="true" />
+            <element signature="e#3578#3603#0" expanded="true" />
+            <element signature="e#3578#3603#0" expanded="true" />
+            <element signature="e#3684#3742#0" expanded="true" />
+            <element signature="e#3684#3742#0" expanded="true" />
+            <element signature="e#3927#3952#0" expanded="true" />
+            <element signature="e#3927#3952#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmd/classplus.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmd/durga.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmd/parmar.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="79" column="31" selection-start-line="79" selection-start-column="31" selection-end-line="79" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmd/examo.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="88" column="17" lean-forward="true" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

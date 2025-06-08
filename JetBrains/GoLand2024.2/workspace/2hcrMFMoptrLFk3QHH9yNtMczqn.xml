@@ -1,0 +1,177 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="pure_lib" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3djf26qhsj0sg">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main_test.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-13">
+              <caret line="97" column="33" selection-start-line="97" selection-start-column="33" selection-end-line="97" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/Results/Generated/455986431038.txt">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="600">
+              <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pkg/generate.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="221">
+              <caret line="74" column="37" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
+              <folding>
+                <element signature="e#13#176#0" expanded="true" />
+                <element signature="e#1933#2330#0" expanded="true" />
+                <element signature="e#1933#2330#0" expanded="true" />
+                <element signature="e#2301#2321#0" expanded="true" />
+                <element signature="e#2301#2321#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "PLAIN_TEXT": {
+      "usageCount": 1,
+      "lastUsed": 1723014062427
+    },
+    "Go": {
+      "usageCount": 2,
+      "lastUsed": 1723013849786
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/main_test.go" />
+      <option value="$PROJECT_DIR$/pkg/generate.go" />
+      <option value="$PROJECT_DIR$/Results/Generated/455986431038.txt" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1723014062427" />
+    </language>
+    <language id="go">
+      <summary usageCount="2" lastUsage="1723013849786" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pure_lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/pure_lib}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pure_lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/pure_lib}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/pure_lib/Results}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pure_lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/pure_lib}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/pure_lib/Results}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/pure_lib/Results/Generated}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21677215" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.38101852" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.38101852" left="0.21677215" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2618" y="263" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1723013961716">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2618" y="263" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1723013961716" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pkg/generate.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="74" column="37" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
+          <folding>
+            <element signature="e#13#176#0" expanded="true" />
+            <element signature="e#1933#2330#0" expanded="true" />
+            <element signature="e#1933#2330#0" expanded="true" />
+            <element signature="e#2301#2321#0" expanded="true" />
+            <element signature="e#2301#2321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="97" column="33" selection-start-line="97" selection-start-column="33" selection-end-line="97" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Results/Generated/455986431038.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

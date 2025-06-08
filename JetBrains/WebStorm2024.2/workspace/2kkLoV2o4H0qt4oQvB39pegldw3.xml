@@ -1,0 +1,1207 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="purex" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1xu9ns4x0bxut" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Downloads/Telegram Desktop/Imavex_b1nd.net.sql">
+          <provider editor-type-id="LargeFileEditorProvider" selected="true">
+            <state caret-page-number="3211" caret-page-symbol-offset="131" />
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Imavex_b1nd.net.sql","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "WebPreview": {
+      "usageCount": 1,
+      "lastUsed": 1723822805663
+    },
+    "textmate": {
+      "usageCount": 1,
+      "lastUsed": 1724681284365
+    }
+  }
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="textmate">
+      <summary usageCount="1" lastUsage="1724681284368" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Imavex_b1nd.net.sql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/purex}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="Imavex_b1nd.net.sql" />
+            <item name="Imavex_b1nd.net.sql" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="purex" />
+              <item name="dir{file:///home/purex}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.android" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".android" />
+                <item name="dir{file:///home/purex/.android}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.BurpSuite" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".BurpSuite" />
+                <item name="dir{file:///home/purex/.BurpSuite}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.cache" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".cache" />
+                <item name="dir{file:///home/purex/.cache}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.cargo" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".cargo" />
+                <item name="dir{file:///home/purex/.cargo}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.conda" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".conda" />
+                <item name="dir{file:///home/purex/.conda}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.config" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".config" />
+                <item name="dir{file:///home/purex/.config}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gnupg" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".gnupg" />
+                <item name="dir{file:///home/purex/.gnupg}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.ipython" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".ipython" />
+                <item name="dir{file:///home/purex/.ipython}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.java" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".java" />
+                <item name="dir{file:///home/purex/.java}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.jupyter" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".jupyter" />
+                <item name="dir{file:///home/purex/.jupyter}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.local" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".local" />
+                <item name="dir{file:///home/purex/.local}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.mitmproxy" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".mitmproxy" />
+                <item name="dir{file:///home/purex/.mitmproxy}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.mozilla" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".mozilla" />
+                <item name="dir{file:///home/purex/.mozilla}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.npm" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".npm" />
+                <item name="dir{file:///home/purex/.npm}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.nv" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".nv" />
+                <item name="dir{file:///home/purex/.nv}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.ollama" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".ollama" />
+                <item name="dir{file:///home/purex/.ollama}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.parallel" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".parallel" />
+                <item name="dir{file:///home/purex/.parallel}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.pki" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".pki" />
+                <item name="dir{file:///home/purex/.pki}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.railway" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".railway" />
+                <item name="dir{file:///home/purex/.railway}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.rustup" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".rustup" />
+                <item name="dir{file:///home/purex/.rustup}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.tdl" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".tdl" />
+                <item name="dir{file:///home/purex/.tdl}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.var" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".var" />
+                <item name="dir{file:///home/purex/.var}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Arthmatic" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Arthmatic" />
+                <item name="dir{file:///home/purex/Arthmatic}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Burp" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Burp" />
+                <item name="dir{file:///home/purex/Burp}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Burp Projects" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="Burp Projects" />
+                <item name="dir{file:///home/purex/Burp Projects}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/BurpSuitePro" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="BurpSuitePro" />
+                <item name="dir{file:///home/purex/BurpSuitePro}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/deep learning" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="deep learning" />
+                <item name="dir{file:///home/purex/deep learning}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Desktop" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Desktop" />
+                <item name="dir{file:///home/purex/Desktop}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Downloads" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Downloads" />
+                <item name="dir{file:///home/purex/Downloads}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/downloads" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="downloads" />
+                <item name="dir{file:///home/purex/downloads}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Dracula Pro" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Dracula Pro" />
+                <item name="dir{file:///home/purex/Dracula Pro}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/frida-interception-and-unpinning" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="frida-interception-and-unpinning" />
+                <item name="dir{file:///home/purex/frida-interception-and-unpinning}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Github Dots" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Github Dots" />
+                <item name="dir{file:///home/purex/Github Dots}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/go" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="go" />
+                <item name="dir{file:///home/purex/go}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/llava" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="llava" />
+                <item name="dir{file:///home/purex/llava}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/miniconda3" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="miniconda3" />
+                <item name="dir{file:///home/purex/miniconda3}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/movies_project1" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="movies_project1" />
+                <item name="dir{file:///home/purex/movies_project1}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/ollama-tutorials" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="ollama-tutorials" />
+                <item name="dir{file:///home/purex/ollama-tutorials}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Pics" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Pics" />
+                <item name="dir{file:///home/purex/Pics}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Pictures" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Pictures" />
+                <item name="dir{file:///home/purex/Pictures}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/programming" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="programming" />
+                <item name="dir{file:///home/purex/programming}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/PycharmProjects" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="PycharmProjects" />
+                <item name="dir{file:///home/purex/PycharmProjects}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/recaptcha-dataset" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="recaptcha-dataset" />
+                <item name="dir{file:///home/purex/recaptcha-dataset}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Reverse" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Reverse" />
+                <item name="dir{file:///home/purex/Reverse}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/RustroverProjects" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="RustroverProjects" />
+                <item name="dir{file:///home/purex/RustroverProjects}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/snap" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="snap" />
+                <item name="dir{file:///home/purex/snap}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Solvers" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Solvers" />
+                <item name="dir{file:///home/purex/Solvers}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Vision_language_models" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Vision_language_models" />
+                <item name="dir{file:///home/purex/Vision_language_models}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/WebstormProjects" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="WebstormProjects" />
+                <item name="dir{file:///home/purex/WebstormProjects}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.bash_history" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text=".bash_history" />
+                <item name=".bash_history" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.bash_logout" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text=".bash_logout" />
+                <item name=".bash_logout" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.bash_profile" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text=".bash_profile" />
+                <item name=".bash_profile" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.bashrc" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text=".bashrc" />
+                <item name=".bashrc" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.config.ini" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text=".config.ini" />
+                <item name=".config.ini" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.git-credentials" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text=".git-credentials" />
+                <item name=".git-credentials" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitconfig" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitconfig" />
+                <item name=".gitconfig" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.nvidia-settings-rc" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text=".nvidia-settings-rc" />
+                <item name=".nvidia-settings-rc" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.profile" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text=".profile" />
+                <item name=".profile" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.python_history" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text=".python_history" />
+                <item name=".python_history" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.wget-hsts" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text=".wget-hsts" />
+                <item name=".wget-hsts" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.xinitrc" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text=".xinitrc" />
+                <item name=".xinitrc" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-07-29-Xendit.burp" />
+                  </map>
+                </attributes>
+                <data iconPath="nodes/nodePlaceholder.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-07-29-Xendit.burp" />
+                <item name="2024-07-29-Xendit.burp" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-121650_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-121650_hyprshot.png" />
+                <item name="2024-08-25-121650_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-122028_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-122028_hyprshot.png" />
+                <item name="2024-08-25-122028_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-122340_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-122340_hyprshot.png" />
+                <item name="2024-08-25-122340_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-122345_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-122345_hyprshot.png" />
+                <item name="2024-08-25-122345_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-130205_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-130205_hyprshot.png" />
+                <item name="2024-08-25-130205_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-130223_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-130223_hyprshot.png" />
+                <item name="2024-08-25-130223_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-132757_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-132757_hyprshot.png" />
+                <item name="2024-08-25-132757_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-142653_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-142653_hyprshot.png" />
+                <item name="2024-08-25-142653_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-145144_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-145144_hyprshot.png" />
+                <item name="2024-08-25-145144_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-182630_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-182630_hyprshot.png" />
+                <item name="2024-08-25-182630_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-182717_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-182717_hyprshot.png" />
+                <item name="2024-08-25-182717_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-190002_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-190002_hyprshot.png" />
+                <item name="2024-08-25-190002_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-192810_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-192810_hyprshot.png" />
+                <item name="2024-08-25-192810_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-203457_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-203457_hyprshot.png" />
+                <item name="2024-08-25-203457_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-203509_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-203509_hyprshot.png" />
+                <item name="2024-08-25-203509_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-204739_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-204739_hyprshot.png" />
+                <item name="2024-08-25-204739_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-204805_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-204805_hyprshot.png" />
+                <item name="2024-08-25-204805_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-205821_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-205821_hyprshot.png" />
+                <item name="2024-08-25-205821_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-205846_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-205846_hyprshot.png" />
+                <item name="2024-08-25-205846_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-205929_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-205929_hyprshot.png" />
+                <item name="2024-08-25-205929_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-205958_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-205958_hyprshot.png" />
+                <item name="2024-08-25-205958_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-210951_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-210951_hyprshot.png" />
+                <item name="2024-08-25-210951_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-213758_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-213758_hyprshot.png" />
+                <item name="2024-08-25-213758_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-214006_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-214006_hyprshot.png" />
+                <item name="2024-08-25-214006_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-222456_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-222456_hyprshot.png" />
+                <item name="2024-08-25-222456_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-231105_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-231105_hyprshot.png" />
+                <item name="2024-08-25-231105_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-233726_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-233726_hyprshot.png" />
+                <item name="2024-08-25-233726_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-25-233924_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-25-233924_hyprshot.png" />
+                <item name="2024-08-25-233924_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-26-144038_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-26-144038_hyprshot.png" />
+                <item name="2024-08-26-144038_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-26-144939_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-26-144939_hyprshot.png" />
+                <item name="2024-08-26-144939_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-26-145120_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-26-145120_hyprshot.png" />
+                <item name="2024-08-26-145120_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-26-153856_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-26-153856_hyprshot.png" />
+                <item name="2024-08-26-153856_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-26-153920_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-26-153920_hyprshot.png" />
+                <item name="2024-08-26-153920_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-26-155733_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-26-155733_hyprshot.png" />
+                <item name="2024-08-26-155733_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-26-160017_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-26-160017_hyprshot.png" />
+                <item name="2024-08-26-160017_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-26-161246_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-26-161246_hyprshot.png" />
+                <item name="2024-08-26-161246_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-26-164330_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-26-164330_hyprshot.png" />
+                <item name="2024-08-26-164330_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-26-164333_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-26-164333_hyprshot.png" />
+                <item name="2024-08-26-164333_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-26-171756_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-26-171756_hyprshot.png" />
+                <item name="2024-08-26-171756_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-26-172400_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-26-172400_hyprshot.png" />
+                <item name="2024-08-26-172400_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-26-172716_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-26-172716_hyprshot.png" />
+                <item name="2024-08-26-172716_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-26-174341_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-26-174341_hyprshot.png" />
+                <item name="2024-08-26-174341_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-26-174342_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-26-174342_hyprshot.png" />
+                <item name="2024-08-26-174342_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-26-174952_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-26-174952_hyprshot.png" />
+                <item name="2024-08-26-174952_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-26-180340_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-26-180340_hyprshot.png" />
+                <item name="2024-08-26-180340_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-26-181850_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-26-181850_hyprshot.png" />
+                <item name="2024-08-26-181850_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2024-08-26-184539_hyprshot.png" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="2024-08-26-184539_hyprshot.png" />
+                <item name="2024-08-26-184539_hyprshot.png" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/a.txt" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="a.txt" />
+                <item name="a.txt" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/b.txt" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="b.txt" />
+                <item name="b.txt" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/burpcert" />
+                  </map>
+                </attributes>
+                <data iconPath="nodes/nodePlaceholder.svg" iconPlugin="com.intellij" isLeaf="true" text="burpcert" />
+                <item name="burpcert" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Examo.json" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="Examo.json" />
+                <item name="Examo.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/main.go" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="main.go" />
+                <item name="main.go" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/modify_response.py" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="modify_response.py" />
+                <item name="modify_response.py" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/ssl_unpin.js" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/javaScript.svg" iconPlugin="com.intellij" isLeaf="true" text="ssl_unpin.js" />
+                <item name="ssl_unpin.js" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tdl" />
+                  </map>
+                </attributes>
+                <data iconPath="nodes/nodePlaceholder.svg" iconPlugin="com.intellij" isLeaf="true" text="tdl" />
+                <item name="tdl" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/unique.txt" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="unique.txt" />
+                <item name="unique.txt" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/vsd" />
+                  </map>
+                </attributes>
+                <data iconPath="nodes/nodePlaceholder.svg" iconPlugin="com.intellij" isLeaf="true" text="vsd" />
+                <item name="vsd" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/ztm_downloader.json" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="ztm_downloader.json" />
+                <item name="ztm_downloader.json" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="210000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1627604" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights left="0.1627604" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2663" y="315" width="424" height="458" key="FileChooserDialogImpl" timestamp="1723822831854">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="315" width="424" height="458" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1723822831854" />
+    <state x="3339" y="831" width="480" height="208" key="ProcessPopupWindow" timestamp="1724681433769">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3339" y="831" width="480" height="208" key="ProcessPopupWindow/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1724681433769" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Downloads/Telegram Desktop/Imavex_b1nd.net.sql">
+      <provider selected="true" editor-type-id="LargeFileEditorProvider">
+        <state caret-page-number="3211" caret-page-symbol-offset="131" />
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -959,6 +959,29 @@
 # Delay of the ES (ms) (integer)
 #sout-delay-delay=0
 
+[stream_out_chromecast] # Chromecast stream output
+
+# ? (string)
+#sout-chromecast-ip=
+
+# ? (integer)
+#sout-chromecast-port=8009
+
+# ? (boolean)
+#sout-chromecast-video=1
+
+# HTTP port (integer)
+#sout-chromecast-http-port=8010
+
+# Performance warning (integer)
+#sout-chromecast-show-perf-warning=1
+
+# Enable Audio passthrough (boolean)
+#sout-chromecast-audio-passthrough=0
+
+# Conversion quality (integer)
+#sout-chromecast-conversion-quality=1
+
 [bridge] # Bridge stream output
 
 # ID (integer)
@@ -1221,6 +1244,11 @@
 
 # Sync on Intra Frame (boolean)
 #packetizer-mpegvideo-sync-iframe=0
+
+[notify] # LibNotify Notification Plugin
+
+# Timeout (ms) (integer)
+#notify-timeout=4000
 
 [mux_ts] # TS muxer (libdvbpsi)
 
@@ -4019,7 +4047,7 @@ qt-privacy-ask=0
 #one-instance=0
 
 # Use only one instance when started from file manager (boolean)
-#one-instance-when-started-from-file=1
+one-instance-when-started-from-file=0
 
 # Enqueue items into playlist in one instance mode (boolean)
 #playlist-enqueue=0

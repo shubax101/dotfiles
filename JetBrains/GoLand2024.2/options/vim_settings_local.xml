@@ -1,0 +1,667 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxjbGllbnRcPg==</entry>
+        <entry encoding="base64">Zm10LlByaQ==</entry>
+        <entry encoding="base64">bG9nLg==</entry>
+        <entry encoding="base64">Z2VuZXJ0ZQ==</entry>
+        <entry encoding="base64">R2VuZXJhdGU=</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64" />
+        <entry encoding="base64">d3E=</entry>
+        <entry encoding="base64">bHc=</entry>
+        <entry encoding="base64">LiwuKzV3</entry>
+        <entry encoding="base64">THc=</entry>
+        <entry encoding="base64">LiwuKzF3ZQ==</entry>
+        <entry encoding="base64">cWEh</entry>
+        <entry encoding="base64">Vw==</entry>
+        <entry encoding="base64">dnM=</entry>
+        <entry encoding="base64">Inc=</entry>
+        <entry encoding="base64">d2U=</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry encoding="base64">cXc=</entry>
+        <entry encoding="base64">d1w=</entry>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="go-shopify-1fbea81e">
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/shopify/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="40" column="0" filename="$USER_HOME$/programming/Go/Projects/shopify/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="48" column="21" filename="$USER_HOME$/programming/Go/Projects/shopify/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="26" column="20" filename="$USER_HOME$/programming/Go/Projects/shopify/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="2" column="7" filename="$USER_HOME$/programming/Go/Projects/shopify/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="21" column="15" filename="$USER_HOME$/programming/Go/Projects/shopify/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/shopify/go-shopify/settings/LowAmount.txt" protocol="file" />
+      <jump line="9" column="57" filename="$USER_HOME$/programming/Go/Projects/shopify/go-shopify/settings/LowAmount Authtoken.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/shopify/go-shopify/internal/payloads/country.go" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/shopify/go-shopify/internal/payloads/checkout.go" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/shopify/go-shopify/internal/db/main.go" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/shopify/go-shopify/internal/db/flexa/models.go" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/programming/Go/Projects/shopify/go-shopify/internal/db/flexa/models.go" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/shopify/go-shopify/internal/db/flexa/db.go" protocol="file" />
+      <jump line="6" column="7" filename="$USER_HOME$/programming/Go/Projects/shopify/go-shopify/internal/db/flexa/db.go" protocol="file" />
+      <jump line="6" column="7" filename="$USER_HOME$/programming/Go/Projects/shopify/go-shopify/internal/db/flexa/models.go" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/shopify/go-shopify/internal/db/flexa/queries.sql.go" protocol="file" />
+      <jump line="31" column="1" filename="$USER_HOME$/programming/Go/Projects/shopify/go-shopify/internal/db/flexa/db.go" protocol="file" />
+      <jump line="45" column="0" filename="$USER_HOME$/programming/Go/Projects/shopify/go-shopify/internal/shopify/main.go" protocol="file" />
+      <jump line="483" column="12" filename="$USER_HOME$/programming/Go/Projects/shopify/go-shopify/internal/shopify/main.go" protocol="file" />
+    </project>
+    <project id="spectrum-1a9b4725">
+      <jump line="116" column="29" filename="$USER_HOME$/programming/Go/Projects/spectrum/pkg/generate.go" protocol="file" />
+      <jump line="25" column="71" filename="$USER_HOME$/programming/Go/Projects/spectrum/pkg/utils.go" protocol="file" />
+      <jump line="64" column="0" filename="$USER_HOME$/programming/Go/Projects/spectrum/internal/shopify/gate.go" protocol="file" />
+      <jump line="0" column="11" filename="$USER_HOME$/programming/Go/Projects/spectrum/pkg/utils.go" protocol="file" />
+      <jump line="40" column="4" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/programming/Go/Projects/spectrum/pkg/utils.go" protocol="file" />
+      <jump line="11" column="0" filename="$USER_HOME$/programming/Go/Projects/spectrum/internal/shopify/gate.go" protocol="file" />
+      <jump line="106" column="0" filename="$USER_HOME$/programming/Go/Projects/spectrum/internal/shopify/gate.go" protocol="file" />
+      <jump line="38" column="4" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="39" column="8" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="57" column="48" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="54" column="8" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="56" column="15" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="62" column="19" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="48" column="27" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="67" column="17" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="88" column="21" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="66" column="28" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="83" column="13" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="9" column="0" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="5" column="6" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="8" column="32" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="97" column="0" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="46" column="0" filename="$USER_HOME$/programming/Go/Projects/spectrum/internal/shopify/gate.go" protocol="file" />
+      <jump line="67" column="19" filename="$USER_HOME$/programming/Go/Projects/spectrum/internal/shopify/gate.go" protocol="file" />
+      <jump line="117" column="21" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="115" column="12" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="23" column="27" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/app/main.go" protocol="file" />
+      <jump line="121" column="4" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="148" column="56" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="110" column="190" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="124" column="4" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="147" column="38" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="153" column="0" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="151" column="0" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="98" column="9" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="84" column="25" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="102" column="16" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="92" column="16" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="55" column="21" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="73" column="32" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/spectrum/Results/Parser/parse.txt" protocol="file" />
+      <jump line="37951" column="7" filename="$USER_HOME$/programming/Go/Projects/spectrum/Results/Parser/parse.txt" protocol="file" />
+      <jump line="69" column="8" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="87" column="25" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="120" column="13" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="95" column="84" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="156" column="12" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="68" column="22" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="60" column="21" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="157" column="66" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="46" column="83" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="70" column="20" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="80" column="22" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="96" column="18" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="100" column="21" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/app/main.go" protocol="file" />
+      <jump line="125" column="48" filename="$USER_HOME$/programming/Go/Projects/spectrum/internal/shopify/bypass.go" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/spectrum/Results/Parser/errors.txt" protocol="file" />
+      <jump line="188" column="20" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/bot/services/services.go" protocol="file" />
+      <jump line="113" column="14" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/bot/services/services.go" protocol="file" />
+      <jump line="137" column="31" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/bot/services/services.go" protocol="file" />
+      <jump line="18" column="23" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="158" column="0" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="159" column="0" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="174" column="34" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="169" column="0" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="172" column="0" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="171" column="12" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="179" column="25" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="42" column="45" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="116" column="6" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="90" column="65" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="126" column="20" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="125" column="18" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="106" column="23" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="104" column="15" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="103" column="17" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="109" column="14" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="132" column="0" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="182" column="50" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="51" column="56" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="43" column="42" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="19" column="24" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="190" column="19" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="189" column="20" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="185" column="63" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="194" column="20" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="184" column="12" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="195" column="16" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="188" column="26" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="197" column="19" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="183" column="19" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="186" column="24" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="187" column="29" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="105" column="40" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="108" column="12" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+      <jump line="111" column="12" filename="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" protocol="file" />
+    </project>
+    <project id="pure_lib-1b87412">
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/pure_lib/main_test.go" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/programming/Go/Projects/pure_lib/pkg/generate.go" protocol="file" />
+      <jump line="2" column="7" filename="$USER_HOME$/programming/Go/Projects/pure_lib/pkg/generate.go" protocol="file" />
+      <jump line="4" column="9" filename="$USER_HOME$/programming/Go/Projects/pure_lib/pkg/generate.go" protocol="file" />
+      <jump line="8" column="10" filename="$USER_HOME$/programming/Go/Projects/pure_lib/pkg/generate.go" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/programming/Go/Projects/pure_lib/pkg/generate.go" protocol="file" />
+      <jump line="7" column="23" filename="$USER_HOME$/programming/Go/Projects/pure_lib/pkg/generate.go" protocol="file" />
+      <jump line="12" column="353" filename="$USER_HOME$/programming/Go/Projects/pure_lib/pkg/generate.go" protocol="file" />
+      <jump line="18" column="7" filename="$USER_HOME$/programming/Go/Projects/pure_lib/pkg/generate.go" protocol="file" />
+      <jump line="87" column="63" filename="$USER_HOME$/programming/Go/Projects/pure_lib/main_test.go" protocol="file" />
+      <jump line="74" column="116" filename="$USER_HOME$/programming/Go/Projects/pure_lib/main_test.go" protocol="file" />
+      <jump line="73" column="23" filename="$USER_HOME$/programming/Go/Projects/pure_lib/pkg/generate.go" protocol="file" />
+      <jump line="28" column="88" filename="$USER_HOME$/programming/Go/Projects/pure_lib/pkg/generate.go" protocol="file" />
+      <jump line="77" column="117" filename="$USER_HOME$/programming/Go/Projects/pure_lib/main_test.go" protocol="file" />
+      <jump line="21" column="52" filename="$USER_HOME$/programming/Go/Projects/pure_lib/pkg/generate.go" protocol="file" />
+      <jump line="74" column="37" filename="$USER_HOME$/programming/Go/Projects/pure_lib/pkg/generate.go" protocol="file" />
+      <jump line="89" column="63" filename="$USER_HOME$/programming/Go/Projects/pure_lib/main_test.go" protocol="file" />
+      <jump line="80" column="29" filename="$USER_HOME$/programming/Go/Projects/pure_lib/main_test.go" protocol="file" />
+      <jump line="121" column="27" filename="$USER_HOME$/programming/Go/Projects/pure_lib/Results/Generated/455986431038.txt" protocol="file" />
+      <jump line="11" column="27" filename="$USER_HOME$/programming/Go/Projects/pure_lib/Results/Generated/455986431038.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/pure_lib/Results/Generated/455986431038.txt" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/programming/Go/Projects/pure_lib/Results/Generated/455986431038.txt" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/programming/Go/Projects/pure_lib/Results/Generated/455986431038.txt" protocol="file" />
+      <jump line="8" column="28" filename="$USER_HOME$/programming/Go/Projects/pure_lib/Results/Generated/455986431038.txt" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/programming/Go/Projects/pure_lib/Results/Generated/455986431038.txt" protocol="file" />
+      <jump line="19" column="27" filename="$USER_HOME$/programming/Go/Projects/pure_lib/Results/Generated/455986431038.txt" protocol="file" />
+      <jump line="26" column="28" filename="$USER_HOME$/programming/Go/Projects/pure_lib/Results/Generated/455986431038.txt" protocol="file" />
+      <jump line="21" column="0" filename="$USER_HOME$/programming/Go/Projects/pure_lib/Results/Generated/455986431038.txt" protocol="file" />
+      <jump line="22" column="0" filename="$USER_HOME$/programming/Go/Projects/pure_lib/Results/Generated/455986431038.txt" protocol="file" />
+      <jump line="23" column="0" filename="$USER_HOME$/programming/Go/Projects/pure_lib/Results/Generated/455986431038.txt" protocol="file" />
+      <jump line="24" column="0" filename="$USER_HOME$/programming/Go/Projects/pure_lib/Results/Generated/455986431038.txt" protocol="file" />
+      <jump line="29" column="27" filename="$USER_HOME$/programming/Go/Projects/pure_lib/Results/Generated/455986431038.txt" protocol="file" />
+      <jump line="28" column="10" filename="$USER_HOME$/programming/Go/Projects/pure_lib/Results/Generated/455986431038.txt" protocol="file" />
+      <jump line="25" column="11" filename="$USER_HOME$/programming/Go/Projects/pure_lib/Results/Generated/455986431038.txt" protocol="file" />
+      <jump line="97" column="33" filename="$USER_HOME$/programming/Go/Projects/pure_lib/main_test.go" protocol="file" />
+    </project>
+    <project id="bins-go-174e3435">
+      <jump line="25" column="4" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="157" column="27" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="18" column="31" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="20" column="0" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="11" column="9" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="230" column="51" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="398" column="76" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="397" column="33" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="399" column="33" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="401" column="17" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="386" column="45" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="389" column="49" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="467" column="0" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="381" column="20" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="385" column="43" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="396" column="35" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="395" column="45" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="271" column="9" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="175" column="5" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="174" column="0" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="344" column="42" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="482" column="0" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="22" column="16" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="356" column="41" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="320" column="47" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="452" column="46" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="459" column="23" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="342" column="62" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="460" column="49" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="359" column="12" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="315" column="17" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="323" column="121" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="318" column="40" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="343" column="41" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="358" column="12" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="314" column="55" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="330" column="38" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="335" column="41" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="336" column="37" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="339" column="37" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="337" column="36" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="310" column="30" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="300" column="0" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="302" column="46" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="486" column="0" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="487" column="0" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="473" column="0" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="81" column="0" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="162" column="19" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="322" column="54" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="334" column="37" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="331" column="38" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="333" column="28" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="365" column="26" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="350" column="52" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="319" column="16" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="332" column="20" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="311" column="25" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="363" column="43" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="348" column="55" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="353" column="0" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="354" column="24" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="373" column="16" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="374" column="12" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="377" column="12" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="364" column="12" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="345" column="14" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="316" column="29" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="312" column="8" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="324" column="50" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="387" column="0" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="391" column="27" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="382" column="12" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="528" column="0" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="370" column="29" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="376" column="35" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="13" column="7" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="19" column="10" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="341" column="32" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="378" column="37" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="366" column="29" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="329" column="23" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="313" column="16" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="402" column="17" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="484" column="12" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="472" column="40" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="150" column="15" filename="$USER_HOME$/programming/Go/Projects/bins-go/main.go" protocol="file" />
+      <jump line="293" column="21" filename="$USER_HOME$/programming/Go/Projects/bins-go/main.go" protocol="file" />
+      <jump line="290" column="29" filename="$USER_HOME$/programming/Go/Projects/bins-go/main.go" protocol="file" />
+      <jump line="289" column="27" filename="$USER_HOME$/programming/Go/Projects/bins-go/main.go" protocol="file" />
+      <jump line="3" column="15" filename="$USER_HOME$/programming/Go/Projects/bins-go/settings.json" protocol="file" />
+      <jump line="468" column="46" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="400" column="38" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="367" column="0" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="369" column="29" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="21" column="17" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="298" column="40" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="347" column="70" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+      <jump line="349" column="44" filename="$USER_HOME$/programming/Go/Projects/bins-go/cmd/app/main.go" protocol="file" />
+    </project>
+    <project id="Webshare-Creator-971618be">
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="11" column="12" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="34" column="22" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="43" column="34" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="44" column="13" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="91" column="5" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="56" column="18" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="27" column="0" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="38" column="0" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="35" column="4" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="9" column="14" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="6" column="32" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="74" column="8" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="78" column="25" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="88" column="51" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="92" column="0" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="90" column="5" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="39" column="0" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="72" column="8" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="97" column="4" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="77" column="18" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="8" column="4" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/internal/logging.go" protocol="file" />
+      <jump line="16" column="4" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="18" column="7" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="22" column="13" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="21" column="0" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="209" column="38" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="45" column="0" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="50" column="8" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="53" column="21" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="51" column="0" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="40" column="39" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="41" column="45" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="60" column="0" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="49" column="21" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/proxies.txt" protocol="file" />
+      <jump line="225" column="20" filename="$USER_HOME$/programming/Go/Projects/Webshare-Creator/main.go" protocol="file" />
+    </project>
+    <project id="carrerwill-32a174f1">
+      <jump line="118" column="0" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="94" column="22" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/anna.go" protocol="file" />
+      <jump line="100" column="38" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/anna.go" protocol="file" />
+      <jump line="155" column="4" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/anna.go" protocol="file" />
+      <jump line="101" column="22" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/anna.go" protocol="file" />
+      <jump line="102" column="19" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/anna.go" protocol="file" />
+      <jump line="129" column="0" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/anna.go" protocol="file" />
+      <jump line="110" column="12" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/anna.go" protocol="file" />
+      <jump line="97" column="13" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/anna.go" protocol="file" />
+      <jump line="103" column="12" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/anna.go" protocol="file" />
+      <jump line="98" column="9" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/anna.go" protocol="file" />
+      <jump line="99" column="51" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/anna.go" protocol="file" />
+      <jump line="29" column="4" filename="$USER_HOME$/programming/Go/Projects/carrerwill/main.go" protocol="file" />
+      <jump line="18" column="19" filename="$USER_HOME$/programming/Go/Projects/carrerwill/settings.json" protocol="file" />
+      <jump line="19" column="20" filename="$USER_HOME$/programming/Go/Projects/carrerwill/settings.json" protocol="file" />
+      <jump line="95" column="23" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/anna.go" protocol="file" />
+      <jump line="152" column="8" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/anna.go" protocol="file" />
+      <jump line="149" column="93" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/anna.go" protocol="file" />
+      <jump line="112" column="37" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/anna.go" protocol="file" />
+      <jump line="151" column="12" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/anna.go" protocol="file" />
+      <jump line="237" column="49" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="104" column="32" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="162" column="0" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="290" column="25" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="291" column="6" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="288" column="30" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="287" column="4" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="193" column="12" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="220" column="4" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="277" column="20" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="196" column="23" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="194" column="12" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="281" column="29" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="180" column="39" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="278" column="61" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="282" column="15" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="183" column="22" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="103" column="32" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="164" column="41" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="166" column="38" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="207" column="30" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="168" column="23" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="176" column="12" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="169" column="60" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="182" column="8" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="175" column="16" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="179" column="33" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="181" column="15" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="101" column="38" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="122" column="24" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="296" column="6" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="302" column="13" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="301" column="30" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="299" column="57" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="123" column="25" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="127" column="8" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="135" column="15" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="308" column="29" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="306" column="17" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="309" column="29" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="128" column="10" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="12" column="35" filename="$USER_HOME$/programming/Go/Projects/carrerwill/settings.json" protocol="file" />
+      <jump line="195" column="43" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="10" column="28" filename="$USER_HOME$/programming/Go/Projects/carrerwill/settings.json" protocol="file" />
+      <jump line="119" column="23" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="138" column="8" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="120" column="32" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="163" column="19" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="173" column="62" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="170" column="14" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="109" column="39" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="174" column="57" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="113" column="41" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="186" column="14" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="189" column="0" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="214" column="62" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="124" column="0" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="13" column="35" filename="$USER_HOME$/programming/Go/Projects/carrerwill/settings.json" protocol="file" />
+      <jump line="17" column="36" filename="$USER_HOME$/programming/Go/Projects/carrerwill/settings.json" protocol="file" />
+      <jump line="129" column="55" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="6" column="36" filename="$USER_HOME$/programming/Go/Projects/carrerwill/settings.json" protocol="file" />
+      <jump line="15" column="31" filename="$USER_HOME$/programming/Go/Projects/carrerwill/settings.json" protocol="file" />
+      <jump line="8" column="26" filename="$USER_HOME$/programming/Go/Projects/carrerwill/settings.json" protocol="file" />
+      <jump line="187" column="24" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="191" column="8" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="125" column="36" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="137" column="31" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="7" column="33" filename="$USER_HOME$/programming/Go/Projects/carrerwill/settings.json" protocol="file" />
+      <jump line="20" column="23" filename="$USER_HOME$/programming/Go/Projects/carrerwill/settings.json" protocol="file" />
+      <jump line="21" column="21" filename="$USER_HOME$/programming/Go/Projects/carrerwill/settings.json" protocol="file" />
+      <jump line="10" column="13" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="44" column="0" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/durga.go" protocol="file" />
+      <jump line="43" column="4" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="33" column="23" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="32" column="0" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="126" column="22" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="51" column="22" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="22" column="23" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/durga.go" protocol="file" />
+    </project>
+    <project id="go-parser-607d7fd0">
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="77" column="31" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="59" column="20" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="14" column="13" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="15" column="15" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="17" column="10" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="26" column="9" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="31" column="10" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="37" column="14" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="42" column="23" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="47" column="0" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="50" column="18" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="20" column="9" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="76" column="48" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/go-parser/settings.json" protocol="file" />
+      <jump line="7" column="1" filename="$USER_HOME$/programming/Go/Projects/go-parser/settings.json" protocol="file" />
+      <jump line="65" column="29" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="24" column="18" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="28" column="19" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="10" column="25" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="30" column="0" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="29" column="10" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="5" column="4" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="11" column="24" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="36" column="14" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="48" column="8" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="49" column="4" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="53" column="32" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="55" column="4" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="57" column="20" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="68" column="25" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="2" column="46" filename="$USER_HOME$/programming/Go/Projects/go-parser/dorks.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/go-parser/Results/25-Aug-24_09-59-45/unfiltered_links.txt" protocol="file" />
+      <jump line="184" column="0" filename="$USER_HOME$/programming/Go/Projects/go-parser/Results/25-Aug-24_09-59-45/unfiltered_links.txt" protocol="file" />
+      <jump line="94" column="30" filename="$USER_HOME$/programming/Go/Projects/go-parser/dorks.txt" protocol="file" />
+      <jump line="76" column="30" filename="$USER_HOME$/programming/Go/Projects/go-parser/dorks.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/go-parser/Results/25-Aug-24_11-00-13/Errors" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/go-parser/Results/25-Aug-24_11-00-05/domains.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/go-parser/Results/25-Aug-24_11-00-05/filtered_links.txt" protocol="file" />
+      <jump line="4" column="22" filename="$USER_HOME$/programming/Go/Projects/go-parser/settings.json" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/go-parser/Results/25-Aug-24_11-01-25/domains.txt" protocol="file" />
+      <jump line="727" column="18" filename="$USER_HOME$/programming/Go/Projects/go-parser/Results/25-Aug-24_11-01-25/domains.txt" protocol="file" />
+      <jump line="37" column="12" filename="$USER_HOME$/programming/Go/Projects/go-parser/dorks.txt" protocol="file" />
+      <jump line="51" column="22" filename="$USER_HOME$/programming/Go/Projects/go-parser/dorks.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/go-parser/Results/25-Aug-24_11-24-02/domains.txt" protocol="file" />
+      <jump line="64" column="13" filename="$USER_HOME$/programming/Go/Projects/go-parser/Results/25-Aug-24_11-24-02/domains.txt" protocol="file" />
+      <jump line="65" column="0" filename="$USER_HOME$/programming/Go/Projects/go-parser/Results/25-Aug-24_11-24-02/domains.txt" protocol="file" />
+      <jump line="42" column="18" filename="$USER_HOME$/programming/Go/Projects/go-parser/dorks.txt" protocol="file" />
+      <jump line="46" column="16" filename="$USER_HOME$/programming/Go/Projects/go-parser/dorks.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/go-parser/dorks.txt" protocol="file" />
+      <jump line="38" column="23" filename="$USER_HOME$/programming/Go/Projects/go-parser/dorks.txt" protocol="file" />
+      <jump line="18" column="11" filename="$USER_HOME$/programming/Go/Projects/go-parser/dorks.txt" protocol="file" />
+      <jump line="19" column="0" filename="$USER_HOME$/programming/Go/Projects/go-parser/dorks.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/go-parser/Results/25-Aug-24_11-24-02/filtered_links.txt" protocol="file" />
+      <jump line="184" column="0" filename="$USER_HOME$/programming/Go/Projects/go-parser/Results/Shopping/unfiltered_links.txt" protocol="file" />
+      <jump line="78" column="43" filename="$USER_HOME$/programming/Go/Projects/go-parser/cmd/parser/main.go" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/programming/Go/Projects/go-parser/Results/25-Aug-24_11-33-37/domains.txt" protocol="file" />
+      <jump line="79" column="17" filename="$USER_HOME$/programming/Go/Projects/go-parser/Results/25-Aug-24_11-33-37/common.txt" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/programming/Go/Projects/carrerwill/settings.json" timestamp="1726546788906">
+        <mark key="&quot;" line="21" column="20" />
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/carrerwill/Results/Anna Academy/Anna Academy.txt" timestamp="1726419060237">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/classplus.go" timestamp="1727972124131">
+        <mark key="&quot;" line="231" column="0" />
+        <mark key="'" line="202" column="12" />
+        <mark key="[" line="126" column="23" />
+        <mark key="]" line="126" column="23" />
+        <mark key="^" line="126" column="23" />
+        <mark key="." line="126" column="22" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/carrerwill/Results/Examo/Maths Special Batch by Ramo SIr (VOD).txt" timestamp="1725946658150">
+        <mark key="&quot;" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/carrerwill/main.go" timestamp="1726419076407">
+        <mark key="&quot;" line="29" column="4" />
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="29" column="5" />
+        <mark key="." line="29" column="4" />
+        <mark key="^" line="29" column="5" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/carrerwill/vsd_expect_script.exp" timestamp="1725964084333">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/utils.go" timestamp="1725964083061">
+        <mark key="&quot;" line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/spectrum/Results/Parser/parse.txt" timestamp="1725440607154">
+        <mark key="&quot;" line="37951" column="7" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/spectrum/internal/shopify/gate.go" timestamp="1725437755593">
+        <mark key="&quot;" line="67" column="19" />
+        <mark key="'" line="40" column="30" />
+        <mark key="]" line="18" column="26" />
+        <mark key="^" line="18" column="26" />
+        <mark key="." line="18" column="25" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/spectrum/cmd/parser/main.go" timestamp="1725454416083">
+        <mark key="'" line="148" column="6" />
+        <mark key="[" line="111" column="39" />
+        <mark key="]" line="111" column="55" />
+        <mark key="." line="111" column="54" />
+        <mark key="^" line="111" column="55" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/structs.go" timestamp="1726419058383">
+        <mark key="&quot;" line="9" column="0" />
+        <mark key="[" line="8" column="47" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="4" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/bansal.go" timestamp="1726062647773">
+        <mark key="&quot;" line="102" column="12" />
+        <mark key="d" line="1" column="0" />
+        <mark key="'" line="18" column="44" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+        <mark key="^" line="109" column="89" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/carrerwill/Results/chemistry untold/22429327" timestamp="1725964085597">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/spectrum/pkg/utils.go" timestamp="1725436991313">
+        <mark key="&quot;" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/examo.go" timestamp="1726416616406">
+        <mark key="&quot;" line="19" column="0" />
+        <mark key="]" line="81" column="25" />
+        <mark key="^" line="81" column="25" />
+        <mark key="." line="81" column="24" />
+      </file>
+      <file name="/usr/lib/go/src/os/user/lookup_windows.go" timestamp="1726075875761">
+        <mark key="&quot;" line="14" column="9" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/scrapper.go" timestamp="1725964081796">
+        <mark key="&quot;" line="17" column="0" />
+        <mark key="]" line="17" column="45" />
+        <mark key="^" line="17" column="45" />
+        <mark key="." line="17" column="44" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/carrerwill/cmd/anna.go" timestamp="1726420979982">
+        <mark key="'" line="86" column="26" />
+        <mark key="[" line="149" column="111" />
+        <mark key="]" line="149" column="112" />
+        <mark key="." line="149" column="111" />
+        <mark key="^" line="149" column="112" />
+      </file>
+      <file name="$USER_HOME$/programming/Go/Projects/spectrum/cmd/app/main.go" timestamp="1725441978842">
+        <mark key="&quot;" line="18" column="0" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="CHARACTER_WISE">
+        <text encoding="base64">MzAsIDMxLCAzMg==</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">MzAsIDMxLCAzMg==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64" />
+      </register>
+      <register name="/" type="CHARACTER_WISE">
+        <text encoding="base64">R2VuZXJhdGU=</text>
+      </register>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">CW1pc3NpbmdMZWMgPSBbXWludHs1LCA2LCA3LCA4LCA5LCAxMCwgMTIsIDEzLCAxNSwgMTEsIDE0LCAyNCwgMzQsIDM1LCAzNiwgMzcsIDM0LCA0NSwgNDksIDU0LCA1MSwgNTMsIDUyLCA1NCwgNTYsIDU1LCA1NywgNTgsIDYwLCA2MSwgNjMsIDY1fQo=</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">CW1pc3NpbmdMZWMgPSBbXWludHs1LCA2LCA3LCA4LCA5LCAxMCwgMTIsIDEzLCAxNSwgMTEsIDE0LCAyNCwgMzQsIDM1LCAzNiwgMzcsIDM0LCA0NSwgNDksIDU0LCA1MSwgNTMsIDUyLCA1NCwgNTYsIDU1LCA1NywgNTgsIDYwLCA2MSwgNjMsIDY1fQo=</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">CQkJZGVjcnlwdGVkLCBlcnIgOj0gZGVjcnlwdG9yKHNldHRpbmdzLCBvbGRUeXBlbGluaykKCQkJaWYgZXJyICE9IG5pbCB7CgkJCQlsb2cuRXJyb3IoIkZhaWxlZCB0byBkZWNyeXB0IiwgImVyciIsIGVyci5FcnJvcigpKQoJCQl9Cg==</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">CQkJLy9sb2cuRmF0YWwoZGVjcnlwdGVkKQo=</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">CQkJfQo=</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">CQkJCXZpZEtleSA6PSBzdHJpbmdzLlNwbGl0KGRhdGEuVGh1bWJuYWlsVXJsLCAiLyIpCgkJCQlvbGRUeXBlbGluayA6PSBmbXQuU3ByaW50ZigiaHR0cHM6Ly9hcGkuY2xhc3NwbHVzYXBwLmNvbS9jYW1zL3VwbG9hZGVyL3ZpZGVvL2p3LXNpZ25lZC11cmw/dXJsPWh0dHBzOi8vbWVkaWEtY2RuLmNsYXNzcGx1c2FwcC5jb20vYWxpc2ctY2RuLWEuY2xhc3NwbHVzYXBwLmNvbS8lcy9tYXN0ZXIubTN1OCZjb250ZW50SWQ9JWQmb2ZmbGluZURvd25sb2FkPXRydWUiLCB2aWRLZXlbNV0sIGRhdGEuSWQpCgkJCQlkZWNyeXB0ZWQsIGVyciA6PSBkZWNyeXB0b3Ioc2V0dGluZ3MsIG9sZFR5cGVsaW5rKQoJCQkJaWYgZXJyICE9IG5pbCB7CgkJCQkJbG9nLkVycm9yKCJGYWlsZWQgdG8gZGVjcnlwdCIsICJlcnIiLCBlcnIuRXJyb3IoKSkKCQkJCX0KCgkJCQl2aWRMaW5rU3RydWN0IDo9IFZpZExpbmt7ZGVjcnlwdGVkTGluazogZGVjcnlwdGVkLCBuYW1lOiBmbXQuU3ByaW50ZigiJXMiLCBkYXRhLk5hbWUpfQoJCQkJdmlkS2V5U3RvcmVDaCA8LSB2aWRMaW5rU3RydWN0Cg==</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">CQkJCWlmIAo=</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">R2VuZXJhdGU=</last-search>
+      <last-offset encoding="base64" />
+      <last-pattern encoding="base64">R2VuZXJhdGU=</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

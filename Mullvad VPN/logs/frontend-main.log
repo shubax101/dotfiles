@@ -1,0 +1,12 @@
+[2025-02-25 15:29:26.590][verbose] Chromium sandbox is enabled
+[2025-02-25 15:29:26.591][info] Running version 2024.3
+[2025-02-25 15:29:26.727][info] Detected locale: en-US
+[2025-02-25 15:29:26.958][info] Connected to the daemon
+[2025-02-25 15:29:27.152][info] Skip autoconnect because account token is not set
+[2025-02-25 15:29:27.158][info] Showing notification icon: "Update available. Install the latest app version to stay up to date"
+[2025-02-25 15:29:27.727][error] Failed to check autostart file: ENOENT: no such file or directory, access '/home/purex/.config/autostart/mullvad-vpn.desktop'
+[2025-02-25 15:29:30.109][info] Disconnected the tunnel
+[2025-02-25 15:29:30.109][info] before-quit received
+[2025-02-25 15:29:30.109][info] Quit initiated
+[2025-02-25 15:29:30.118][info] Unsubscribed from the daemon events
+[2025-02-25 15:29:30.118][verbose] GRPC Channel connectivity state changed to 4

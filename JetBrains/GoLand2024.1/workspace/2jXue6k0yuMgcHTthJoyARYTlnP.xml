@@ -1,0 +1,891 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="spectrum" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3djf26qhsj0sg" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmd/bot/main.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="725">
+              <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+              <folding>
+                <element signature="e#14#240#0" expanded="true" />
+                <element signature="e#445#466#0" expanded="true" />
+                <element signature="e#445#466#0" expanded="true" />
+                <element signature="e#520#541#0" expanded="true" />
+                <element signature="e#520#541#0" expanded="true" />
+                <element signature="e#601#622#0" expanded="true" />
+                <element signature="e#601#622#0" expanded="true" />
+                <element signature="e#1256#1281#0" expanded="true" />
+                <element signature="e#1256#1281#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/internal/shopify/keychecks.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="390">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/internal/shopify/gate.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="285">
+              <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+              <folding>
+                <element signature="e#17#371#0" expanded="true" />
+                <element signature="e#1091#1110#0" expanded="true" />
+                <element signature="e#1091#1110#0" expanded="true" />
+                <element signature="e#2426#2443#0" expanded="true" />
+                <element signature="e#2426#2443#0" expanded="true" />
+                <element signature="e#2848#2946#0" expanded="true" />
+                <element signature="e#2848#2946#0" expanded="true" />
+                <element signature="e#3049#3113#0" expanded="true" />
+                <element signature="e#3049#3113#0" expanded="true" />
+                <element signature="e#3310#3371#0" expanded="true" />
+                <element signature="e#3310#3371#0" expanded="true" />
+                <element signature="e#3502#3562#0" expanded="true" />
+                <element signature="e#3502#3562#0" expanded="true" />
+                <element signature="e#3745#3801#0" expanded="true" />
+                <element signature="e#3745#3801#0" expanded="true" />
+                <element signature="e#5033#5091#0" expanded="true" />
+                <element signature="e#5033#5091#0" expanded="true" />
+                <element signature="e#5249#5307#0" expanded="true" />
+                <element signature="e#5249#5307#0" expanded="true" />
+                <element signature="e#5514#5533#0" expanded="true" />
+                <element signature="e#5514#5533#0" expanded="true" />
+                <element signature="e#6131#6187#0" expanded="true" />
+                <element signature="e#6131#6187#0" expanded="true" />
+                <element signature="e#6546#6600#0" expanded="true" />
+                <element signature="e#6546#6600#0" expanded="true" />
+                <element signature="e#6788#6844#0" expanded="true" />
+                <element signature="e#6788#6844#0" expanded="true" />
+                <element signature="e#6910#6964#0" expanded="true" />
+                <element signature="e#6910#6964#0" expanded="true" />
+                <element signature="e#7144#7200#0" expanded="true" />
+                <element signature="e#7144#7200#0" expanded="true" />
+                <element signature="e#7988#8071#0" expanded="true" />
+                <element signature="e#7988#8071#0" expanded="true" />
+                <element signature="e#8635#8690#0" expanded="true" />
+                <element signature="e#8635#8690#0" expanded="true" />
+                <element signature="e#8794#8849#0" expanded="true" />
+                <element signature="e#8794#8849#0" expanded="true" />
+                <element signature="e#10312#10363#0" expanded="true" />
+                <element signature="e#10312#10363#0" expanded="true" />
+                <element signature="e#10933#10995#0" expanded="true" />
+                <element signature="e#10933#10995#0" expanded="true" />
+                <element signature="e#11093#11156#0" expanded="true" />
+                <element signature="e#11093#11156#0" expanded="true" />
+                <element signature="e#11602#11666#0" expanded="true" />
+                <element signature="e#11602#11666#0" expanded="true" />
+                <element signature="e#11766#11831#0" expanded="true" />
+                <element signature="e#11766#11831#0" expanded="true" />
+                <element signature="e#12106#12125#0" expanded="true" />
+                <element signature="e#12106#12125#0" expanded="true" />
+                <element signature="n#!!block;n#ThreeDBypass#0" />
+                <element signature="e#12320#12337#0" expanded="true" />
+                <element signature="e#12320#12337#0" expanded="true" />
+                <element signature="e#12412#12465#0" expanded="true" />
+                <element signature="e#12412#12465#0" expanded="true" />
+                <element signature="e#13187#13245#0" expanded="true" />
+                <element signature="e#13187#13245#0" expanded="true" />
+                <element signature="e#13378#13395#0" expanded="true" />
+                <element signature="e#13378#13395#0" expanded="true" />
+                <element signature="e#13508#13525#0" expanded="true" />
+                <element signature="e#13508#13525#0" expanded="true" />
+                <element signature="e#14043#14106#0" expanded="true" />
+                <element signature="e#14043#14106#0" expanded="true" />
+                <element signature="e#14803#14867#0" expanded="true" />
+                <element signature="e#14803#14867#0" expanded="true" />
+                <element signature="e#14870#14898#0" />
+                <element signature="e#16652#16683#0" />
+                <element signature="e#19372#19441#0" expanded="true" />
+                <element signature="e#19372#19441#0" expanded="true" />
+                <element signature="e#20157#20219#0" expanded="true" />
+                <element signature="e#20157#20219#0" expanded="true" />
+                <element signature="e#20868#20946#0" expanded="true" />
+                <element signature="e#20868#20946#0" expanded="true" />
+                <element signature="e#21682#21753#0" expanded="true" />
+                <element signature="e#21682#21753#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/internal/shopify/bypass.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="338">
+              <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+              <folding>
+                <element signature="e#17#66#0" expanded="true" />
+                <element signature="e#256#273#0" expanded="true" />
+                <element signature="e#256#273#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmd/app/main.go">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="390">
+              <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+              <folding>
+                <element signature="e#358#379#0" expanded="true" />
+                <element signature="e#358#379#0" expanded="true" />
+                <element signature="e#424#445#0" expanded="true" />
+                <element signature="e#424#445#0" expanded="true" />
+                <element signature="e#492#513#0" expanded="true" />
+                <element signature="e#492#513#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Go": {
+      "usageCount": 199,
+      "lastUsed": 1723017817055
+    },
+    "Image": {
+      "usageCount": 2,
+      "lastUsed": 1721631763959
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 20,
+      "lastUsed": 1723017816985
+    },
+    "Dockerfile": {
+      "usageCount": 1,
+      "lastUsed": 1722077223289
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>body</find>
+      <find>msg =</find>
+      <find>Payment</find>
+      <find>fmt.Prin</find>
+      <find>Total Amount</find>
+      <find>card</find>
+      <find>Checking</find>
+      <find>UNKNOWN</find>
+      <find>gate</find>
+      <find />
+      <find>log.</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>self.response</replace>
+      <replace />
+      <replace>r</replace>
+      <replace>re</replace>
+      <replace>ret</replace>
+      <replace>retu</replace>
+      <replace>retur</replace>
+      <replace>return</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/types/keychecks</dir>
+      <dir>$PROJECT_DIR$/internal/shopify/payloads</dir>
+      <dir>$PROJECT_DIR$/bins</dir>
+      <dir>$PROJECT_DIR$/cmd/bot/services</dir>
+      <dir>$PROJECT_DIR$/cmd/bot</dir>
+      <dir>$PROJECT_DIR$/internal/shopify</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isCustomScope" value="true" />
+    <option name="customScopeName" value="All Places" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/internal/shopify/graphql/giftcard/gate.go" />
+      <option value="$PROJECT_DIR$/models/enums.go" />
+      <option value="$PROJECT_DIR$/models/structs.go" />
+      <option value="$PROJECT_DIR$/models/checker.go" />
+      <option value="$PROJECT_DIR$/types/checker.go" />
+      <option value="$PROJECT_DIR$/pkg/address.go" />
+      <option value="$PROJECT_DIR$/types/errors.go" />
+      <option value="$PROJECT_DIR$/pkg/card.go" />
+      <option value="$PROJECT_DIR$/types/enums.go" />
+      <option value="$PROJECT_DIR$/types/structs.go" />
+      <option value="$PROJECT_DIR$/pkg/tokens.go" />
+      <option value="$PROJECT_DIR$/pkg/telegramhook.go" />
+      <option value="$PROJECT_DIR$/pkg/utils.go" />
+      <option value="$PROJECT_DIR$/internal/shopify/tokens/checkout.go" />
+      <option value="$PROJECT_DIR$/internal/shopify/payloads/country.go" />
+      <option value="$PROJECT_DIR$/internal/shopify/payloads/billing.go" />
+      <option value="$PROJECT_DIR$/internal/shopify/payloads/contact.go" />
+      <option value="$PROJECT_DIR$/internal/shopify/tokens/session.go" />
+      <option value="$PROJECT_DIR$/internal/shopify/payloads/submit.go" />
+      <option value="$PROJECT_DIR$/internal/shopify/payloads/final.go" />
+      <option value="$PROJECT_DIR$/internal/shopify/keychecks.go" />
+      <option value="$PROJECT_DIR$/internal/shopify/payloads/session.go" />
+      <option value="$PROJECT_DIR$/internal/shopify/tokens/payment.go" />
+      <option value="$PROJECT_DIR$/pkg/Logger.go" />
+      <option value="$PROJECT_DIR$/pkg/new_bins.go" />
+      <option value="$PROJECT_DIR$/pkg/bins.go" />
+      <option value="$PROJECT_DIR$/pkg/binlookup.go" />
+      <option value="$PROJECT_DIR$/cmd/bot/commands/commands.go" />
+      <option value="$PROJECT_DIR$/settings/LowAmount.txt" />
+      <option value="$PROJECT_DIR$/cmd/app/main.go" />
+      <option value="$PROJECT_DIR$/cmd/bot/services/services.go" />
+      <option value="$PROJECT_DIR$/pkg/Address.go" />
+      <option value="$PROJECT_DIR$/pkg/real_address.go" />
+      <option value="$PROJECT_DIR$/Dockerfile" />
+      <option value="$PROJECT_DIR$/cmd/bot/main.go" />
+      <option value="$PROJECT_DIR$/internal/shopify/bypass.go" />
+      <option value="$PROJECT_DIR$/internal/shopify/gate.go" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Dockerfile">
+      <summary usageCount="1" lastUsage="1722077223289" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="20" lastUsage="1723017816985" />
+    </language>
+    <language id="go">
+      <summary usageCount="199" lastUsage="1723017817055" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spectrum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/spectrum}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spectrum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/spectrum}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/spectrum/address}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spectrum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/spectrum}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/spectrum/cmd}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spectrum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/spectrum}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/spectrum/cmd}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/spectrum/cmd/bot}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spectrum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/spectrum}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/spectrum/cmd}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/spectrum/cmd/bot}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/spectrum/cmd/bot/services}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spectrum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/spectrum}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/spectrum/internal}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spectrum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/spectrum}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/spectrum/internal}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/spectrum/internal/shopify}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spectrum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/spectrum}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/purex/programming/Go/Projects/spectrum/settings}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="true" />
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/..">
+        <shellCommand>
+          <arg value="/usr/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info id="DFA" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07904412" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.084390245" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" show_stripe_button="false" weight="0.3300926" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="make" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.084390245" left="0.07904412" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info id="DFA" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.112239584" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.35787037" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" show_stripe_button="false" weight="0.3300926" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="make" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.35787037" left="0.112239584" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Find</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2389" y="209" key="SettingsEditor" timestamp="1721730959360">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2389" y="209" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1721730959360" />
+    <state x="2618" y="282" width="524" height="554" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1723019801602">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="282" width="524" height="554" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1722076908894" />
+    <state x="2618" y="282" width="524" height="554" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1723019801602" />
+    <state x="2599" y="108" width="770" height="951" key="find.popup" timestamp="1722705168603">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="679" y="108" width="770" height="951" key="find.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1721805353440" />
+    <state x="2599" y="108" width="770" height="951" key="find.popup/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1722705168603" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spectrum layout.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pkg/recaptcha_v3.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/bogdanfinn/tls-client@v1.7.6/client_options.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/types/errors.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pkg/stripe_keychecks.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pkg/structs.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pkg/card.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-73">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!block;n#String#0" expanded="true" />
+            <element signature="n#!!block;n#String#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/types/checker.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings/proxies.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/types/structs.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pkg/telegramhook.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/types/enums.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/shopify/tokens/checkout.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-155">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="e#16#74#0" expanded="true" />
+            <element signature="n#!!block;n#NewCheckout#0" expanded="true" />
+            <element signature="n#!!block;n#NewCheckout#0" expanded="true" />
+            <element signature="e#772#795#0" expanded="true" />
+            <element signature="e#772#795#0" expanded="true" />
+            <element signature="e#891#914#0" expanded="true" />
+            <element signature="e#891#914#0" expanded="true" />
+            <element signature="e#1056#1079#0" expanded="true" />
+            <element signature="e#1056#1079#0" expanded="true" />
+            <element signature="e#1176#1199#0" expanded="true" />
+            <element signature="e#1176#1199#0" expanded="true" />
+            <element signature="e#1331#1354#0" expanded="true" />
+            <element signature="e#1331#1354#0" expanded="true" />
+            <element signature="e#1426#1449#0" expanded="true" />
+            <element signature="e#1426#1449#0" expanded="true" />
+            <element signature="e#1637#1660#0" expanded="true" />
+            <element signature="e#1637#1660#0" expanded="true" />
+            <element signature="e#1888#1911#0" expanded="true" />
+            <element signature="e#1888#1911#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pkg/tokens.gox">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1456">
+          <caret line="192" column="15" selection-start-line="192" selection-start-column="15" selection-end-line="192" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pkg/fake.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/address/Phone.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/shopify/payloads/country.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2366">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <element signature="e#18#91#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/shopify/payloads/contact.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1474">
+          <caret line="98" column="20" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/shopify/tokens/session.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!block;n#NewSessionResponse#0" expanded="true" />
+            <element signature="n#!!block;n#NewSessionResponse#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/shopify/payloads/final.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/shopify/payloads/submit.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2340">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding>
+            <element signature="e#18#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/shopify/payloads/session.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+          <folding>
+            <element signature="e#18#105#0" expanded="true" />
+            <element signature="n#!!block;n#NewSessionPayload#0" expanded="true" />
+            <element signature="n#!!block;n#NewSessionPayload#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pkg/new_bins.go" />
+    <entry file="file://$PROJECT_DIR$/pkg/bins.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pkg/Logger.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding>
+            <element signature="e#13#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/shopify/tokens/payment.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+          <folding>
+            <element signature="e#16#99#0" expanded="true" />
+            <element signature="n#!!block;n#NewPayment#0" expanded="true" />
+            <element signature="n#!!block;n#NewPayment#0" expanded="true" />
+            <element signature="e#421#443#0" expanded="true" />
+            <element signature="e#421#443#0" expanded="true" />
+            <element signature="e#537#559#0" expanded="true" />
+            <element signature="e#537#559#0" expanded="true" />
+            <element signature="e#695#756#0" expanded="true" />
+            <element signature="e#695#756#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pkg/binlookup.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="105" column="29" selection-start-line="105" selection-start-column="29" selection-end-line="105" selection-end-column="29" />
+          <folding>
+            <element signature="e#13#99#0" expanded="true" />
+            <element signature="e#738#755#0" expanded="true" />
+            <element signature="e#738#755#0" expanded="true" />
+            <element signature="e#2127#2144#0" expanded="true" />
+            <element signature="e#2127#2144#0" expanded="true" />
+            <element signature="e#2432#2482#0" expanded="true" />
+            <element signature="e#2432#2482#0" expanded="true" />
+            <element signature="e#2728#2751#0" expanded="true" />
+            <element signature="e#2728#2751#0" expanded="true" />
+            <element signature="e#2965#2990#0" expanded="true" />
+            <element signature="e#2965#2990#0" expanded="true" />
+            <element signature="e#3071#3100#0" expanded="true" />
+            <element signature="e#3071#3100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/pkg/mod/github.com/go-telegram-bot-api/telegram-bot-api/v5@v5.5.1/types.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="895">
+          <caret line="631" column="18" selection-start-line="631" selection-start-column="18" selection-end-line="631" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/address/Address.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pkg/generate.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-234" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pkg/Address.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="13822" column="20" selection-start-line="13822" selection-start-column="20" selection-end-line="13822" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pkg/utils.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
+          <folding>
+            <element signature="e#13#172#0" expanded="true" />
+            <element signature="n#!!block;n#ConstructHeaders#0" />
+            <element signature="n#!!block;n#NewProxyManager#0" expanded="true" />
+            <element signature="n#!!block;n#NewProxyManager#0" expanded="true" />
+            <element signature="e#4406#4460#0" expanded="true" />
+            <element signature="e#4406#4460#0" expanded="true" />
+            <element signature="e#4855#4877#0" expanded="true" />
+            <element signature="e#4855#4877#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmd/bot/commands/commands.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pkg/real_address.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="89" column="44" selection-start-line="89" selection-start-column="44" selection-end-line="89" selection-end-column="44" />
+          <folding>
+            <element signature="e#13#94#0" expanded="true" />
+            <element signature="n#!!block;n#NewRealDetails#0" expanded="true" />
+            <element signature="n#!!block;n#NewRealDetails#0" expanded="true" />
+            <element signature="e#640#706#0" expanded="true" />
+            <element signature="e#640#706#0" expanded="true" />
+            <element signature="e#981#1041#0" expanded="true" />
+            <element signature="e#981#1041#0" expanded="true" />
+            <element signature="e#1292#1348#0" expanded="true" />
+            <element signature="e#1292#1348#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmd/bot/services/services.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2938">
+          <caret line="133" column="32" selection-start-line="133" selection-start-column="32" selection-end-line="133" selection-end-column="32" />
+          <folding>
+            <element signature="e#18#231#0" expanded="true" />
+            <element signature="e#1835#1852#0" expanded="true" />
+            <element signature="e#1835#1852#0" expanded="true" />
+            <element signature="e#9049#9065#0" expanded="true" />
+            <element signature="e#9049#9065#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmd/app/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding>
+            <element signature="e#358#379#0" expanded="true" />
+            <element signature="e#358#379#0" expanded="true" />
+            <element signature="e#424#445#0" expanded="true" />
+            <element signature="e#424#445#0" expanded="true" />
+            <element signature="e#492#513#0" expanded="true" />
+            <element signature="e#492#513#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings/LowAmount.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/shopify/bypass.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+          <folding>
+            <element signature="e#17#66#0" expanded="true" />
+            <element signature="e#256#273#0" expanded="true" />
+            <element signature="e#256#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmd/bot/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+          <folding>
+            <element signature="e#14#240#0" expanded="true" />
+            <element signature="e#445#466#0" expanded="true" />
+            <element signature="e#445#466#0" expanded="true" />
+            <element signature="e#520#541#0" expanded="true" />
+            <element signature="e#520#541#0" expanded="true" />
+            <element signature="e#601#622#0" expanded="true" />
+            <element signature="e#601#622#0" expanded="true" />
+            <element signature="e#1256#1281#0" expanded="true" />
+            <element signature="e#1256#1281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/shopify/keychecks.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/shopify/gate.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <element signature="e#17#371#0" expanded="true" />
+            <element signature="e#1091#1110#0" expanded="true" />
+            <element signature="e#1091#1110#0" expanded="true" />
+            <element signature="e#2426#2443#0" expanded="true" />
+            <element signature="e#2426#2443#0" expanded="true" />
+            <element signature="e#2848#2946#0" expanded="true" />
+            <element signature="e#2848#2946#0" expanded="true" />
+            <element signature="e#3049#3113#0" expanded="true" />
+            <element signature="e#3049#3113#0" expanded="true" />
+            <element signature="e#3310#3371#0" expanded="true" />
+            <element signature="e#3310#3371#0" expanded="true" />
+            <element signature="e#3502#3562#0" expanded="true" />
+            <element signature="e#3502#3562#0" expanded="true" />
+            <element signature="e#3745#3801#0" expanded="true" />
+            <element signature="e#3745#3801#0" expanded="true" />
+            <element signature="e#5033#5091#0" expanded="true" />
+            <element signature="e#5033#5091#0" expanded="true" />
+            <element signature="e#5249#5307#0" expanded="true" />
+            <element signature="e#5249#5307#0" expanded="true" />
+            <element signature="e#5514#5533#0" expanded="true" />
+            <element signature="e#5514#5533#0" expanded="true" />
+            <element signature="e#6131#6187#0" expanded="true" />
+            <element signature="e#6131#6187#0" expanded="true" />
+            <element signature="e#6546#6600#0" expanded="true" />
+            <element signature="e#6546#6600#0" expanded="true" />
+            <element signature="e#6788#6844#0" expanded="true" />
+            <element signature="e#6788#6844#0" expanded="true" />
+            <element signature="e#6910#6964#0" expanded="true" />
+            <element signature="e#6910#6964#0" expanded="true" />
+            <element signature="e#7144#7200#0" expanded="true" />
+            <element signature="e#7144#7200#0" expanded="true" />
+            <element signature="e#7988#8071#0" expanded="true" />
+            <element signature="e#7988#8071#0" expanded="true" />
+            <element signature="e#8635#8690#0" expanded="true" />
+            <element signature="e#8635#8690#0" expanded="true" />
+            <element signature="e#8794#8849#0" expanded="true" />
+            <element signature="e#8794#8849#0" expanded="true" />
+            <element signature="e#10312#10363#0" expanded="true" />
+            <element signature="e#10312#10363#0" expanded="true" />
+            <element signature="e#10933#10995#0" expanded="true" />
+            <element signature="e#10933#10995#0" expanded="true" />
+            <element signature="e#11093#11156#0" expanded="true" />
+            <element signature="e#11093#11156#0" expanded="true" />
+            <element signature="e#11602#11666#0" expanded="true" />
+            <element signature="e#11602#11666#0" expanded="true" />
+            <element signature="e#11766#11831#0" expanded="true" />
+            <element signature="e#11766#11831#0" expanded="true" />
+            <element signature="e#12106#12125#0" expanded="true" />
+            <element signature="e#12106#12125#0" expanded="true" />
+            <element signature="n#!!block;n#ThreeDBypass#0" />
+            <element signature="e#12320#12337#0" expanded="true" />
+            <element signature="e#12320#12337#0" expanded="true" />
+            <element signature="e#12412#12465#0" expanded="true" />
+            <element signature="e#12412#12465#0" expanded="true" />
+            <element signature="e#13187#13245#0" expanded="true" />
+            <element signature="e#13187#13245#0" expanded="true" />
+            <element signature="e#13378#13395#0" expanded="true" />
+            <element signature="e#13378#13395#0" expanded="true" />
+            <element signature="e#13508#13525#0" expanded="true" />
+            <element signature="e#13508#13525#0" expanded="true" />
+            <element signature="e#14043#14106#0" expanded="true" />
+            <element signature="e#14043#14106#0" expanded="true" />
+            <element signature="e#14803#14867#0" expanded="true" />
+            <element signature="e#14803#14867#0" expanded="true" />
+            <element signature="e#14870#14898#0" />
+            <element signature="e#16652#16683#0" />
+            <element signature="e#19372#19441#0" expanded="true" />
+            <element signature="e#19372#19441#0" expanded="true" />
+            <element signature="e#20157#20219#0" expanded="true" />
+            <element signature="e#20157#20219#0" expanded="true" />
+            <element signature="e#20868#20946#0" expanded="true" />
+            <element signature="e#20868#20946#0" expanded="true" />
+            <element signature="e#21682#21753#0" expanded="true" />
+            <element signature="e#21682#21753#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

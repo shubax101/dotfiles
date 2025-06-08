@@ -1,0 +1,148 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="1" l="1729578924626" />
+    </e>
+    <e n="$Redo">
+      <i c="13" l="1729580045756" />
+    </e>
+    <e n="$SelectAll">
+      <i c="6" l="1729581110638" />
+    </e>
+    <e n="$Undo">
+      <i c="1" l="1729578949165" />
+    </e>
+    <e n="Annotate">
+      <i c="1" l="1729579669602" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="16" l="1729583789141" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="1" l="1729580280695" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="16" l="1729583882736" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="220" l="1729583957506" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="39" l="1729583959264" />
+    </e>
+    <e n="EditorCopy">
+      <i c="4" l="1729582754319" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="14" l="1729583956288" />
+    </e>
+    <e n="EditorDown">
+      <i c="12" l="1729583419411" />
+    </e>
+    <e n="EditorEnter">
+      <i c="85" l="1729583924487" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="2" l="1729579315247" />
+    </e>
+    <e n="EditorPaste">
+      <i c="5" l="1729581106766" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="1" l="1729579496059" />
+    </e>
+    <e n="FindInPath">
+      <i c="2" l="1729581106198" />
+    </e>
+    <e n="GotoAction">
+      <i c="1" l="1729581081385" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="27" l="1729583619606" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="1" l="1729579832221" />
+    </e>
+    <e n="InsertInlineCompletionAction">
+      <i c="5" l="1729583220515" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="1" l="1729578303265" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="4" l="1729583523245" />
+    </e>
+    <e n="ProblemsView.CopyProblemDescription">
+      <i c="1" l="1729581587116" />
+    </e>
+    <e n="RunAnything">
+      <i c="2" l="1729582753391" />
+    </e>
+    <e n="SaveAll">
+      <i c="85" l="1729583960598" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="3" l="1729576877767" />
+    </e>
+    <e n="ShowSettings">
+      <i c="3" l="1729576874384" />
+    </e>
+    <e n="WelcomeScreen.Plugins">
+      <i c="1" l="1729576879512" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
+      <i c="1" l="1729581121257" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
+      <i c="4" l="1729581109246" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerConfigurable$3">
+      <i c="2" l="1729576907410" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="2" l="1729576903437" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1721568094712" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="437" l="1729583959578" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
+      <i c="1" l="1729579715245" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="3" l="1729581577341" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="15" l="1729579709796" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="2" l="1729582754792" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="5" l="1729581588269" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1729576517252" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1721568018441" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="1" l="1721568014391" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="5" l="1729579115078" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="1" l="1729576454952" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="89" l="1729583960595" />
+    </e>
+    <e n="org.rust.cargo.project.model.impl.CargoProjectImplKt$notifyUpdateAvailable$1">
+      <i c="1" l="1729576019289" />
+    </e>
+  </component>
+</application>

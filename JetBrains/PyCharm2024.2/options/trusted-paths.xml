@@ -1,0 +1,27 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$" value="true" />
+        <entry key="$USER_HOME$/Downloads/Telegram Desktop/peeky" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/scientificProject" value="true" />
+        <entry key="$USER_HOME$/deep learning/AI_StudyNotes/02 - Areas/Programming/Pytorch/PyTorch" value="true" />
+        <entry key="$USER_HOME$/programming/Python/RecaptchaV2-IA-Solver" value="true" />
+        <entry key="$USER_HOME$/programming/Python/hard m3u8" value="true" />
+        <entry key="$USER_HOME$/programming/Python/scrappy" value="true" />
+        <entry key="$USER_HOME$/programming/Python/scrapyer" value="true" />
+        <entry key="$USER_HOME$/programming/Python/stripo" value="true" />
+        <entry key="$USER_HOME$/programming/Python/tele-schedular" value="true" />
+        <entry key="$USER_HOME$/programming/Python/tele-schedular-binary" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/programming/Python" />
+        <option value="$USER_HOME$/Downloads/Telegram Desktop" />
+      </list>
+    </option>
+  </component>
+</application>

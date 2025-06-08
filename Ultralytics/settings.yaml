@@ -1,0 +1,16 @@
+settings_version: 0.0.4
+datasets_dir: /home/purex/programming/Python/datasets
+weights_dir: /home/purex/programming/Python/RecaptchaV2-IA-Solver/weights
+runs_dir: /home/purex/programming/Python/RecaptchaV2-IA-Solver/runs
+uuid: 4089c60cb4ce94f61bf072aa88f30ed4ad0f7dafb388f42cd77715c7e3322042
+sync: true
+api_key: ''
+clearml: true
+comet: true
+dvc: true
+hub: true
+mlflow: true
+neptune: true
+raytune: true
+tensorboard: true
+wandb: true

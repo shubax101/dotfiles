@@ -1,11 +1,17 @@
 <application>
+  <component name="DimensionService">
+    <location key="find.popup.1920.0.1920.1080" x="2722" y="216" />
+    <location key="find.popup.0.0.1920.1080" x="802" y="216" />
+    <size key="find.popup.1920.0.1920.1080" width="649" height="864" />
+    <size key="find.popup.0.0.1920.1080" width="723" height="864" />
+  </component>
   <component name="WindowManager">
-    <frame x="1932" y="51" width="1896" height="1017" />
+    <frame x="2884" y="47" width="948" height="1025" />
   </component>
   <component name="WindowStateApplicationService">
-    <state width="526" height="111" key="ShowUsagesActions.dimensionServiceKey" timestamp="1720888059154">
+    <state width="526" height="163" key="ShowUsagesActions.dimensionServiceKey" timestamp="1722267756139">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="526" height="111" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1080/1920.0.1920.1080" timestamp="1720888059154" />
+    <state width="526" height="163" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1080/1920.0.1920.1080" timestamp="1722267756139" />
   </component>
 </application>

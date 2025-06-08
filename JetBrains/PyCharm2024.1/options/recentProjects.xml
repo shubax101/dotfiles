@@ -20,23 +20,86 @@
         </entry>
         <entry key="$USER_HOME$/programming/Python/stripo">
           <value>
-            <RecentProjectMetaInfo frameTitle="stripo – stripo.py" opened="true" projectWorkspaceId="2j464JPfixCLwaOuyVaWpJr1cNM">
-              <option name="activationTimestamp" value="1721069760599" />
+            <RecentProjectMetaInfo frameTitle="stripo – stripo.py" projectWorkspaceId="2j464JPfixCLwaOuyVaWpJr1cNM">
+              <option name="activationTimestamp" value="1721739500477" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PY-241.18034.82" />
               <option name="buildTimestamp" value="1719250980000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="2" />
               </option>
-              <frame x="2884" y="51" width="944" height="1017" />
+              <frame x="1928" y="47" width="948" height="1025" />
               <option name="productionCode" value="PY" />
               <option name="projectOpenTimestamp" value="1720886303287" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/deep learning/AI_StudyNotes/02 - Areas/Programming/Pytorch/PyTorch">
+          <value>
+            <RecentProjectMetaInfo frameTitle="PyTorch" projectWorkspaceId="2jeFUk616KRKx7ymyKYtLyNLuWM">
+              <option name="activationTimestamp" value="1721739720466" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-241.18034.82" />
+              <option name="buildTimestamp" value="1719250980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="2884" y="47" width="948" height="1025" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1721739654033" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/programming/Python/scrappy">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="2fuqW1CaKxDsMR1PbVIWzRsYbpd">
+              <option name="activationTimestamp" value="1721883316293" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-241.18034.82" />
+              <option name="buildTimestamp" value="1719250980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1721880307894" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/programming/Python/myip.ms-scrapper">
+          <value>
+            <RecentProjectMetaInfo frameTitle="myip.ms-scrapper – settings.py" projectWorkspaceId="2kB9l7edRrMrdNK6TLhGssjwple">
+              <option name="activationTimestamp" value="1722746919970" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-241.18034.82" />
+              <option name="buildTimestamp" value="1719250980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="1928" y="47" width="948" height="1025" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1722746252186" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/programming/Python/RecaptchaV2-IA-Solver">
+          <value>
+            <RecentProjectMetaInfo frameTitle="RecaptchaV2-IA-Solver – main.py" opened="true" projectWorkspaceId="2iaNGBIJ4MzzFWmegmXJuv8P7Bv">
+              <option name="activationTimestamp" value="1723396326413" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-241.19072.16" />
+              <option name="buildTimestamp" value="1723132860000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="8" y="47" width="1904" height="1025" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1723393419561" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/programming/Python/stripo" />
-    <option name="lastProjectLocation" value="$USER_HOME$/PycharmProjects" />
+    <option name="lastOpenedProject" value="$USER_HOME$/programming/Python/RecaptchaV2-IA-Solver" />
+    <option name="lastProjectLocation" value="$USER_HOME$/deep learning/AI_StudyNotes/02 - Areas/Programming/Pytorch" />
   </component>
 </application>

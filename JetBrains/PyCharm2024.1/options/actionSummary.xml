@@ -1,22 +1,31 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="1" l="1723395712733" />
+    </e>
+    <e n="$Delete">
+      <i c="2" l="1723390324251" />
+    </e>
+    <e n="$SelectAll">
+      <i c="1" l="1721739606367" />
+    </e>
     <e n="$Undo">
       <i c="1" l="1720862910596" />
     </e>
     <e n="AutoIndentLines">
-      <i c="8" l="1721063129010" />
+      <i c="10" l="1723395098721" />
     </e>
     <e n="ChangeLaf">
       <i c="1" l="1720861771837" />
     </e>
     <e n="CommentByLineComment">
-      <i c="4" l="1721063509162" />
+      <i c="9" l="1723395097939" />
     </e>
     <e n="ConsoleView.ClearAll">
       <i c="1" l="1720866272128" />
     </e>
     <e n="EditorBackSpace">
-      <i c="167" l="1721063630228" />
+      <i c="193" l="1723395020809" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="16" l="1721063610859" />
@@ -28,13 +37,13 @@
       <i c="5" l="1720862244045" />
     </e>
     <e n="EditorDeleteToWordStart">
-      <i c="25" l="1721063628196" />
+      <i c="37" l="1723393045740" />
     </e>
     <e n="EditorDown">
       <i c="2" l="1720863398617" />
     </e>
     <e n="EditorEnter">
-      <i c="35" l="1721063613297" />
+      <i c="37" l="1723395006229" />
     </e>
     <e n="EditorGutterToggleGlobalLineNumbers">
       <i c="3" l="1720863354829" />
@@ -46,7 +55,7 @@
       <i c="7" l="1720862886041" />
     </e>
     <e n="EditorRight">
-      <i c="2" l="1720862841055" />
+      <i c="3" l="1721880439618" />
     </e>
     <e n="EditorTabsEntryPoint">
       <i c="5" l="1720862470148" />
@@ -56,6 +65,12 @@
     </e>
     <e n="EnableNewUi">
       <i c="1" l="1720861729384" />
+    </e>
+    <e n="FindInPath">
+      <i c="1" l="1722746657278" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="6" l="1723395422626" />
     </e>
     <e n="InsertInlineCompletionAction">
       <i c="10" l="1721063623366" />
@@ -68,6 +83,9 @@
     </e>
     <e n="JupyterNotebookInsertCellAboveCommandModeAction">
       <i c="1" l="1720861711022" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="1" l="1723393250344" />
     </e>
     <e n="NotebookCellBorderInsertCellAboveAction">
       <i c="1" l="1720863070704" />
@@ -88,46 +106,73 @@
       <i c="2" l="1720862365809" />
     </e>
     <e n="PasteMultiple">
-      <i c="21" l="1721063015949" />
+      <i c="36" l="1723396086645" />
     </e>
     <e n="RenameElement">
-      <i c="2" l="1720862882096" />
+      <i c="3" l="1721880433513" />
+    </e>
+    <e n="Rerun">
+      <i c="1" l="1723393153689" />
     </e>
     <e n="SaveAll">
-      <i c="58" l="1721063510462" />
+      <i c="83" l="1723396288796" />
     </e>
     <e n="SettingsEntryPoint">
-      <i c="12" l="1720866256535" />
+      <i c="15" l="1723393187024" />
     </e>
     <e n="ShowSettings">
-      <i c="8" l="1720866257349" />
+      <i c="11" l="1723393188572" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="1" l="1723393122851" />
     </e>
     <e n="com.intellij.ide.actions.QuickChangeLookAndFeel$LafChangeAction">
       <i c="1" l="1720861773890" />
     </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1722746283345" />
+    </e>
     <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
-      <i c="313" l="1721063630227" />
+      <i c="369" l="1723396288315" />
     </e>
     <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
       <i c="2" l="1720866358151" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="23" l="1723395024366" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1722746658955" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="3" l="1723396329754" />
     </e>
     <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$3">
       <i c="1" l="1720861689175" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="2" l="1720886314723" />
+      <i c="7" l="1723393237720" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="1" l="1720861837050" />
+      <i c="2" l="1723393184186" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
-      <i c="1" l="1720861611271" />
+      <i c="2" l="1721739511570" />
+    </e>
+    <e n="com.intellij.terminal.actions.TerminalActionWrapper">
+      <i c="2" l="1723393456160" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="1" l="1720861650645" />
+      <i c="2" l="1723392981462" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="1" l="1721739573894" />
+    </e>
+    <e n="com.jetbrains.python.sdk.AddLocalInterpreterAction">
+      <i c="4" l="1723390345399" />
     </e>
     <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
-      <i c="58" l="1721063510439" />
+      <i c="83" l="1723396288789" />
     </e>
     <e n="org.jetbrains.plugins.notebooks.editor.actions.InlayToolbarActionWrapper">
       <i c="2" l="1720866359413" />

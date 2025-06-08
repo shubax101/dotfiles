@@ -1,0 +1,51 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="15.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "COMMERCIAL_RELEASE_BANNER_HAS_SHOWN": "true",
+    "CRATES_IO_INDEX_LAST_UPDATE": "1729583723821",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "1",
+    "MarketplacePluginsSearchHistory": "vim",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.rust.enable.attach.dialog": "true",
+    "RunOnceActivity.rust.find.settings.fix": "true",
+    "RunOnceActivity.rust.first.ide.run": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "SettingsSearchHistory": "http\nfont",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "com.jetbrains.rust.LAST_UPDATE": "1729576032501",
+    "com.jetbrains.rust.LAST_VERSION": "242.22855.133",
+    "evlsprt3.241": "6",
+    "evlsprt3.242": "4",
+    "experimental.ui.used.version": "242.22855.133",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "ide.memory.adjusted": "true",
+    "ide.updates.old.dirs.scan.scheduled": "1730180707992",
+    "ide.updates.previous.build.number": "RR-242.22855.133",
+    "input.method.disabler.muted": "true",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "RR-242.22855.133",
+    "ts.lib.d.ts.version": "5.4.3"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>
