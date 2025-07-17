@@ -1,0 +1,19 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/programming/Go/Projects/spectrum" value="true" />
+        <entry key="$USER_HOME$/programming/Python/Cp-Extractor" value="true" />
+        <entry key="$USER_HOME$/programming/Python/PwCpTxtExtractor" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/programming/Python" />
+        <option value="$USER_HOME$/programming/Go/Projects" />
+      </list>
+    </option>
+  </component>
+</application>

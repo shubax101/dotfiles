@@ -1,0 +1,61 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="1" l="1752543282695" />
+    </e>
+    <e n="CopyPaths">
+      <i c="1" l="1752543275733" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="6" l="1752543506887" />
+    </e>
+    <e n="EditorEscape">
+      <i c="1" l="1752543446640" />
+    </e>
+    <e n="EditorPaste">
+      <i c="3" l="1752543505104" />
+    </e>
+    <e n="Find">
+      <i c="7" l="1752543504831" />
+    </e>
+    <e n="FindInPath">
+      <i c="2" l="1752543182898" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="1" l="1752465536529" />
+    </e>
+    <e n="SaveAll">
+      <i c="2" l="1752543509962" />
+    </e>
+    <e n="Terminal.CopySelectedText">
+      <i c="2" l="1752466337724" />
+    </e>
+    <e n="com.intellij.find.SearchTextArea$NewLineAction">
+      <i c="1" l="1752543367234" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.JbChooserAction">
+      <i c="1" l="1752465337668" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="10" l="1752543514513" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="1" l="1752465434240" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1752543164433" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1752543376672" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="1" l="1752465388091" />
+    </e>
+    <e n="com.intellij.usages.impl.UsageViewImpl$ShowSettings">
+      <i c="1" l="1752543202738" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="3" l="1752543509888" />
+    </e>
+  </component>
+</application>

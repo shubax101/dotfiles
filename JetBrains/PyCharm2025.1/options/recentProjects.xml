@@ -1,0 +1,56 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/programming/Python/Cp-Extractor">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Cp-Extractor – main.py" projectWorkspaceId="2zktRiN2ObzWxIZEwnPbf9cR1R2">
+              <option name="activationTimestamp" value="1752293583057" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-251.26927.90" />
+              <option name="buildTimestamp" value="1752134100000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="2884" y="47" width="948" height="509" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1752292130372" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/programming/Python/PwCpTxtExtractor">
+          <value>
+            <RecentProjectMetaInfo frameTitle="PwCpTxtExtractor – main.py" projectWorkspaceId="2zozNbIjP0kjjzTwQYqB5veexk4">
+              <option name="activationTimestamp" value="1752429201778" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-251.26927.90" />
+              <option name="buildTimestamp" value="1752134100000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="1928" y="47" width="1904" height="1025" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1752412540799" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/programming/Python/quiz_era">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2zufrCYoOb1SJJcmi5rcour6001">
+              <option name="activationTimestamp" value="1752586893908" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-251.26927.90" />
+              <option name="buildTimestamp" value="1752134100000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1752586076992" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/programming/Python/quiz_era" />
+  </component>
+</application>

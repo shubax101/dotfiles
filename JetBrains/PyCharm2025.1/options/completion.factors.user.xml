@@ -1,0 +1,65 @@
+<application>
+  <component name="ApplicationUserFactors">
+    <factor id="completionFinishedType">
+      <dailyData date="12-07-2025">
+        <observation name="cancelled" value="1.0" />
+      </dailyData>
+      <dailyData date="13-07-2025">
+        <observation name="cancelled" value="183.0" />
+        <observation name="explicitSelect" value="18.0" />
+        <observation name="typedSelect" value="28.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType">
+      <dailyData date="13-07-2025">
+        <observation name="BASIC" value="85.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionUsage">
+      <dailyData date="12-07-2025">
+        <observation name="count" value="1.0" />
+      </dailyData>
+      <dailyData date="13-07-2025">
+        <observation name="count" value="230.0" />
+      </dailyData>
+    </factor>
+    <factor id="itemPosition">
+      <dailyData date="13-07-2025">
+        <observation name="0" value="15.0" />
+        <observation name="1" value="3.0" />
+      </dailyData>
+    </factor>
+    <factor id="mnemonicsUsage">
+      <dailyData date="13-07-2025">
+        <observation name="total" value="17.0" />
+        <observation name="withMnemonics" value="1.0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixLength">
+      <dailyData date="13-07-2025">
+        <observation name="0" value="1.0" />
+        <observation name="2" value="7.0" />
+        <observation name="3" value="5.0" />
+        <observation name="4" value="4.0" />
+        <observation name="7" value="1.0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixMatchingType">
+      <dailyData date="13-07-2025">
+        <observation name="GREEDY_WITH_CASE" value="1.0" />
+        <observation name="START_WITH" value="16.0" />
+      </dailyData>
+    </factor>
+    <factor id="templatesUsage">
+      <dailyData date="13-07-2025">
+        <observation name="totalStartingWithPrefix" value="17.0" />
+      </dailyData>
+    </factor>
+    <factor id="timeBetweenTyping">
+      <dailyData date="13-07-2025">
+        <observation name="average" value="219.362919" />
+        <observation name="count" value="507.0" />
+      </dailyData>
+    </factor>
+  </component>
+</application>

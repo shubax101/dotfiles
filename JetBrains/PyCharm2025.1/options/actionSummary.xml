@@ -1,0 +1,157 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="15" l="1752586740698" />
+    </e>
+    <e n="$Delete">
+      <i c="2" l="1752424031402" />
+    </e>
+    <e n="$Redo">
+      <i c="36" l="1752426331402" />
+    </e>
+    <e n="$SelectAll">
+      <i c="21" l="1752586242038" />
+    </e>
+    <e n="$Undo">
+      <i c="46" l="1752586891135" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="16" l="1752425981771" />
+    </e>
+    <e n="Back">
+      <i c="1" l="1752418393446" />
+    </e>
+    <e n="ClickLink">
+      <i c="1" l="1752287386496" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="18" l="1752586879031" />
+    </e>
+    <e n="CopyPaths">
+      <i c="3" l="1752586334154" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="228" l="1752586242212" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="18" l="1752418166456" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="2" l="1752414814481" />
+    </e>
+    <e n="EditorCopy">
+      <i c="11" l="1752418107978" />
+    </e>
+    <e n="EditorCut">
+      <i c="3" l="1752292195843" />
+    </e>
+    <e n="EditorDeleteToWordEnd">
+      <i c="1" l="1752416776162" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="11" l="1752420596325" />
+    </e>
+    <e n="EditorDown">
+      <i c="7" l="1752417887454" />
+    </e>
+    <e n="EditorEnter">
+      <i c="74" l="1752586883582" />
+    </e>
+    <e n="EditorPaste">
+      <i c="24" l="1752586171447" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="1" l="1752416167782" />
+    </e>
+    <e n="EditorTab">
+      <i c="1" l="1752417180483" />
+    </e>
+    <e n="EditorUp">
+      <i c="2" l="1752418103752" />
+    </e>
+    <e n="ExpandAllRegions">
+      <i c="1" l="1752412262046" />
+    </e>
+    <e n="ExpandRegion">
+      <i c="1" l="1752412257697" />
+    </e>
+    <e n="Find">
+      <i c="21" l="1752586866425" />
+    </e>
+    <e n="Forward">
+      <i c="1" l="1752418394566" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="18" l="1752426149344" />
+    </e>
+    <e n="InsertInlineCompletionAction">
+      <i c="21" l="1752419373785" />
+    </e>
+    <e n="IntroduceParameter">
+      <i c="1" l="1752413578312" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="20" l="1752586892487" />
+    </e>
+    <e n="SaveAll">
+      <i c="94" l="1752426008106" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="6" l="1752413580217" />
+    </e>
+    <e n="ShowSettings">
+      <i c="5" l="1752413582211" />
+    </e>
+    <e n="Terminal.CopySelectedText">
+      <i c="6" l="1752426096914" />
+    </e>
+    <e n="WelcomeScreen.Plugins">
+      <i c="1" l="1752292187499" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="1" l="1752292213405" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="27" l="1752586160721" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
+      <i c="20" l="1752426116300" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.SwitchToFind">
+      <i c="2" l="1752292142166" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1752412396378" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="566" l="1752586889955" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$6">
+      <i c="1" l="1752414490848" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="7" l="1752586247575" />
+    </e>
+    <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$AddKeyboardShortcutAction">
+      <i c="2" l="1752413560398" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="7" l="1752424613095" />
+    </e>
+    <e n="com.intellij.terminal.frontend.action.SendShortcutToTerminalAction">
+      <i c="131" l="1752426874811" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1752412556311" />
+    </e>
+    <e n="com.maddyhome.idea.vim.group.NotificationService$notifyAboutShortcutConflict$1">
+      <i c="1" l="1752413271178" />
+    </e>
+    <e n="com.maddyhome.idea.vim.group.NotificationService$notifyAboutShortcutConflict$2">
+      <i c="1" l="1752412958942" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="87" l="1752426008099" />
+    </e>
+  </component>
+</application>

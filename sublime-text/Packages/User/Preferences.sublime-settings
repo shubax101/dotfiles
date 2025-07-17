@@ -3,4 +3,9 @@
 	"font_size": 13,
 	"theme": "Adaptive.sublime-theme",
 	"color_scheme": "Packages/sublime/Dracula Pro.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"index_files": true,
 }
