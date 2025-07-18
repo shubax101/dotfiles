@@ -1,6 +1,15 @@
 {
 	"file_history":
 	[
+		"/home/purex/programming/Python/quiz_era/quiz_data/History/13. British Acts and Policies",
+		"/home/purex/programming/Python/quiz_era/quiz_data/History/11. Prominent Leaders and Personalities.json",
+		"/home/purex/programming/Python/quiz_era/quiz_data/History/12. Struggle of Independence.json",
+		"/home/purex/programming/Python/quiz_era/quiz_data/History/10. A Few More Associations.json",
+		"/home/purex/programming/Python/quiz_era/quiz_data/History/2. Expansion of British Power.json",
+		"/home/purex/programming/Python/quiz_era/quiz_data/History/3. GGI, GGB and Voiceroys.json",
+		"/home/purex/programming/Python/quiz_era/quiz_data/History/6. Civil and Tribal.json",
+		"/home/purex/hist.txt",
+		"/home/purex/programming/Python/quiz_era/quiz_data/History/1. Advent of Europeans",
 		"/home/purex/programming/Python/quiz_era/quiz_data/Static Gk/Music 2.json",
 		"/home/purex/programming/Python/quiz_era/quiz_data/Static Gk/Music 1.json",
 		"/home/purex/dotfiles/hypr/hyprland.conf",
@@ -119,16 +128,7 @@
 		"/home/purex/Arth/advance.txt",
 		"/home/purex/2K25/SSC/Prompt.md",
 		"/home/purex/2K25/SSC/Untitled.md",
-		"/home/purex/pinnaclepdf.pdf",
-		"/home/purex/pina.pdf",
-		"/home/purex/Pinnacle Quantative Aptitude/Index.pdf",
-		"/home/purex/Downloads/folk_dance_table.md",
-		"/home/purex/2K25/English/ULTIMATE VOCAB/ows/Important Government.txt",
-		"/home/purex/chran",
-		"/home/purex/test_bomb/Master-Bomber/API/SMS/SMS.json",
-		"/home/purex/Downloads/download",
-		"/home/purex/2K24/Lectures/careerwill PDFs",
-		"/home/purex/2K25/English/FOOL.txt"
+		"/home/purex/pinnaclepdf.pdf"
 	],
 	"folder_history":
 	[
@@ -136,7 +136,7 @@
 	"last_version": 4200,
 	"last_window_id": 8,
 	"log_indexing": false,
-	"next_update_check": 1752812391,
+	"next_update_check": 1752898791,
 	"settings":
 	{
 		"new_window_full_screen": false,
@@ -206,7 +206,20 @@
 			},
 			"file_history":
 			[
+				"/home/purex/programming/Python/quiz_era/quiz_data/History/15. Miscellaneous.json",
+				"/home/purex/programming/Python/quiz_era/quiz_data/History/14. Constituent Assembly.json",
+				"/home/purex/programming/Python/quiz_era/quiz_data/History/9. Muslim League.json",
+				"/home/purex/programming/Python/quiz_era/quiz_data/History/8. INC.json",
+				"/home/purex/programming/Python/quiz_era/quiz_data/History/7. The Revolutionaries.json",
+				"/home/purex/programming/Python/quiz_era/quiz_data/History/13. British Acts and Policies",
+				"/home/purex/programming/Python/quiz_era/quiz_data/History/11. Prominent Leaders and Personalities.json",
+				"/home/purex/programming/Python/quiz_era/quiz_data/History/12. Struggle of Independence.json",
+				"/home/purex/programming/Python/quiz_era/quiz_data/History/10. A Few More Associations.json",
+				"/home/purex/programming/Python/quiz_era/quiz_data/History/2. Expansion of British Power.json",
+				"/home/purex/programming/Python/quiz_era/quiz_data/History/3. GGI, GGB and Voiceroys.json",
+				"/home/purex/programming/Python/quiz_era/quiz_data/History/6. Civil and Tribal.json",
 				"/home/purex/hist.txt",
+				"/home/purex/programming/Python/quiz_era/quiz_data/History/1. Advent of Europeans",
 				"/home/purex/programming/Python/quiz_era/quiz_data/Static Gk/Music 2.json",
 				"/home/purex/programming/Python/quiz_era/quiz_data/Static Gk/Music 1.json",
 				"/home/purex/dotfiles/hypr/hyprland.conf",
@@ -320,20 +333,7 @@
 				"/home/purex/.git-credentials",
 				"/home/purex/kirant.txt",
 				"/home/purex/arth.txt",
-				"/home/purex/Arth/advance.txt",
-				"/home/purex/2K25/SSC/Prompt.md",
-				"/home/purex/2K25/SSC/Untitled.md",
-				"/home/purex/pinnaclepdf.pdf",
-				"/home/purex/pina.pdf",
-				"/home/purex/Pinnacle Quantative Aptitude/Index.pdf",
-				"/home/purex/Downloads/folk_dance_table.md",
-				"/home/purex/2K25/English/ULTIMATE VOCAB/ows/Important Government.txt",
-				"/home/purex/chran",
-				"/home/purex/test_bomb/Master-Bomber/API/SMS/SMS.json",
-				"/home/purex/Downloads/download",
-				"/home/purex/2K24/Lectures/careerwill PDFs",
-				"/home/purex/2K25/English/FOOL.txt",
-				"/home/purex/2K25/English/Important.txt"
+				"/home/purex/Arth/advance.txt"
 			],
 			"find":
 			{
@@ -348,9 +348,10 @@
 			},
 			"find_state":
 			{
-				"case_sensitive": false,
+				"case_sensitive": true,
 				"find_history":
 				[
+					"[cite_start]",
 					"\\[cite(.*?)\\]",
 					"  \\<br\\> ",
 					"\\\\<br\\\\>",
@@ -477,13 +478,12 @@
 					"* ",
 					"**",
 					"* ",
-					"**",
-					"\\ \\*\\*[0-9]."
+					"**"
 				],
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": true,
+				"regex": false,
 				"replace_history":
 				[
 					"",
@@ -642,7 +642,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 62.0
+				"height": 82.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -700,66 +700,11 @@
 			"buffers":
 			[
 				{
-					"contents": "gingersnapuniquegifts.com\nelliegreenorganic.com\nnairegift.com",
+					"file": "/home/purex/programming/Python/quiz_era/quiz_data/History/7. The Revolutionaries.json",
 					"settings":
 					{
-						"buffer_size": 61,
-						"line_ending": "Unix",
-						"name": "gingersnapuniquegifts.com"
-					},
-					"undo_stack":
-					[
-						[
-							4,
-							1,
-							"",
-							null,
-							"AQAAAAAAAAAAAAAAGQAAAAAAAAAAAAAA",
-							"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
-						],
-						[
-							5,
-							1,
-							"insert",
-							{
-								"characters": "\n"
-							},
-							"AQAAABkAAAAAAAAAGgAAAAAAAAAAAAAA",
-							"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAZAAAAAAAAABkAAAAAAAAAAAAAAAAA8L8"
-						],
-						[
-							2,
-							1,
-							"",
-							null,
-							"AQAAABoAAAAAAAAALwAAAAAAAAAAAAAA",
-							"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAGgAAAAAAAAAaAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							5,
-							1,
-							"insert",
-							{
-								"characters": "\n"
-							},
-							"AQAAAC8AAAAAAAAAMAAAAAAAAAAAAAAA",
-							"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							7,
-							1,
-							"",
-							null,
-							"AQAAADAAAAAAAAAAPQAAAAAAAAAAAAAA",
-							"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAAAPC/"
-						]
-					]
-				},
-				{
-					"contents": "\nOf course\\! Here is a comprehensive table of all the schemes mentioned in the provided document.\n\n| Scheme Name | Ministry/Department | Launch Date/Year | Details |\n| :--- | :--- | :--- | :--- |\n| **Make in India** | Ministry of Commerce and Industry | 25 Sep 2014 | **Objective**: To promote the manufacturing sector.<br>**Pillars**: New Process, New Infrastructure, New Sector, New Mindset.<br>**Symbol**: A lion made of cogs.<br>**Note**: Similar to the import substitution policy of the 1970s-80s.  |\n| **National AYUSH Mission** | Department of AYUSH, Ministry of Health and Family Welfare | Sep 2014 | **Full Form**: Ayurveda, Yoga and Naturopathy, Unani, Siddha and Homeopathy.<br>**Objective**: Enhance the availability, accessibility, and quality of AYUSH healthcare services.<br>**Note**: The mission has been extended until 2026.  |\n| **Digital India** | Ministry of Electronics and Information Technology & Ministry of Finance | 01 Jul 2015 | **Objective**: Creation of digital infrastructure, delivering services digitally, and promoting digital literacy.  |\n| **Skill India** | Ministry of Skill Development and Entrepreneurship | 15 Jul 2015 | **Objective**: To develop industrial and entrepreneurial skills among Indians through training programs.  |\n| **Jal Kranti Abhiyan** | Ministry of Jal Shakti | 05 Jun 2015 | **Objective**: Strengthen grassroots involvement of all stakeholders (including Panchayati Raj Institutions and local bodies) for Participatory Irrigation Management.  |\n| **Smart Cities Mission** | Ministry of Housing and Urban Affairs | 25 Jun 2015 | **Objective**: Development of 100 smart cities with amenities like E-Governance, waste management, water management, energy management, and urban mobility.<br>**Note**: Shillong was selected as the 100th Smart City.  |\n| **Swachh Bharat Mission (Clean India Mission)** | Ministry of Jal Shakti | 02 Oct 2014 | **Objective**: To achieve universal sanitation and make India a clean country by 2nd Oct 2019, eliminating open defecation by constructing toilets.<br>**Note**: It is a restructuring of the Nirmal Bharat Abhiyan and inspired by Mahatma Gandhi's dream.<br>**Slogan**: \"Ek Kadam Swachhata Ki Ore\".  |\n| **Swachh Bharat Mission Urban 2.0** | Ministry of Housing and Urban Affairs | 01 Oct 2021 | **Objective**: To achieve the vision of \"Garbage Free Cities\" over five years (2021-2026).  |\n| **FAME India** | Ministry of Heavy Industries | Apr 2015 | **Full Form**: Faster Adoption and Manufacturing of Hybrid and Electric Vehicles in India.<br>**Focus Areas**: Technology Development, Demand Creation, Pilot Projects, Charging Infrastructure.<br>**Phases**: Phase I (Apr 2015 - Mar 2019), Phase II (Apr 2019 - Mar 2022).  |\n| **Sukanya Samriddhi Yojana** | Ministry of Finance | 22 Jan 2015 | **Type**: A small deposit savings scheme for a girl child, part of the 'Beti Bachao Beti Padhao' campaign.<br>**Eligibility**: Account can be opened from the birth of the girl child up to the age of 10.<br>**Deposits**: Min ₹250, Max ₹1,50,000 annually.<br>**Interest Rate (2023)**: 8%.  |\n| **Pradhan Mantri Suraksha Bima Yojana** | Ministry of Finance | 09 May 2015 | **Objective**: Provide accident insurance for people aged 18 to 70.<br>**Coverage**: ₹2 lakh for accidental death or full disability, ₹1 lakh for partial disability.<br>**Premium**: ₹20 per annum.  |\n| **Beti Bachao Beti Padhao Yojana** | Ministry of Women and Child Development | 22 Jan 2015 | **Objective**: Address the declining child sex ratio and make girls socially and financially self-reliant through education.<br>**Launch Location**: Panipat, Haryana.<br>**Update**: Includes \"skilling of girls in non-traditional livelihood (NTL) options\".  |\n| **Atal Pension Yojana (APY)** | Pension Fund Regulatory and Development Authority (PFRDA) | 09 May 2015 | **Objective**: Provide a monthly pension for the unorganized sector.<br>**Eligibility**: Age 18 to 40.  Income tax payers (after 1 Oct 2022) are not eligible.<br>**Pension**: Guaranteed pension of ₹1,000 to ₹5,000 per month after age 60.  |\n| **HRIDAY** | Ministry of Housing and Urban Affairs | 21 Jan 2015 | **Full Form**: National Heritage City Development and Augmentation Yojana.<br>**Objective**: Preserve the unique character of heritage cities while promoting urban development.<br>**Cities**: 12 cities were selected, including Ajmer, Amritsar, Varanasi, etc.  |\n| **Deendayal Antyodaya Yojana - National Rural Livelihood Mission (DAY-NRLM)** | Ministry of Rural Development | Jun 2011 | **Objective**: To reduce poverty by enabling employment opportunities for poor households and increasing their income through sustainable livelihoods. It aims to include at least one woman from each rural poor household in a Self-Help Group (SHG).<br>**Note**: It is a restructured version of the Swarna Jayanti Gram Swarozgar Yojana (SGSY) and was renamed from Aajeevika-NRLM in 2015.  |\n| **Prajjwala Challenge** | Ministry of Rural Development | Dec 2022 | **Objective**: To invite ideas, solutions, and actions to transform the rural economy under DAY-NRLM.  |\n| **Pradhan Mantri Jeevan Jyoti Bima Yojana** | Department of Financial Services, Ministry of Finance | 09 May 2015 | **Type**: One-year life insurance scheme, renewable annually.<br>**Coverage**: ₹2 lakh for death due to any reason.<br>**Eligibility**: Age 18 to 50.<br>**Premium**: ₹436 per annum.  |\n| **Soil Health Card Scheme** | Ministry of Agriculture and Farmers' Welfare | 19 Feb 2015 | **Objective**: Provide farmers with the soil nutrient status of their land and advise them on improving soil health.<br>**Details**: Provides status of 12 soil nutrients like N, P, K, S, Zn, Fe, etc.  |\n| **MUDRA Yojana** | Ministry of Finance | 2015 | **Full Form**: Micro Units Development & Refinance Agency Ltd.<br>**Loan Categories**: \\<br\\> • **Shishu**: Up to ₹50,000.<br>• **Kishor**: ₹50,000 to ₹5 lakh.<br>• **Tarun**: ₹5 lakh to ₹10 lakh.  |\n| **Sansad Adarsh Gram Yojana** | Ministry of Rural Development | 11 Oct 2014 | **Objective**: To develop three Model Villages (Adarsh Grams) by March 2019, and thereafter five more such villages by 2024.  |\n| **AMRUT** | Ministry of Housing and Urban Affairs | 25 Jun 2015 | **Full Form**: Atal Mission for Rejuvenation and Urban Transformation.<br>**Objective**: Focuses on developing basic urban infrastructure in sectors like water supply, sewerage, storm water drainage, parks, and non-motorized transport.<br>**AMRUT 2.0**: Aims to provide universal coverage of water supply through functional taps to all households in 500 cities by 2025-26.  |\n| **UJALA Yojana** | Ministry of Power | 05 Jan 2015 | **Full Form**: Unnat Jyoti by Affordable LEDs for All.<br>**Objective**: Promote efficient energy usage by distributing LED bulbs at low prices to reduce electricity consumption.<br>**Note**: Previously known as the Domestic Efficient Lighting Programme (DELP).  |\n| **Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY)** | Ministry of Rural Development | 25 Sep 2014 | **Objective**: Provide training to rural poor youth (age 15-35) to make them economically independent.<br>**Note**: It is a part of the National Rural Livelihood Mission (NRLM).  |\n| **Pradhan Mantri Awas Yojana - Urban (PMAY-U)** | Ministry of Housing and Urban Affairs | 25 Jun 2015 | **Objective**: Slum rehabilitation and affordable housing for weaker sections through a credit-linked subsidy.  |\n| **Pradhan Mantri Jan Dhan Yojana (PMJDY)** | Department of Financial Services, Ministry of Finance | 28 Aug 2014 | **Details**: Over 46 crore bank accounts were opened in 8 years.  67% of the rural population and 56% of women have Jan Dhan accounts.<br>**Slogan**: \"Mera Khaata, Bhagya Vidhaata\".  |\n| **Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP)** | Department of Pharmaceuticals, Ministry of Chemicals and Fertilizers | Sep 2015 (Revamped) | **Objective**: To make generic medications accessible to everyone at reasonable prices through Jan Aushadhi centers.<br>**Note**: Originally launched as Jan Aushadhi Scheme in 2008.  Jan Aushadhi Diwas is celebrated on March 7.  |\n| **Gold Monetisation Scheme (GMS)** | Ministry of Finance | 2015 | **Objective**: Allows individuals to deposit their gold in any form into a GMS account to earn interest as the gold price increases.  |\n| **Start-up India** | Department for Promotion of Industry and Internal Trade, Ministry of Commerce and Industry | 16 Jan 2016 | **Objective**: To build a strong ecosystem for nurturing innovation and Startups.<br>**Focus Areas**: The three C's - Capital, Courage, and Connections.  |\n| **Stand Up India** | Department of Financial Services, Ministry of Finance | 05 Apr 2016 | **Objective**: To promote entrepreneurship among women and Scheduled Castes and Tribes.  |\n| **e-NAM (National Agriculture Market) Portal** | Ministry of Agriculture and Farmers' Welfare | 14 Apr 2016 | **Objective**: To create a unified national market for agricultural commodities by linking existing APMC mandis, removing middlemen, and promoting real-time price discovery.  |\n| **Pradhan Mantri Ujjwala Yojana** | Ministry of Petroleum and Natural Gas | 01 May 2016 | **Objective**: Provides a financial support of ₹1600 for each LPG connection to BPL households.<br>**Launch Location**: Ballia, Uttar Pradesh.  |\n| **Ujjwala 2.0** | Ministry of Petroleum and Natural Gas | 10 Aug 2021 | **Objective**: Aimed to provide maximum benefit to migrants with the help of Self Declaration.<br>**Launch Location**: Mahoba, Uttar Pradesh.  |\n| **Pradhan Mantri Awas Yojana-Gramin (PMAY-G)** | Ministry of Rural Development | 20 Nov 2016 | **Objective**: To provide a Pucca house to all who are houseless or living in dilapidated houses in rural areas by 2022.<br>**Note**: Restructured from the Indira Awaas Yojana, effective from 1st April, 2016.  Cost is shared between the Centre and State (60:40 for plain areas, 90:10 for NE/Himalayan states).  |\n| **Shyama Prasad Mukherji Rurban Mission (SPMRM)** | Ministry of Rural Development | 21 Feb 2016 | **Objective**: To stimulate local economic development, enhance basic services, and create well-planned Rurban clusters.  |\n| **Pradhan Mantri Fasal Bima Yojana (PMFBY)** | Department of Agriculture, Cooperation and Farmers Welfare | 18 Feb 2016 | **Objective**: To provide insurance coverage and financial support to farmers in case of crop failure.<br>**Premium**: Farmers pay 2% for Kharif crops, 1.5% for Rabi crops, and 5% for commercial/horticultural crops.  |\n| **Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA)** | Ministry of Health & Family Welfare | 31 Jul 2016 | **Objective**: To ensure at least one check-up on the 9th of every month for all pregnant women in their second or third trimester by a physician/specialist.  |\n| **Atal Innovation Mission (AIM)** | NITI Aayog | 2016 | **Objective**: To promote a culture of innovation and entrepreneurship at school, university, and industry levels.<br>**Initiatives**: Atal Tinkering Labs, Atal Incubation Centers, Mentor India Campaign, etc.  |\n| **Saubhagya Yojana** | Ministry of Power | 25 Sep 2017 | **Full Form**: Pradhan Mantri Sahaj Bijli Har Ghar Yojana.<br>**Objective**: To provide last-mile electricity connectivity to all un-electrified households in rural areas and all poor households in urban areas by March 2019.  |\n| **Khelo India Scheme** | Ministry of Youth Affairs and Sports | Oct 2017 | **Objective**: To revive the sports culture at the ground level by developing sports infrastructure, coaching, and other amenities for athletes.  |\n| **UDAN Scheme** | Ministry of Civil Aviation | 21 Oct 2016 | **Objective**: To provide affordable, economically viable, and profitable air travel on regional routes, even in small towns.  |\n| **Pradhan Mantri Matru Vandana Yojana (PMMVY)** | Ministry of Women & Child Development | 01 Jan 2017 (Effective) | **Objective**: Provides maternity benefits to pregnant women and lactating mothers.<br>**Benefit**: ₹5,000 in three installments for the first delivery.  The benefit is ₹6,000 for the second child, if it is a girl.  |\n| **Pradhan Mantri Vaya Vandana Yojana (PMVVY)** | Department of Financial Services, Ministry of Finance | 04 May 2017 | **Type**: A pension scheme to provide social security to the elderly (min age 60).<br>**Investment**: Maximum ₹15 lakh for 10 years.<br>**Pension**: Min ₹1,000 and Max ₹10,000 per month.<br>**Operator**: LIC.  |\n| **Pradhan Mantri Kisan Sampada Yojana (PMKSY)** | Ministry of Food Processing Industries | 2017 | **Objective**: To supplement agriculture, modernize processing, and decrease agri-waste.<br>**Components**: Mega Food Parks, Integrated Cold Chain, Agro Processing Clusters, etc.<br>**Note**: Extended from 2021-22 to 2025-26.  |\n| **National Mission for Cultural Mapping** | Ministry of Culture | 2017 | **Objective**: To develop a comprehensive database of art forms, artists, and other cultural resources across the country.<br>**Campaign**: \"Mera Gaon, Meri Dharohar\" was launched under this mission on 27th July 2023.  |\n| **Pradhan Mantri Rojgar Protsahan Yojana (PMRPY)** | Ministry of Labour & Employment | 2016 | **Objective**: To promote employment generation, targeted for workers earning wages up to ₹15,000 per month.  |\n| **Pradhan Mantri National Dialysis Programme** | Ministry of Health and Family Welfare | 07 Apr 2016 | **Objective**: To ensure the availability of free dialysis services to Below Poverty Line (BPL) beneficiaries at district hospitals.  |\n| **Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)** | Ministry of Health and Family Welfare | 23 Sep 2018 | **Objective**: Provides a health cover of ₹5 lakhs per family per year for secondary and tertiary care hospitalization.<br>**Eligibility**: No restriction on family size, age, or gender.<br>**Launch Location**: Ranchi, Jharkhand.<br>**Note**: Ayushman Bharat Diwas is on 30th April.  |\n| **National Nutrition Mission (POSHAN Abhiyaan)** | Ministry of Women and Child Development | 08 Mar 2018 | **Objective**: To improve the nutritional status of adolescent girls, pregnant women, lactating mothers, and children (0-6 years).<br>**Launch Location**: Jhunjhunu, Rajasthan.  |\n| **GOBAR-Dhan Scheme** | Department of Drinking Water & Sanitation, Ministry of Jal Shakti | 30 Apr 2018 | **Full Form**: Galvanizing Organic Bio-Agro Resources.<br>**Objective**: Keeping villages clean and Open Defecation Free (ODF), increasing rural household income, and generating bio-energy from cattle waste.<br>**Note**: The government plans to establish 500 new \"waste-to-wealth\" plants.  |\n| **Jal Jeevan Mission** | Ministry of Jal Shakti | 15 Aug 2019 | **Objective**: To provide 55 liters of water per person per day to every rural household through tap connections by 2024.<br>**Note**: The 'Har Ghar Jal' mission is a part of this mission.  Burhanpur (MP) is the first 'Har Ghar Jal' certified district.  |\n| **Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)** | Ministry of Agriculture and Farmers Welfare | 24 Feb 2019 | **Objective**: To provide financial benefit of ₹6,000 per year in three equal installments to all land-holding farmer families.  |\n| **Surakshit Matritva Aashwasan (SUMAN) Yojana** | Ministry of Health and Family Welfare | 10 Oct 2019 | **Objective**: To provide affordable and quality healthcare solutions to pregnant women and newborns, with zero expense access for up to six months after delivery.  |\n| **PM-Kisan Maandhan Yojana** | Ministry of Agriculture & Farmers Welfare | 12 Sep 2019 | **Objective**: To provide a pension to Small and Marginal Farmers in their old age.<br>**Eligibility**: Age 18-40.<br>**Benefit**: Monthly pension of ₹3,000 after reaching the age of 60.  |\n| **Garib Kalyan Rojgar Abhiyan** | Ministry of Rural Development | 20 Jun 2020 | **Objective**: To boost livelihood opportunities for returning migrants and similarly affected rural citizens during the Covid-19 crisis.<br>**Launch Location**: Khagaria district, Bihar.<br>**Duration**: 125 days.  |\n| **SVAMITVA Scheme** | Ministry of Rural Development & Panchayati Raj | 24 Apr 2020 | **Objective**: To provide a record of rights to village household owners by issuing property cards, using drone technology for mapping.  |\n| **Pradhan Mantri Matsya Sampada Yojana (PMMSY)** | Ministry of Fisheries, Animal Husbandry and Dairying | 10 Sep 2020 | **Objective**: To bring about a 'blue revolution' through the sustainable and responsible development of the fisheries sector in India.  |\n| **Krishi Udan Scheme** | Ministry of Civil Aviation | Aug 2020 | **Objective**: To provide assistance to farmers with respect to the value transportation of agricultural products.  **Krishi Udan 2.0** focuses on transporting perishable food products from hilly areas, North-Eastern states, and tribal areas.  |\n| **Atmanirbhar Bharat Rojgar Yojana** | Ministry of Labour & Employment | 12 Oct 2020 | **Objective**: To boost employment in the formal sector and incentivize the creation of new employment opportunities during the COVID-19 recovery phase. |\n| **PM Poshan Shakti Nirman Abhiyaan** | Ministry of Education | 29 Sep 2021 (Approved) | **Objective**: Provides one hot cooked meal to students in Government and Government-aided schools.<br>**Note**: This scheme replaced the Mid-day Meal scheme.  |\n| **Gram Ujala Scheme** | Ministry of Power | 24 Mar 2021 | **Objective**: To provide high-quality 7-Watt and 12-Watt LED bulbs at a cost of ₹10 per bulb in exchange for working incandescent bulbs in rural areas. Each household can exchange a maximum of 5 bulbs.  |\n| **PM GatiShakti** | Ministry of Rural Development | 13 Oct 2021 | **Objective**: A National Master Plan for multi-modal connectivity, aimed at coordinated planning and execution of infrastructure projects to reduce logistics costs. It includes developing 11 industrial corridors, 2 defense corridors, and extending the gas pipeline network.  |\n| **PM MITRA** | Ministry of Textiles | 2021-22 (Announced) | **Objective**: To establish 7 Mega Integrated Textile Region and Apparel (PM MITRA) parks by 2026-27, creating a comprehensive textile value chain at one location (spinning, weaving, processing, dyeing, printing, and garment manufacturing).  |\n| **SMILE** | Ministry of Social Justice and Empowerment | 12 Feb 2022 | **Full Form**: Support for Marginalized Individuals for Livelihood and Enterprise.<br>**Objective**: To provide comprehensive welfare and rehabilitation measures to the Transgender community and people engaged in begging, including provisions for skill development under the PM-DAKSH scheme.  |\n| **Agnipath Scheme** | Ministry of Defence | 14 Jun 2022 | **Objective**: A scheme for the recruitment of soldiers below the rank of commissioned officers into the armed forces for a four-year period.  |\n| **Pradhan Mantri Adi Adarsh Gram Yojana (PMAAGY)** | Ministry of Tribal Affairs | 2021-22 to 2025-26 | **Objective**: To transform villages with a significant tribal population (at least 50%) into model villages (Adarsh Gram).  It revamps the existing \"Special Central Assistance to Tribal Sub-Scheme (SCA to TSS)\" scheme.  |",
-					"settings":
-					{
-						"buffer_size": 19121,
+						"buffer_size": 19118,
+						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					},
 					"undo_stack":
@@ -769,68 +714,74 @@
 							1,
 							"",
 							null,
-							"AQAAAAAAAAAAAAAAPEQAAAAAAAAAAAAA",
-							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
-						],
+							"AQAAAAAAAAAAAAAArkoAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/purex/programming/Python/quiz_era/quiz_data/History/8. INC.json",
+					"settings":
+					{
+						"buffer_size": 14225,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
 						[
-							6,
+							2,
 							1,
 							"",
 							null,
-							"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"
+							"AQAAAAAAAAAAAAAAkDcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
 						],
 						[
-							26,
-							1,
-							"",
-							null,
-							"KAAAADQ1AAAAAAAANTUAAAAAAAAHAAAAXDxiclw+IOc0AAAAAAAA6DQAAAAAAAAHAAAAXDxiclw+IBQzAAAAAAAAFTMAAAAAAAAHAAAAXDxiclw+ID4xAAAAAAAAPzEAAAAAAAAHAAAAXDxiclw+IEcvAAAAAAAASC8AAAAAAAAHAAAAXDxiclw+IKEuAAAAAAAAoi4AAAAAAAAHAAAAXDxiclw+ICQtAAAAAAAAJS0AAAAAAAAHAAAAXDxiclw+INEsAAAAAAAA0iwAAAAAAAAHAAAAXDxiclw+IIssAAAAAAAAjCwAAAAAAAAHAAAAXDxiclw+IOQpAAAAAAAA5SkAAAAAAAAHAAAAXDxiclw+II8pAAAAAAAAkCkAAAAAAAAHAAAAXDxiclw+IFApAAAAAAAAUSkAAAAAAAAHAAAAXDxiclw+INomAAAAAAAA2yYAAAAAAAAHAAAAXDxiclw+ICwjAAAAAAAALSMAAAAAAAAHAAAAXDxiclw+IKAiAAAAAAAAoSIAAAAAAAAHAAAAXDxiclw+IP8gAAAAAAAAACEAAAAAAAAHAAAAXDxiclw+II8eAAAAAAAAkB4AAAAAAAAHAAAAXDxiclw+IPAcAAAAAAAA8RwAAAAAAAAHAAAAXDxiclw+IO0ZAAAAAAAA7hkAAAAAAAAHAAAAXDxiclw+ILAZAAAAAAAAsRkAAAAAAAAHAAAAXDxiclw+IFEXAAAAAAAAUhcAAAAAAAAHAAAAXDxiclw+INIWAAAAAAAA0xYAAAAAAAAHAAAAXDxiclw+IFYUAAAAAAAAVxQAAAAAAAAHAAAAXDxiclw+IOgTAAAAAAAA6RMAAAAAAAAHAAAAXDxiclw+IAcSAAAAAAAACBIAAAAAAAAHAAAAXDxiclw+IGMRAAAAAAAAZBEAAAAAAAAHAAAAXDxiclw+IMMPAAAAAAAAxA8AAAAAAAAHAAAAXDxiclw+IHEOAAAAAAAAcg4AAAAAAAAHAAAAXDxiclw+IAQOAAAAAAAABQ4AAAAAAAAHAAAAXDxiclw+IMkNAAAAAAAAyg0AAAAAAAAHAAAAXDxiclw+IIgNAAAAAAAAiQ0AAAAAAAAHAAAAXDxiclw+IJcMAAAAAAAAmAwAAAAAAAAHAAAAXDxiclw+IDkLAAAAAAAAOgsAAAAAAAAHAAAAXDxiclw+INQKAAAAAAAA1QoAAAAAAAAHAAAAXDxiclw+IEIKAAAAAAAAQwoAAAAAAAAHAAAAXDxiclw+IBIJAAAAAAAAEwkAAAAAAAAHAAAAXDxiclw+IAYEAAAAAAAABwQAAAAAAAAHAAAAXDxiclw+IH0DAAAAAAAAfgMAAAAAAAAHAAAAXDxiclw+IMEBAAAAAAAAwgEAAAAAAAAHAAAAXDxiclw+IHgBAAAAAAAAeQEAAAAAAAAHAAAAXDxiclw+IA",
-							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAUMwAAAAAAABszAAAAAAAAAAAAAAAA8L8"
-						],
-						[
-							34,
+							3,
 							1,
 							"insert",
 							{
 								"characters": "\n"
 							},
-							"AgAAAAAAAAAAAAAAAAAAAAAAAADMQQAAfCBTY2hlbWUgTmFtZSB8IE1pbmlzdHJ5IHwgRGF0ZSB8IFZJUCBOb3RlIHwgVHJpY2sgfAp8IDotLS0gfCA6LS0tIHwgOi0tLSB8IDotLS0gfCA6LS0tIHwKfCAqKk1ha2UgaW4gSW5kaWEvIOCkruClh+CklSDgpIfgpKgg4KSH4KSC4KSh4KS/4KSv4KS+KiogIHwgQ29tbWVyY2UgYW5kIEluZHVzdHJ5L+CkteCkvuCko+Ckv+CknOCljeCkryDgpJTgpLAg4KSJ4KSm4KWN4KSv4KWL4KSXIOCkruCkguCksuCkvuCksuCkryAgfCAyNXRoIFNlcHRlbWJlciAyMDE0ICB8IFwqICoqT2JqZWN0aXZlL+CkieCkpuCljeCkpuClh+CktuCljeCkrzoqKiBJdCBhaW1zIHRvIHByb21vdGUgdGhlIG1hbnVmYWN0dXJpbmcgc2VjdG9yIGluIHRoZSBjb3VudHJ5IGFuZCBpcyBiYXNlZCBvbiBmb3VyIHBpbGxhcnM6IE5ldyBQcm9jZXNzLCBOZXcgSW5mcmFzdHJ1Y3R1cmUsIE5ldyBTZWN0b3IsIE5ldyBNaW5kc2V0LiAgClwqICoqU3ltYm9sL+CkquCljeCksOCkpOClgOCklToqKiBBIGxpb24gbWFkZSBvZiBjb2dzL+Ckl+Ckv+Ckr+CksCDgpLjgpYcg4KSs4KSo4KS+IOCkueClgeCkhiDgpI/gpJUg4KS24KWH4KSwICAKXCogSXQgaXMgc2ltaWxhciB0byB0aGUgaW1wb3J0IHN1YnN0aXR1dGlvbiBwb2xpY3kgb2YgdGhlIDE5NzBzIGFuZCAxOTgwcyBpbiBJbmRpYS4gIHwgfAp8ICoqTmF0aW9uYWwgQVlVU0ggTWlzc2lvbi/gpLDgpL7gpLfgpY3gpJ/gpY3gpLDgpYDgpK8g4KSG4KSv4KWB4KS3IOCkruCkv+CktuCkqCoqICB8IERlcGFydG1lbnQgb2YgQVlVU0gsIE1pbmlzdHJ5IG9mIEhlYWx0aCBhbmQgRmFtaWx5IFdlbGZhcmUv4KSG4KSv4KWB4KS3IOCkteCkv+CkreCkvuCklywg4KS44KWN4KS14KS+4KS44KWN4KSl4KWN4KSvIOCklOCksCDgpKrgpLDgpL/gpLXgpL7gpLAg4KSV4KSy4KWN4KSv4KS+4KSjIOCkruCkguCkpOCljeCksOCkvuCksuCkryAgfCBTZXB0ZW1iZXIgMjAxNCAgfCBcKiAqKkFZVVNIIHN0YW5kcyBmb3Iv4KSG4KSv4KWB4KS3IOCkleCkviDgpIXgpLDgpY3gpKUg4KS54KWIOioqIEF5dXJ2ZWRhLCBZb2dhIGFuZCBOYXR1cm9wYXRoeSwgVW5hbmksIFNpZGRoYSBhbmQgSG9tZW9wYXRoeS/gpIbgpK/gpYHgpLDgpY3gpLXgpYfgpKYsIOCkr+Cli+CklyDgpJTgpLAg4KSq4KWN4KSw4KS+4KSV4KWD4KSk4KS/4KSVIOCkmuCkv+CkleCkv+CkpOCljeCkuOCkviwg4KSv4KWC4KSo4KS+4KSo4KWALCDgpLjgpL/gpKbgpY3gpKcg4KSU4KSwIOCkueCli+CkruCljeCkr+Cli+CkquCliOCkpeClgCAgClwqICoqT2JqZWN0aXZlL+CkieCkpuCljeCkpuClh+CktuCljeCkrzoqKiBFbmhhbmNlIHRoZSBhdmFpbGFiaWxpdHksIGFjY2Vzc2liaWxpdHksIGFuZCBxdWFsaXR5IG9mIEFZVVNIIGhlYWx0aGNhcmUgc2VydmljZXMgYWNyb3NzIHRoZSBjb3VudHJ5LiAgClwqIFRoZSBnb3Zlcm5tZW50IGhhcyBkZWNpZGVkIHRvIGNvbnRpbnVlIHRoZSBOYXRpb25hbCBBWVVTSCBNaXNzaW9uIChOQU0pIHRpbGwgMjAyNi4gIHwgfAp8ICoqRGlnaXRhbCBJbmRpYS8g4KSh4KS/4KSc4KS/4KSf4KSyIOCkh+CkguCkoeCkv+Ckr+CkvioqICB8IEVsZWN0cm9uaWNzIGFuZCBJbmZvcm1hdGlvbiBUZWNobm9sb2d5IGFuZCBNaW5pc3RyeSBvZiBGaW5hbmNlL+Ckh+CksuClh+CkleCljeCkn+CljeCksOClieCkqOCkv+CkleCljeCkuCDgpJTgpLAg4KS44KWC4KSa4KSo4KS+IOCkquCljeCksOCljOCkpuCljeCkr+Cli+Ckl+Ckv+CkleClgCDgpK7gpILgpKTgpY3gpLDgpL7gpLLgpK8g4KSk4KSl4KS+IOCkteCkv+CkpOCljeCkpCDgpK7gpILgpLLgpL7gpLLgpK8gIHwgMXN0IEp1bHkgMjAxNSAgfCBcKiBUaGUgbWFpbiBhaW0gb2YgdGhpcyBzY2hlbWUgaXMgdGhlIGNyZWF0aW9uIG9mIGRpZ2l0YWwgaW5mcmFzdHJ1Y3R1cmUsIGRlbGl2ZXJpbmcgc2VydmljZXMgZGlnaXRhbGx5LCBhbmQgcHJvbW90aW5nIGRpZ2l0YWwgbGl0ZXJhY3kuICB8IHwKfCAqKlNraWxsIEluZGlhL+CkuOCljeCkleCkv+CksiDgpIfgpILgpKHgpL/gpK/gpL4qKiAgfCBTa2lsbCBEZXZlbG9wbWVudCBhbmQgRW50cmVwcmVuZXVyc2hpcC/gpJXgpYzgpLbgpLIg4KS14KS/4KSV4KS+4KS4IOCklOCksCDgpIngpKbgpY3gpK/gpK7gpL/gpKTgpL4g4KSu4KSC4KSk4KWN4KSw4KS+4KSy4KSvICB8IDE1IEp1bHkgMjAxNSAgfCBcKiBUaGUgaW5pdGlhdGl2ZSBhaW1lZCB0byBkZXZlbG9wIGluZHVzdHJpYWwgYW5kIGVudHJlcHJlbmV1cmlhbCBza2lsbHMgYW1vbmcgSW5kaWFucyB0aHJvdWdoIGEgdHJhaW5pbmcgcHJvZ3JhbS4gIHwgfAp8ICoqSmFsIEtyYW50aSBBYmhpeWFuL+CknOCksiDgpJXgpY3gpLDgpL7gpILgpKTgpL8g4KSF4KSt4KS/4KSv4KS+4KSoKiogIHwgTWluaXN0cnkgb2YgSmFsIFNoYWt0aS/gpJzgpLIg4KS24KSV4KWN4KSk4KS/IOCkruCkguCkpOCljeCksOCkvuCksuCkryAgfCA1dGggSnVuZSAyMDE1ICB8IFwqIFRoZSBtYWluIG9iamVjdGl2ZSBvZiB0aGUgSmFsIEtyYW50aSBBYmhpeWFuIGlzIHRvIHN0cmVuZ3RoZW4gZ3Jhc3Nyb290cyBpbnZvbHZlbWVudCBvZiBhbGwgc3Rha2Vob2xkZXJzIGluY2x1ZGluZyBQYW5jaGF5YXRpIFJhaiBJbnN0aXR1dGlvbnMgYW5kIGxvY2FsIGJvZGllcyBmb3IgUGFydGljaXBhdG9yeSBJcnJpZ2F0aW9uIE1hbmFnZW1lbnQuICB8IHwKfCAqKlNtYXJ0IENpdGllcyBNaXNzaW9uL+CkuOCljeCkruCkvuCksOCljeCknyDgpLjgpL/gpJ/gpYDgpJzgpLwg4KSu4KS/4KS24KSoKiogIHwgSG91c2luZyBhbmQgVXJiYW4gQWZmYWlycy/gpIbgpLXgpL7gpLjgpKgg4KSU4KSwIOCktuCkueCksOClgCDgpJXgpL7gpLDgpY3gpK8g4KSu4KSC4KSk4KWN4KSw4KS+4KSy4KSvICB8IDI1dGggSnVuZSAyMDE1ICB8IFwqIEl0IHdhcyBsYXVuY2hlZCBmb3IgdGhlIGRldmVsb3BtZW50IG9mIDEwMCBzbWFydCBjaXRpZXMgd2l0aCBzbWFydCBhbWVuaXRpZXMgbGlrZSBFLUdvdmVybmFuY2UsIHdhc3RlIG1hbmFnZW1lbnQsIHdhdGVyIG1hbmFnZW1lbnQsIGVuZXJneSBtYW5hZ2VtZW50LCB1cmJhbiBtb2JpbGl0eSBhbmQgb3RoZXJzLiAgClwqIFNoaWxsb25nIGJlY2FtZSB0aGUgMTAwdGggU21hcnQgQ2l0eSB1bmRlciB0aGUgU21hcnQgQ2l0aWVzIFByb2plY3QuICB8IHwKfCAqKlN3YWNoaCBCaGFyYXQgTWlzc2lvbiAoQ2xlYW4gSW5kaWEgTWlzc2lvbikgLyDgpLjgpY3gpLXgpJrgpY3gpJsg4KSt4KS+4KSw4KSkIOCkruCkv+CktuCkqCAo4KSV4KWN4KSy4KWA4KSoIOCkh+CkguCkoeCkv+Ckr+CkviDgpK7gpL/gpLbgpKgpKiogIHwgTWluaXN0cnkgb2YgSmFsIFNoYWt0aS/gpJzgpLIg4KS24KSV4KWN4KSk4KS/IOCkruCkguCkpOCljeCksOCkvuCksuCkryAgfCAybmQgT2N0b2JlciAyMDE0ICB8IFwqIEl0IGlzIE1haGF0bWEgR2FuZGhpJ3MgZHJlYW0gb2YgYSBjbGVhbiBhbmQgaHlnaWVuaWMgSW5kaWEuICAKXCogSXQgaXMgYSByZXN0cnVjdHVyaW5nIG9mIHRoZSBOaXJtYWwgQmhhcmF0IEFiaGl5YW4gdG8gYWNoaWV2ZSB1bml2ZXJzYWwgc2FuaXRhdGlvbiAmIG1ha2luZyBJbmRpYSBhIGNsZWFuIGNvdW50cnkgYnkgMm5kIE9jdG9iZXIgMjAxOS4gIApcKiBJdCBhaW1zIHRvIGVsaW1pbmF0ZSBvcGVuIGRlZmVjYXRpb24gYnkgY29uc3RydWN0aW5nIHRvaWxldHMgZm9yIGhvdXNlaG9sZHMsIGNvbW11bml0aWVzLiAgClwqIFN3YWNoaCBCaGFyYXQgTWlzc2lvbiAoR3JhbWVlbikgd2FzIGxhdW5jaGVkIGJ5IE1pbmlzdHJ5IG9mIEphbCBTaGFrdGkuICB8IHwKfCAqKlN3YWNoaCBCaGFyYXQgTWlzc2lvbiBVcmJhbiAyLjAvIOCkuOCljeCkteCkmuCljeCkmyDgpK3gpL7gpLDgpKQg4KSu4KS/4KS24KSoIOCktuCkueCksOClgCAyLjAqKiAgfCBNaW5pc3RyeSBvZiBIb3VzaW5nIGFuZCBVcmJhbiBBZmZhaXJzL+CkhuCkteCkvuCkuOCkqCDgpJTgpLAg4KS24KS54KSw4KWAIOCkleCkvuCksOCljeCkryDgpK7gpILgpLLgpY3gpLLgpL7gpLLgpK8gIHwgMXN0IE9jdG9iZXIgMjAyMSAgfCBcKiBJdCB3YXMgbGF1bmNoZWQgdG8gYWNoaWV2ZSB0aGUgdmlzaW9uIG9mICJHYXJiYWdlIEZyZWUgQ2l0aWVzIiBvdmVyIHRoZSBuZXh0IGZpdmUgeWVhcnMgKDIwMjEtMjAyNikuICAKXCogKipTbG9nYW4v4KSo4KS+4KSw4KS+OioqIEVrIEthZGFtIFN3YWNoaGF0YSBLaSBPcmUv4KSP4KSVIOCkleCkpuCkriDgpLjgpY3gpLXgpJrgpY3gpJvgpKTgpL4g4KSV4KWAIOCkk+CksCAgfCB8CnwgKipTdWthbnlhIFNhbXJpZGRoaSBZb2phbmEv4KS44KWB4KSV4KSo4KWN4KSv4KS+IOCkuOCkruClg+CkpuCljeCkp+CkvyDgpK/gpYvgpJzgpKjgpL4qKiAgfCBGaW5hbmNlIE1pbmlzdHJ5L+CkteCkv+CkpOCljeCkpCDgpK7gpILgpLLgpL7gpLLgpK8gIHwgMjIgSmFudWFyeSAyMDE1ICB8IFwqIEl0IGlzIGEgc21hbGwgZGVwb3NpdCBzY2hlbWUgZm9yIHRoZSBnaXJsIGNoaWxkLiAgClwqIEl0IGlzIGEgcGFydCBvZiB0aGUgQmV0aSBCYWNoYW8gQmV0aSBQYWRoYW8gY2FtcGFpZ24uICAKXCogVGhlIGludGVyZXN0IHJhdGUgb2YgdGhpcyBzY2hlbWUgaXMgOCUgaW4gMjAyMy4gIApcKiBUaGUgbWluaW11bSBhbmQgbWF4aW11bSBhbW91bnQgdG8gYmUgZGVwb3NpdGVkIGluIHRoZSBhY2NvdW50IGlzIOKCuTI1MCBhbmQg4oK5MSw1MCwwMDAgcmVzcGVjdGl2ZWx5LiAgClwqIEl0IGNhbiBiZSBvcGVuZWQgYXQgYW55IG1vbWVudCBiZXR3ZWVuIHRoZSBiaXJ0aCBvZiB0aGUgZ2lybCBjaGlsZCBhbmQgdGhlIGFnZSBvZiAxMCB5ZWFycy4gIHwgfAp8ICoqUHJhZGhhbiBNYW50cmkgU3VyYWtzaGEgQmltYSBZb2phbmEv4KSq4KWN4KSw4KSn4KS+4KSo4KSu4KSC4KSy4KWAIOCkuOClgeCksOCkleCljeCkt+CkviDgpKzgpYDgpK7gpL4g4KSv4KWL4KSc4KSo4KS+KiogIHwgRmluYW5jZSBNaW5pc3RyeS/gpLXgpL/gpKTgpY3gpKQg4KSu4KSC4KSy4KS+4KSy4KSvICB8IDkgTWF5IDIwMTUgIHwgXCogKipPYmplY3RpdmUv4KSJ4KSm4KWN4KSm4KWH4KS24KWN4KSvOioqIFByb3ZpZGUgZ2VuZXJhbCBpbnN1cmFuY2UvYWNjaWRlbnQgaW5zdXJhbmNlIGZvciBwZW9wbGUgYmV0d2VlbiAxOCBhbmQgNzAgeWVhcnMuICAKXCogSXQgcHJvdmlkZXMgcmlzayBjb3ZlcmFnZSB1bmRlciB0aGUgc2NoZW1lIGFzIEFjY2lkZW50YWwgRGVhdGggY3VtIERpc2FiaWxpdHkgQ292ZXIgb2Yg4oK5MiBsYWtoICjigrkxIGxha2ggaW4gY2FzZSBvZiBwYXJ0aWFsIGRpc2FiaWxpdHkpIGZvciBkZWF0aCBvciBkaXNhYmlsaXR5IGR1ZSB0byBhbiBhY2NpZGVudCwgYWdhaW5zdCBhIHByZW1pdW0gb2Yg4oK5MjAgcGVyIGFubnVtLiAgfCB8CnwgKipCZXRpIEJhY2hhbyBCZXRpIFBhZGhhbyBZb2phbmEv4KSs4KWH4KSf4KWAIOCkrOCkmuCkvuCkkyDgpKzgpYfgpJ/gpYAg4KSq4KSi4KS84KS+4KSTIOCkr+Cli+CknOCkqOCkvioqICB8IFdvbWVuIGFuZCBDaGlsZCBEZXZlbG9wbWVudC/gpK7gpLngpL/gpLLgpL4g4KSP4KS14KSCIOCkrOCkvuCksiDgpLXgpL/gpJXgpL7gpLgg4KSu4KSy4KS+4KSy4KSvICB8IDIyIEphbnVhcnkgMjAxNSAgfCBcKiBJdCB3YXMgbGF1bmNoZWQgZnJvbSBQYW5pcGF0LCBIYXJ5YW5hLiAgClwqIFRoZSBnb2FsIG9mIHRoaXMgc2NoZW1lIGlzIHRvIG1ha2UgZ2lybHMgc29jaWFsbHkgYW5kIGZpbmFuY2lhbGx5IHNlbGYtcmVsaWFudCB0aHJvdWdoIGVkdWNhdGlvbiAmIGFkZHJlc3MgdGhlIGlzc3VlIG9mIGRlY2xpbmUgaW4gZ2lybCBjaGlsZCBzZXggcmF0aW8uICAKXCogVGhlIENlbnRyYWwgR292ZXJubWVudCBoYXMgYW5ub3VuY2VkIHRoZSBpbmNsdXNpb24gb2YgInNraWxsaW5nIG9mIGdpcmxzIGluIG5vbi10cmFkaXRpb25hbCBsaXZlbGlob29kIChOVEwpIG9wdGlvbnMiIGluIHRoZSBCZXRpIEJhY2hhbyBCZXRpIFBhZGhhbyBzY2hlbWUuICB8IHwKfCAqKkF0YWwgUGVuc2lvbiBTY2hlbWUv4KSF4KSf4KSyIOCkquClh+CkguCktuCkqCDgpK/gpYvgpJzgpKjgpL4qKiAgfCBQZW5zaW9uIEZ1bmQgUmVndWxhdG9yeSBhbmQgRGV2ZWxvcG1lbnQgQXV0aG9yaXR5IChQRlJEQSkgLyDgpKrgpYfgpILgpLbgpKgg4KSo4KS/4KSn4KS/IOCkteCkv+CkqOCkv+Ckr+CkvuCkruCklSDgpJTgpLAg4KS14KS/4KSV4KS+4KS4IOCkquCljeCksOCkvuCkp+Ckv+CkleCksOCkoyAo4KSq4KWA4KSP4KSr4KSG4KSw4KSh4KWA4KSPKSAgfCA5IE1heSAyMDE1IChLb2xrYXRhKSAgfCBcKiBVbmRlciB0aGlzIHNjaGVtZSwgcHJvdmlzaW9uIG9mIG1vbnRobHkgcGVuc2lvbiBmb3IgcGVvcGxlIGZyb20gdGhlIHVub3JnYW5pemVkIHNlY3RvciBiZXR3ZWVuIHRoZSBhZ2Ugb2YgMTggdG8gNDAgeWVhcnMuICAKXCogSXQgcHJvdmlkZXMgYSBtaW5pbXVtIGd1YXJhbnRlZWQgcGVuc2lvbiByYW5naW5nIGZyb20g4oK5MTAwMCB0byDigrk1MDAwIG9uIGF0dGFpbmluZyA2MCB5ZWFycyBvZiBhZ2UuICAKXCogSWYgYSBwZXJzb24gaXMgb3IgaGFzIGJlZW4gYW4gaW5jb21lIHRheCBwYXllciBhZnRlciAxIE9jdG9iZXIgMjAyMiwgaGUgaXMgbm90IGVsaWdpYmxlIHRvIGpvaW4gdGhlIEFQWSBzY2hlbWUuICB8IHwKfCAqKkRlZW5kYXlhbCBBbnR5b2RheWEgWW9qYW5hIE5hdGlvbmFsIFJ1cmFsIExpdmVsaWhvb2QgTWlzc2lvbiAoREFZLU5STE0pL+CkpuClgOCkqOCkpuCkr+CkvuCksiDgpIXgpILgpKTgpY3gpK/gpYvgpKbgpK8g4KSv4KWL4KSc4KSo4KS+IOCksOCkvuCkt+CljeCkn+CljeCksOClgOCkryDgpJfgpY3gpLDgpL7gpK7gpYDgpKMg4KSG4KSc4KWA4KS14KS/4KSV4KS+IOCkruCkv+CktuCkqCAoREFZLU5STE0pKiogIHwgTWluaXN0cnkgb2YgUnVyYWwgRGV2ZWxvcG1lbnQgKE1vUkQpIC8g4KSX4KWN4KSw4KS+4KSu4KWA4KSjIOCkteCkv+CkleCkvuCkuCDgpK7gpILgpKTgpY3gpLDgpL7gpLLgpK8gKE1PUkQpICB8IEp1bmUgMjAxMSAgfCBcKiBJdCB3YXMgbGF1bmNoZWQgYnkgdGhlIE1pbmlzdHJ5IG9mIFJ1cmFsIERldmVsb3BtZW50IChNb1JEKSwgR292ZXJubWVudCBvZiBJbmRpYSBpbiBKdW5lIDIwMTEgYXMgYSByZXN0cnVjdHVyZWQgdmVyc2lvbiBvZiBTd2FybmEgSmF5YW50aSBHcmFtIFN3YXJvemdhciBZb2phbmEgKFNHU1kpLCB3aGljaCB3YXMgbGF1bmNoZWQgaW4gMTk5OSwgYW5kIFN3YXJuYSBKYXlhbnRpIFNoYWhhcmkgUm9qZ2FyIFlvamFuYSAoU0pTUlkpLCB3aGljaCB3YXMgbGF1bmNoZWQgaW4gMTk5Ny4gIApcKiBCdXQgaW4gMjAxNSwgQWFqZWV2aWthIE5STE0gd2FzIHJlbmFtZWQgYXMgRGVlbmRheWFsIEFudHlvZGF5YSBZb2phbmEgTmF0aW9uYWwgUnVyYWwgTGl2ZWxpaG9vZCBNaXNzaW9uIChEQVktTlJMTSkuICAKXCogQWltcyB0byBjb3ZlciBhdCBsZWFzdCBvbmUgd29tYW4gbWVtYmVyIGZyb20gZWFjaCBydXJhbCBwb29yIGhvdXNlaG9sZCB1bmRlciB0aGUgZm9sZCBvZiBTZWxmLUhlbHAgR3JvdXBzIChTSEdzKSBhbmQgcmVkdWNlIHBvdmVydHkgYnkgZW5hYmxpbmcgdGhlIGVtcGxveW1lbnQgb3Bwb3J0dW5pdGllcyBmb3IgcG9vciBob3VzZWhvbGRzIGFuZCBpbmNyZWFzZSBob3VzZWhvbGQgaW5jb21lIHRocm91Z2ggc3VzdGFpbmFibGUgbGl2ZWxpaG9vZCBlbmhhbmNlbWVudHMuICB8IHwKfCAqKlByYWRoYW4gTWFudHJpIEplZXZhbiBKeW90aSBCaW1hIFlvamFuYSAvIOCkquCljeCksOCkp+CkvuCkqOCkruCkguCksuClgCDgpJzgpYDgpLXgpKgg4KSc4KWN4KSv4KWL4KSk4KS/IOCkrOClgOCkruCkviDgpK/gpYvgpJzgpKjgpL4qKiAgfCBGaW5hbmNpYWwgU2VydmljZXMgdW5kZXIgTWluaXN0cnkgb2YgRmluYW5jZS/gpLXgpL/gpKTgpY3gpKQg4KSu4KSC4KSk4KWN4KSw4KS+4KSy4KSvIOCkleClhyDgpKTgpLngpKQg4KS14KS/4KSk4KWN4KSk4KWA4KSvIOCkuOClh+CkteCkvuCkj+CkgiAgfCA5IE1heSAyMDE1ICB8IFwqIEl0IGlzIGEgb25lLXllYXIgbGlmZSBpbnN1cmFuY2Ugc2NoZW1lIG9mIOKCuTIgbGFraCwgd2hpY2ggaXMgcmVuZXdhYmxlIGZyb20geWVhciB0byB5ZWFyLCBvZmZlcmluZyBjb3ZlcmFnZSBmb3IgZGVhdGggZHVlIHRvIGFueSByZWFzb24uICAKXCogKipBZ2UgR3JvdXAv4KSG4KSv4KWBIOCkuOClgOCkruCkvjoqKiAxOC01MCB5ZWFycy8xOCDgpLjgpYcgNTAg4KS14KSw4KWN4KS3ICAKXCogKipQcmVtaXVtL+CkquCljeCksOClgOCkruCkv+Ckr+CkrjoqKiDigrk0MzYgcGVyIGFubnVtL+CkquCljeCksOCkpOCkvyDgpLXgpLDgpY3gpLcg4oK5NDM2ICB8IHwKfCAqKlNhbnNhZCBBZGFyc2ggR3JhbSBZb2phbmEgKE1lbWJlciBvZiBQYXJsaWFtZW50IE1vZGVsIFZpbGxhZ2UgU2NoZW1lKS8g4KS44KS+4KSC4KS44KSmIOCkhuCkpuCksOCljeCktiDgpJfgpY3gpLDgpL7gpK4g4KSv4KWL4KSc4KSo4KS+KiogIHwgTWluaXN0cnkgb2YgUnVyYWwgRGV2ZWxvcG1lbnQv4KSX4KWN4KSw4KS+4KSu4KWA4KSjIOCkteCkv+CkleCkvuCkuCDgpK7gpILgpKTgpY3gpLDgpL7gpLLgpK8gIHwgMTEgT2N0b2JlciAyMDE0ICB8IFwqIFRoZSBnb2FsIGlzIHRvIGRldmVsb3AgdGhyZWUgQWRhcnNoIEdyYW1zIChNb2RlbCBWaWxsYWdlcykgYnkgTWFyY2ggMjAxOSwgb2Ygd2hpY2ggb25lIHdvdWxkIGJlIGFjaGlldmVkIGJ5IDIwMTYuIFRoZXJlYWZ0ZXIsIGZpdmUgc3VjaCBBZGFyc2ggR3JhbXMgKG9uZSBwZXIgeWVhcikgd2lsbCBiZSBzZWxlY3RlZCBhbmQgZGV2ZWxvcGVkIGJ5IDIwMjQuICB8IHwKfCAqKkRlZW4gRGF5YWwgVXBhZGh5YXlhIEdyYW1lZW4gS2F1c2hhbHlhIFlvamFuYSAoRERVLUdLWSkv4KSm4KWA4KSoIOCkpuCkr+CkvuCksiDgpIngpKrgpL7gpKfgpY3gpK/gpL7gpK8g4KSX4KWN4KSw4KS+4KSu4KWA4KSjIOCkleCljOCktuCksiDgpK/gpYvgpJzgpKjgpL4qKiAgfCBNaW5pc3RyeSBvZiBSdXJhbCBEZXZlbG9wbWVudC/gpJfgpY3gpLDgpL7gpK7gpYDgpKMg4KS14KS/4KSV4KS+4KS4IOCkruCkguCkpOCljeCksOCkvuCksuCkryAgfCAyNXRoIFNlcHRlbWJlciAyMDE0ICB8IFwqIFByb3ZpZGUgdHJhaW5pbmcgdG8gcnVyYWwgcG9vciB5b3V0aCAoYWdlIDE1LTM1KSBzbyB0aGF0IHRoZXkgYmVjb21lIGVjb25vbWljYWxseSBpbmRlcGVuZGVudCBhbmQgZ2xvYmFsbHkgcmVsZXZhbnQgd29ya2ZvcmNlLiAgClwqIEl0IGlzIGEgcGFydCBvZiBOYXRpb25hbCBSdXJhbCBMaXZlbGlob29kIE1pc3Npb24uICB8IHwKfCAqKlN0YXJ0LXVwIEluZGlhLyDgpLjgpY3gpJ/gpL7gpLDgpY3gpJ/gpIXgpKog4KSH4KSC4KSh4KS/4KSv4KS+KiogIHwgRGVwYXJ0bWVudCBmb3IgUHJvbW90aW9uIG9mIEluZHVzdHJ5IGFuZCBJbnRlcm5hbCBUcmFkZSB1bmRlciBNaW5pc3RyeSBvZiBDb21tZXJjZSBhbmQgSW5kdXN0cnkv4KSJ4KSm4KWN4KSv4KWL4KSXIOCklOCksCDgpIbgpILgpKTgpLDgpL/gpJUg4KS14KWN4KSv4KS+4KSq4KS+4KSwIOCkuOCkguCkteCksOCljeCkp+CkqCDgpLXgpL/gpK3gpL7gpJcsIOCkteCkvuCko+Ckv+CknOCljeCkryDgpJTgpLAg4KSJ4KSm4KWN4KSv4KWL4KSXIOCkruCkguCkpOCljeCksOCkvuCksuCkryDgpJXgpYcg4KSF4KSC4KSk4KSw4KWN4KSX4KSkICB8IDE2IEphbnVhcnkgMjAxNiAgfCBcKiAqKk9iamVjdGl2ZS/gpIngpKbgpY3gpKbgpYfgpLbgpY3gpK86KiogVG8gYnVpbGQgYSBzdHJvbmcgZWNvLXN5c3RlbSBmb3IgbnVydHVyaW5nIGlubm92YXRpb24gYW5kIFN0YXJ0dXBzIGluIHRoZSBjb3VudHJ5LiAgClwqIFRoZSBnb3Zlcm5tZW50J3MgZm9jdXMgaGFzIGJlZW4gb24gdGhyZWUgQydzIENhcGl0YWwsIENvdXJhZ2UgYW5kIENvbm5lY3Rpb25zLiAgfCB8CnwgKipTdGFuZCBVcCBJbmRpYS8g4KS44KWN4KSf4KWI4KSC4KShIOCkheCkqiDgpIfgpILgpKHgpL/gpK/gpL4qKiAgfCBEZXBhcnRtZW50IG9mIEZpbmFuY2lhbCBTZXJ2aWNlcyAoREZTKSwgTWluaXN0cnkgb2YgRmluYW5jZS/gpLXgpL/gpKTgpY3gpKQg4KSu4KSC4KSk4KWN4KSw4KS+4KSy4KSvIOCkleClhyDgpIXgpILgpKTgpLDgpY3gpJfgpKQg4KS14KS/4KSk4KWN4KSk4KWA4KSvIOCkuOClh+CkteCkviDgpLXgpL/gpK3gpL7gpJcgKERGUykgIHwgNSBBcHJpbCAyMDE2ICB8IFwqICoqT2JqZWN0aXZlL+CkieCkpuCljeCkpuClh+CktuCljeCkrzoqKiBUaGlzIHNjaGVtZSBhaW1zIGF0IHByb21vdGluZyBlbnRyZXByZW5ldXJzaGlwIGFtb25nIHdvbWVuIGFuZCBzY2hlZHVsZWQgY2FzdGVzIGFuZCB0cmliZXMuICB8IHwKfCAqKlByYWRoYW4gTWFudHJpIFVqandhbGEgWW9qYW5hL+CkquCljeCksOCkp+CkvuCkqOCkruCkguCksuClgCDgpIngpJzgpY3gpJzgpY3gpLXgpLLgpL4g4KSv4KWL4KSc4KSo4KS+KiogIHwgTWluaXN0cnkgb2YgUGV0cm9sZXVtIGFuZCBOYXR1cmFsIEdhcy/gpKrgpYfgpJ/gpY3gpLDgpYvgpLLgpL/gpK/gpK4g4KSU4KSwIOCkquCljeCksOCkvuCkleClg+CkleCljeCkpOCkv+CklSDgpJfgpYjgpLgg4KSu4KSC4KSk4KWN4KSw4KS+4KSy4KSvICB8IDEgTWF5IDIwMTYgIHwgXCogKipMYXVuY2hlZCBhdC/gpLLgpYngpKjgpY3gpJog4KS44KWN4KSl4KS+4KSoOioqIEJhbGxpYSwgVXR0YXIgUHJhZGVzaC/gpKzgpLLgpL/gpK/gpL4sIOCkieCkpOCljeCkpOCksCDgpKrgpY3gpLDgpKbgpYfgpLYgIApcKiBUaGUgc2NoZW1lIHByb3ZpZGVzIGEgZmluYW5jaWFsIHN1cHBvcnQgb2Yg4oK5MTYwMCBmb3IgZWFjaCBMUEcgY29ubmVjdGlvbiB0byB0aGUgQlBMIGhvdXNlaG9sZHMuICB8IHwKfCAqKlByYWRoYW4gTWFudHJpIEF3YWFzIFlvamFuYS1HcmFtaW4v4KSq4KWN4KSw4KSn4KS+4KSo4KSu4KSC4KSk4KWN4KSy4KWAIOCkhuCkteCkvuCkuCDgpK/gpYvgpJzgpKjgpL4tIOCkl+CljeCksOCkvuCkruClgOCkoyoqICB8IE1pbmlzdHJ5IG9mIFJ1cmFsIERldmVsb3BtZW50L+Ckl+CljeCksOCkvuCkruClgOCkoyDgpLXgpL/gpJXgpL7gpLgg4KSu4KSC4KSk4KWN4KSw4KS+4KSy4KSvICB8IDIwIE5vdmVtYmVyIDIwMTYgIHwgXCogVGhlIGVyc3R3aGlsZSBzY2hlbWUgb2YgSW5kaXJhIEF3YWFzIFlvamFuYSBoYXMgYmVlbiByZXN0cnVjdHVyZWQgaW50byBQcmFkaGFuIE1hbnRyaSBBd2FhcyBZb2phbmEtR3JhbWluIChQTUFZLUcpIHdpdGggZWZmZWN0IGZyb20gMXN0IEFwcmlsLCAyMDE2LiAgClwqICoqT2JqZWN0aXZlL+CkieCkpuCljeCkpuClh+CktuCljeCkrzoqKiBUbyBwcm92aWRlIFB1Y2NhIGhvdXNlIHRvIGFsbCB3aG8gYXJlIGhvdXNlbGVzcyBhbmQgbGl2aW5nIGluIGRpbGFwaWRhdGVkIGhvdXNlcyBpbiBydXJhbCBhcmVhcyBieSAyMDIyLiAgClwqIFRoZSBjb3N0IG9mIHRoaXMgc2NoZW1lIGlzIHNoYXJlZCBiZXR3ZWVuIENlbnRyYWwgYW5kIFN0YXRlIEdvdmVybm1lbnRzIGluIHRoZSByYXRpbyA2MDo0MCBpbiBwbGFpbiBhcmVhcyBhbmQgOTA6MTAgZm9yIE5vcnRoIEVhc3Rlcm4gYW5kIEhpbWFsYXlhbiBTdGF0ZXMuIFRoZSB1bml0IGFzc2lzdGFuY2UgaGFzIGJlZW4gaW5jcmVhc2VkIHRoaXMgc2NoZW1lIGZyb20gUnMuIDcwLDAwMCB0byBScy4gMS4yMCBsYWtoIGluIHBsYWluIHN0YXRlcyBhbmQgZnJvbSBScy4gNzUsMDAwIHRvIFJzLiAxLjMwIGxha2ggaW4gaGlsbHkgc3RhdGVzLiAgfCB8CnwgKipQcmFkaGFuIE1hbnRyaSBTdXJha3NoaXQgTWF0cml0dmEgQWJoaXlhbiAoUE1TTUEpLyDgpKrgpY3gpLDgpKfgpL7gpKjgpK7gpILgpKTgpY3gpLDgpYAg4KS44KWB4KSw4KSV4KWN4KS34KS/4KSkIOCkruCkvuCkpOClg+CkpOCljeCktSDgpIXgpK3gpL/gpK/gpL7gpKggKFBNU01BKSoqICB8IE1pbmlzdHJ5IG9mIEhlYWx0aCAmIEZhbWlseSBXZWxmYXJlL+CkuOCljeCkteCkvuCkuOCljeCkpeCljeCkryDgpJTgpLAg4KSq4KSw4KS/4KS14KS+4KSwIOCkleCksuCljeCkr+CkvuCkoyDgpK7gpLLgpL7gpLLgpK8gIHwgMzFzdCBKdWx5IDIwMTYgIHwgXCogVGhlIHByb2dyYW0gYWltcyB0byBlbnN1cmUgYXQgbGVhc3Qgb25lIGNoZWNrIHVwIGZvciBhbGwgcHJlZ25hbnQgd29tZW4gaW4gdGhlaXIgc2Vjb25kIG9yIHRoaXJkIHRyaW1lc3RlciBieSBhIHBoeXNpY2lhbi9zcGVjaWFsaXN0IG9uIHRoZSA5dGggZGF5IG9mIGV2ZXJ5IG1vbnRoIGFuZCBldmVyeSBwcmVnbmFudCB3b21hbiBtdXN0IHJlY2VpdmUgc3BlY2lhbCBjYXJlLiAgfCB8CnwgKipLaGVsbyBJbmRpYSBTY2hlbWUv4KSW4KWH4KSy4KWLIOCkh+CkguCkoeCkv+Ckr+CkviDgpK/gpYvgpJzgpKjgpL4qKiAgfCBNaW5pc3RyeSBvZiBZb3V0aCBBZmZhaXJzIGFuZCBTcG9ydHMv4KSv4KWB4KS14KS+IOCkruCkvuCkruCksuClhyDgpJTgpLAg4KSW4KWH4KSyIOCkruCkpOCljeCkpOCkvuCksuCkryAgfCBPY3RvYmVyIDIwMTcgIHwgXCogVGhpcyBTY2hlbWUgaXMgdG8gcmV2aXZlIHRoZSBzcG9ydHMgY3VsdHVyZSBpbiBJbmRpYSBncm91bmQgbGV2ZWwuICAKXCogSXQgYWxzbyBmb2N1c2VzIG9uIGRldmVsb3Bpbmcgc3BvcnRzIGluZnJhc3RydWN0dXJlLCBjb2FjaGluZywgYW5kIG90aGVyIGFtZW5pdGllcyBmb3IgYXRobGV0ZXMgdG8gaGVscCB0aGVtIGdyb3cgYW5kIGJ1aWxkIEluZGlhIGFzIGEgc3BvcnQgbmF0aW9uLiAgfCB8CnwgKipVREFOIFNjaGVtZS8g4KSJ4KSh4KS84KS+4KSoIOCkr+Cli+CknOCkqOCkvioqICB8IE1pbmlzdHJ5IG9mIENpdmlsIEF2aWF0aW9uL+CkqOCkvuCkl+CksOCkv+CklSDgpIngpKHgpY3gpKHgpYLgpK/gpKgg4KSu4KSC4KSy4KS+4KSy4KSvICB8IDIxIE9jdG9iZXIgMjAxNiAgfCBcKiBUbyBwcm92aWRlIGFmZm9yZGFibGUsIGVjb25vbWljYWxseSB2aWFibGUgYW5kIHByb2ZpdGFibGUgYWlyIHRyYXZlbCBvbiByZWdpb25hbCByb3V0ZXMgdG8gdGhlIGNvbW1vbiBtYW4gZXZlbiBpbiBzbWFsbCB0b3ducy4gIHwgfAp8ICoqUHJhZGhhbiBNYW50cmkgVmF5YSBWYW5kYW5hIFlvamFuYSAoUE1WVlkpLyDgpKrgpY3gpLDgpKfgpL7gpKjgpK7gpILgpKTgpY3gpLDgpYAg4KS14KSvIOCkteCkguCkpuCkqOCkviDgpK/gpYvgpJzgpKjgpL4qKiAgfCBEZXBhcnRtZW50IG9mIEZpbmFuY2lhbCBTZXJ2aWNlcyAoREZTKSwgTWluaXN0cnkgb2YgRmluYW5jZS/gpLXgpL/gpKTgpY3gpKQg4KSu4KSC4KSy4KS+4KSy4KSvIOCkleClhyDgpKTgpLngpKQg4KS14KS/4KSk4KWN4KSk4KWA4KSvIOCkuOClh+CkteCkviDgpLXgpL/gpK3gpL7gpJcgIHwgNCBNYXkgMjAxNyAgfCBcKiAqKk1pbmltdW0gQWdlOioqIDYwIHllYXJzIApcKiAqKk1heGltdW0gaW52ZXN0bWVudCBBbW91bnQ6Kiog4oK5MTUgbGFraCBmb3IgMTAgeWVhciAgClwqICoqTWluaW11bSBhbmQgTWF4aW11bSBtb250aGx5IHBlbnNpb246Kiog4oK5MSwwMDAgYW5kIOKCuTEwLDAwMCByZXNwZWN0aXZlbHkuICAKXCogUGVuc2lvbiBzY2hlbWUgd2l0aCBhbiBhaW0gdG8gcHJvdmlkZSBzb2NpYWwgc2VjdXJpdHkgdG8gY2l0aXplbiBhbmQgZm9yIHRoZSBwcm90ZWN0aW9uIG9mIHRoZSBlbGRlcmx5IGFnYWluc3QgYSBmYWxsIGluIHRoZSBpbnRlcmVzdCBkdWUgdG8gdW5mYXZvcmFibGUgbWFya2V0IGNvbmRpdGlvbiBpbiB0aGUgZnV0dXJlLiAgfCB8CnwgKipBeXVzaG1hbiBCaGFyYXQgLSBQcmFkaGFuIE1hbnRyaSBKYW4gQXJvZ3lhIFlvamFuYSAoQUItUE1KQVkpL+CkhuCkr+ClgeCkt+CljeCkruCkvuCkqCDgpK3gpL7gpLDgpKQg4KSq4KWN4KSw4KSn4KS+4KSo4KSu4KSC4KSk4KWN4KSw4KWAIOCknOCkqCDgpIbgpLDgpYvgpJfgpY3gpK8g4KSv4KWL4KSc4KSo4KS+ICjgpI/gpKzgpYAt4KSq4KWA4KSP4KSu4KSc4KSvKSoqICB8IE1pbmlzdHJ5IG9mIEhlYWx0aCBhbmQgRmFtaWx5IFdlbGZhcmUv4KS44KWN4KS14KS+4KS44KWN4KSl4KWN4KSvIOCklOCksCDgpKrgpLDgpL/gpLXgpL7gpLAg4KSV4KSy4KWN4KSv4KS+4KSjIOCkruCksuCkvuCksuCkryAgfCAyMyBTZXB0ZW1iZXIgMjAxOCAgfCBcKiBJdCBwcm92aWRlcyBhIGNvdmVyIG9mIFJzLiA1IGxha2hzIHBlciBmYW1pbHkgcGVyIHllYXIgZm9yIHNlY29uZGFyeSBhbmQgdGVydGlhcnkgY2FyZSBob3NwaXRhbGl6YXRpb24gYWNyb3NzIHB1YmxpYyBhbmQgcHJpdmF0ZSBlbXBhbmVsbGVkIGhvc3BpdGFscyBpbiBJbmRpYSwgd2FzIHN0YXJ0ZWQgaW4gUmFuY2hpLCBKaGFya2hhbmQgYnkgdGhlIEhvbidibGUgUHJpbWUgTWluaXN0ZXIgb2YgSW5kaWEsIFNocmkgTmFyZW5kcmEgTW9kaS4gIApcKiBUaGVyZSBpcyBubyByZXN0cmljdGlvbiBvbiB0aGUgZmFtaWx5IHNpemUsIGFnZSBvciBnZW5kZXIuICAKXCogU2VuaW9yIGNpdGl6ZW4gaGVhbHRoIGluc3VyYW5jZSBzY2hlbWUgaXMgbm90IGNvdmVyZWQgdW5kZXIgdGhlIHNjaGVtZS4gIApcKiAqKkZ1bmRpbmcgaW4gSGltYWxheWFuIGFuZCBOb3J0aCBFYXN0ZXJuIHN0YXRlOioqIENlbnRyYWwgYW5kIHN0YXRlIHJhdGlvIGlzIDkwOjEwIGFuZCBpbiBvdGhlciBzdGF0ZSBpdCBpcyA2MDo0MC4gIHwgfAp8ICoqSmFsIEplZXZhbiBNaXNzaW9uL+CknOCksiDgpJzgpYDgpLXgpKgg4KSu4KS/4KS24KSoKiogIHwgTWluaXN0cnkgb2YgSmFsIFNoYWt0aS8g4KSc4KSyIOCktuCkleCljeCkpOCkvyDgpK7gpILgpKTgpY3gpLDgpL7gpLLgpK8gIHwgQXVndXN0IDE1LCAyMDE5ICB8IFwqICoqT2JqZWN0aXZlL+CkieCkpuCljeCkpuClh+CktuCljeCkrzoqKiBJdCBwcm92aWRlcyBzdXBwbHkgb2YgNTUgbGl0ZXJzIG9mIHdhdGVyIHBlciBwZXJzb24gcGVyIGRheSB0byBldmVyeSBydXJhbCBob3VzZWhvbGQgdGhyb3VnaCBUYXAgQ29ubmVjdGlvbnMgYnkgMjAyNC4gIApcKiBUaGUgZnVuZCBhbGxvY2F0aW9uIGJldHdlZW4gdGhlIENlbnRyZSBhbmQgc3RhdGVzIGlzIDkwOjEwIGZvciBIaW1hbGF5YW4gYW5kIE5vcnRoLUVhc3Rlcm4gU3RhdGVzLCA1MDo1MCBmb3Igb3RoZXIgc3RhdGVzLCBhbmQgMTAwJSBmb3IgVW5pb24gVGVycml0b3JpZXMuICAKXCogR29hLCBUZWxhbmdhbmEsIEFuZGFtYW4gYW5kIE5pY29iYXIgSXNsYW5kcywgRGFkcmEgYW5kIE5hZ2FyIEhhdmVsaSwgRGFtYW4gYW5kIERpdSwgUHVkdWNoZXJyeSBhbmQgSGFyeWFuYSBhcmUgdGhlIHN0YXRlcyB0aGF0IGNhbiBub3cgaGF2ZSAxMDAlIGhvdXNlaG9sZCB3YXRlciBjb25uZWN0aW9ucy4gIHwgfAp8ICoqU3VyYWtzaGl0IE1hdHJpdHZhIEFhc2h3YXNhbiAoU1VNQU4pIFlvamFuYS8g4KS44KWB4KSw4KSV4KWN4KS34KS/4KSkIOCkruCkvuCkpOClg+CkpOCljeCktSDgpIbgpLbgpY3gpLXgpL7gpLjgpKggKOCkuOClgeCkruCkqCkg4KSv4KWL4KSc4KSo4KS+KiogIHwgTWluaXN0cnkgb2YgSGVhbHRoIGFuZCBGYW1pbHkgV2VsZmFyZS/gpLjgpY3gpLXgpL7gpLjgpY3gpKXgpY3gpK8g4KSU4KSwIOCkquCksOCkv+CkteCkvuCksCDgpJXgpLLgpY3gpK/gpL7gpKMg4KSu4KSC4KSk4KWN4KSw4KS+4KSy4KSvICB8IDEwIE9jdG9iZXIgMjAxOSAgfCBcKiAqKk9iamVjdGl2ZS/gpIngpKbgpY3gpKbgpYfgpLbgpY3gpK86KiogVGhpcyBwcm9ncmFtIHByb3ZpZGVzIGFmZm9yZGFibGUgYW5kIHF1YWxpdHkgaGVhbHRoY2FyZSBzb2x1dGlvbnMgdG8gcHJlZ25hbnQgd29tZW4gYW5kIG5ld2Jvcm5zLiAgClwqIFVuZGVyIHRoaXMgc2NoZW1lLCBwcmVnbmFudCB3b21lbiwgc2ljayBuZXdib3JucywgYW5kIG1vdGhlcnMgcmVjZWl2ZSB6ZXJvIGV4cGVuc2UgYWNjZXNzIHVwIHRvIHNpeCBtb250aHMgYWZ0ZXIgZGVsaXZlcnkuICB8IHwKfCAqKlBNLUtpc2FuIE1hYW5kaGFuIFlvamFuYS/gpKrgpYDgpI/gpK4t4KSV4KS/4KS44KS+4KSoIOCkruCkvuCkqOCkp+CkqCDgpK/gpYvgpJzgpKjgpL4qKiAgfCBNaW5pc3RyeSBvZiBBZ3JpY3VsdHVyZSAmIEZhcm1lcnMgV2VsZmFyZS/gpJXgpYPgpLfgpL8g4KSU4KSwIOCkleCkv+CkuOCkvuCkqCDgpJXgpLLgpY3gpK/gpL7gpKMg4KSu4KSC4KSk4KWN4KSw4KS+4KSy4KSvICB8IDEyIFNlcHRlbWJlciAyMDE5ICB8IFwqICoqT2JqZWN0aXZlL+CkieCkpuCljeCkpuClh+CktuCljeCkrzoqKiBQZW5zaW9uIHRvIFNtYWxsIGFuZCBNYXJnaW5hbCBGYXJtZXJzIGluIHRoZWlyIG9sZCBhZ2Ugd2hlbiB0aGV5IGhhdmUgbm8gbWVhbnMgb2YgbGl2ZWxpaG9vZCBhbmQgbWluaW1hbCBvciBubyBzYXZpbmdzIHRvIHRha2UgY2FyZSBvZiB0aGVpciBleHBlbnNlcy4gIApcKiAqKkFnZToqKiAxOC00MCB5ZWFycyAqKlByZW1pdW0gQW1vdW50OioqIGJldHdlZW4gNTUgdG8gMjAwIChkZXBlbmRpbmcgb24gdGhlIGFnZSkgT24gcmVhY2hpbmcgdGhlIGFnZSBvZiA2MCwgdGhlIGJlbmVmaWNpYXJpZXMgd291bGQgZ2V0IFJzIDMsMDAwIG1vbnRobHkgcGVuc2lvbi4gIHwgfAp8ICoqR2FyaWIgS2FseWFuIFJvamdhciBBYmhpeWFuL+Ckl+CksOClgOCkrCDgpJXgpLLgpY3gpK/gpL7gpKMg4KSw4KWL4KSc4KSX4KS+4KSwIOCkheCkreCkv+Ckr+CkvuCkqCoqICB8IE1pbmlzdHJ5IG9mIFJ1cmFsIERldmVsb3BtZW50L+Ckl+CljeCksOCkvuCkruClgOCkoyDgpLXgpL/gpJXgpL7gpLgg4KSu4KSC4KSk4KWN4KSw4KS+4KSy4KSvICB8IDIwIEp1bmUgMjAyMCAgfCBcKiAqKk9iamVjdGl2ZS/gpIngpKbgpY3gpKbgpYfgpLbgpY3gpK86KiogQm9vc3QgbGl2ZWxpaG9vZCBvcHBvcnR1bml0aWVzIGZvciByZXR1cm5pbmcgbWlncmFudHMgYW5kIHNpbWlsYXJseSBhZmZlY3RlZCBydXJhbCBjaXRpemVucyBhbWlkIHRoZSBvbmdvaW5nIENvdmlkLTE5IGNyaXNpcy4gIApcKiAqKk9wZXJhdGlvbmFsIFBlcmlvZC/gpLjgpILgpJrgpL7gpLLgpKgg4KSF4KS14KSn4KS/OioqIDEyNSBkYXlzIChmcm9tIDIwIEp1bmUgMjAyMCkuICAKXCogSXQgd2lsbCBjb3ZlciAxMTYgZGlzdHJpY3Qgb2YgNiBzdGF0ZXMgKFJhamFzdGhhbiwgTWFkaHlhIFByYWRlc2gsIEpoYXJraGFuZCwgVXR0YXIgUHJhZGVzaCwgQmloYXIgYW5kIE9kaXNoYSkuICB8IHwAAAAAAAAAAAEAAAAAAAAAAAAAAA",
-							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAMI0AAAAAAAAAAAAAAAA8L8"
+							"AQAAAJA3AAAAAAAAkzcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAkDcAAAAAAACQNwAAAAAAAAAAAAAAAPC/"
 						],
 						[
-							36,
+							4,
 							1,
-							"",
+							"left_delete",
 							null,
-							"AQAAAAEAAAAAAAAALVkAAAAAAAAAAAAA",
-							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAA8L8"
+							"AQAAAJE3AAAAAAAAkTcAAAAAAAACAAAAICA",
+							"AQAAAAAAAAABAAAAkzcAAAAAAACTNwAAAAAAAAAAAAAAAPC/"
 						],
 						[
-							37,
+							5,
 							1,
-							"",
-							null,
-							"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"
+							"insert",
+							{
+								"characters": "]"
+							},
+							"AQAAAJE3AAAAAAAAkjcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAkTcAAAAAAACRNwAAAAAAAAAAAAAAAPC/"
 						],
 						[
-							88,
+							8,
 							1,
-							"",
+							"left_delete",
 							null,
-							"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"
+							"AQAAAI83AAAAAAAAjzcAAAAAAAABAAAALA",
+							"AQAAAAAAAAABAAAAkDcAAAAAAACQNwAAAAAAAAAAAAAAAPC/"
 						]
 					]
 				},
 				{
-					"contents": "- Extract every valid scheme that may or may not have required fields (Scheme Name, Ministry, Date, VIP Note).\n\n- Ensure nothing is skipped.\n\n- Provide it in a single, clean markdown table, or as a downloadable .md\n\n- I want you to cover all the 21 pages of pdf ",
+					"file": "/home/purex/programming/Python/quiz_era/quiz_data/History/9. Muslim League.json",
 					"settings":
 					{
-						"buffer_size": 262,
-						"line_ending": "Unix",
-						"name": "- Extract every valid scheme that may or may not h"
+						"buffer_size": 2756,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
 					},
 					"undo_stack":
 					[
@@ -839,77 +790,107 @@
 							1,
 							"",
 							null,
-							"AQAAAAAAAAAAAAAABgEAAAAAAAAAAAAA",
-							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
-						],
-						[
-							9,
-							1,
-							"",
-							null,
-							"AQAAAAAAAAAAAAAABgEAAAAAAAAGAQAALSBFeHRyYWN0IGV2ZXJ5IHZhbGlkIHNjaGVtZSB0aGF0IG1heSBvciBtYXkgbm90IGhhdmUgcmVxdWlyZWQgZmllbGRzIChTY2hlbWUgTmFtZSwgTWluaXN0cnksIERhdGUsIFZJUCBOb3RlKS4KCi0gRW5zdXJlIG5vdGhpbmcgaXMgc2tpcHBlZC4KCi0gUHJvdmlkZSBpdCBpbiBhIHNpbmdsZSwgY2xlYW4gbWFya2Rvd24gdGFibGUsIG9yIGFzIGEgZG93bmxvYWRhYmxlIC5tZAoKLSBJIHdhbnQgeW91IHRvIGNvdmVyIGFsbCB0aGUgMjEgcGFnZXMgb2YgcGRmIA",
-							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAYBAAAAAAAAAAAAAAAA8L8"
-						]
-					]
-				},
-				{
-					"contents": "A comprehensive list of central government schemes mentioned in the provided document is detailed below.\n\n| Sr. No. | Scheme Name | Ministry / Regulating Body | Launch Date / Year | VIP Note (Objective / Key Details) |\n| :--- | :--- | :--- | :--- | :--- |\n| 1 | The NIKSHAY 2.0 portal  | Ministry of Health and Family Welfare  | 2025 (Commitment Year) | Provides additional patient support to TB patients to leverage Corporate Social Responsibility (CSR) opportunities, improve treatment outcomes, enhance community participation, and fulfill India's commitment to eliminate TB by 2025. |\n| 2 | National Green Hydrogen Mission  | Ministry of New and Renewable Energy  | January 2023  | Aims to make India a global hub for green hydrogen production. The goal is to produce 5 Million Metric Tonnes (MMT) of hydrogen annually and add about 125 GW of renewable energy capacity by 2030. |\n| 3 | Aspirational Block Programme  | NITI Aayog  | 7 January 2023  | Based on the Aspirational District Programme model, it aims to provide essential government services in areas like health, nutrition, education, and infrastructure across 500 blocks in 27 States and 4 Union Territories. |\n| 4 | Broadcasting Infrastructure and Network Development (BIND)  | Ministry of Information and Broadcasting  | Active until 2025-26 | Will provide financial support to Prasar Bharati for the modernization of public broadcasters like AIR India and DD National until 2025-26. |\n| 5 | Vibrant Villages Programme (VVP) Scheme  | Ministry of Home Affairs  | 10 April 2023  | Funds the development of essential infrastructure and livelihood opportunities in bordering states like Himachal Pradesh, Uttarakhand, Arunachal Pradesh, Sikkim, and Ladakh from 2022-23 to 2025-26. |\n| 6 | New India Literacy Programme (NILP)  | Ministry of Education  | FY 2022-23 to 2026-27  | Addresses all aspects of adult education, including Foundational Literacy and Numeracy, Critical Life Skills, and more. It aims to cover 5 crore non-literates aged 15 and above. |\n| 7 | Scheme for Capacity Building in Textiles Sector (SAMARTH)  | Ministry of Textile  | Active until March 2024  | Aims to incentivize job creation in the organized textile and related sectors, covering the entire value chain except for Spinning and Weaving. |\n| 8 | Mahila Samman Savings Certificate (MSSC)  | Ministry of Finance  | Budget 2023  | A small savings scheme to encourage women investors. Women of any age can open an account with a deposit between ₹1,000 and ₹2 Lakhs for a two-year period until March 2025, offering a 7.5% annual interest rate. |\n| 9 | Seed Traceability, Authentication and Holistic Inventory (SATHI) Portal  | Ministry of Agriculture & Farmers Welfare  | April 2023  | Developed with the National Informatics Centre under the theme 'Uttam Beej Samriddh Kisan', it addresses challenges in seed production, quality seed identification, and certification. |\n| 10 | National Quantum Mission  | Ministry of Science & Technology  | 2023-2031  | The objective is to seed, nurture, and scale up scientific and industrial R&D to create a vibrant ecosystem in Quantum Technology. |\n| 11 | Poshan Bhi, Padhai Bhi (PBPB) Scheme  | Ministry of Women and Child Development  | 10 May 2023  | Focuses on Early Childhood Care and Education for children in their first six years at Anganwadi centers across the country. |\n| 12 | New Integrated Food Security Scheme (Pradhan Mantri Garib Kalyan Ann Yojana - PMGKAY)  | Ministry of Consumer Affairs, Food & Public Distribution  | 1 January 2023  | Aims to strengthen the provisions of the National Food Security Act (NFSA), 2013 by providing free foodgrains to Antodaya Ann Yojna (AAY) & Primary Household (PHH) beneficiaries. |\n| 13 | Amrit Bharat Station Scheme  | Ministry of Railway  | February 2023  | Aims for the upgradation and modernization of 1275 railway stations by improving passenger amenities such as station access, waiting halls, toilets, free Wi-Fi, and more. |\n| 14 | Mission on Advanced and High-Impact Research (MAHIR)  | Ministry of Power & Ministry of New and Renewable Energy  | June 2023  | Identifies emerging technologies for the energy sector, creates an innovative ecosystem, and provides a common platform from 2023-24 to 2027-28. |\n| 15 | PM Vishwakarma Kaushal Samman (PM-VIKAS)  | Ministry of Minority Affairs  | 17 September 2023  | Provides holistic support to artisans and craftspersons. |\n| 16 | MSME Competitive (LEAN) Scheme  | Ministry of MSME  | March 2023  | Provides a roadmap to global competitiveness for India's MSMEs, which are enterprises engaged in the production, manufacturing, or processing of goods. |\n| 17 | Amrit Dharohar Scheme  | Ministry of Tourism  | Budget 2023  | Aims to conserve wetlands by promoting their optimal use over the next three years, thereby increasing eco-tourism and helping local communities generate income. |\n| 18 | Pradhan Mantri PVTG Development Mission  | Ministry of Tribal Affairs  | Budget 2023  | Launched to improve the socio-economic conditions of Particularly Vulnerable Tribal Groups (PVTGs) as part of the 'Reaching The Last Mile' priority. |\n| 19 | PM Programme for Restoration, Awareness, Nourishment and Amelioration of Mother Earth (PM-PRANAM)  | Ministry of Chemicals and Fertilizers  | Budget 2023-24  | To be launched to incentivize States and Union Territories to promote alternative fertilizers and the balanced use of chemical fertilizers. |\n| 20 | Marketing and Logistics Development for Promotion of Tribal Products from North Eastern Region (PTP-NER)  | Ministry of Tribal Affairs  | 18 April 2023  | Aims to strengthen the livelihood opportunities of tribal artisans by promoting and showcasing their products from the North Eastern States. |\n| 21 | Mid-Day Meal Scheme  | Ministry of Education  | N/A | Comes under the purview of the Ministry of Education. |\n| 22 | Nai Manzil scheme  | Ministry of Minority Affairs (implied) | N/A | Relates to skill training for minority youth. |\n| 23 | Clean India Mission  | Ministry of Drinking Water and Sanitation  | 2 October 2014  | Launched by the Ministry of Drinking Water and Sanitation. |\n| 24 | Training of Rural Youth for Self-Employment (TRYSEM)  | Government of India  | 1979  | A scheme for the training of rural youth for self-employment. |\n| 25 | BHARATMALA Pariyojana  | N/A | N/A | Associated with highways. |\n| 26 | Indira Gandhi National Old Age Pension Scheme (IGNOAPS)  | N/A | N/A | Provides pensions to all people aged 60 years or older belonging to households below the poverty line. |\n| 27 | Annapurna Scheme  | Government of India  | 2000  | Launched for providing food security. |\n| 28 | Mission Indra Dhanush  | N/A | 2014  | Related to child vaccination, it was launched to ensure full immunization coverage for children. |\n| 29 | Digital India program  | N/A | N/A | Public school education for all is part of the growth under this program. |\n| 30 | The National Mission for Manuscripts  | Ministry of Tourism and Culture  | February 2003  | Established by the Union Ministry of Tourism and Culture. |\n| 31 | GANGA GRAM PROJECT  | Ministry of Drinking Water and Sanitation  | N/A | Launched by the Ministry of Drinking Water and Sanitation. |\n| 32 | Sarva Shiksha Abhiyan (SSA)  | N/A | 2001-2002  | Aims to provide useful and relevant elementary education for all children aged 6-14, with the motto \"Education for all\". |\n| 33 | Mahatma Gandhi National Rural Employment Guarantee (MNREGA)  | N/A | 2005  | Guarantees 100 days of wage employment in a year, ensuring the 'Right to Work'. |\n| 34 | PAHAL ('Pratyaksha Hastaantarit Laabh)  | Ministry of Petroleum and Natural Gas  | 2013  | Related to the direct transfer of LPG subsidy. |\n| 35 | National Family Benefit Scheme  | N/A | August 1995  | Started in August 1995. |\n| 36 | The Ganga Action Plan  | N/A | 1986  | Its main aim was to reduce pollution in the Ganga river. |\n| 37 | Jawahar Gram Samridhi Yojana  | N/A | 1999  | A village prosperity scheme launched in 1999. |\n| 38 | The National Urban Health Mission  | Government of India  | 2013  | A national mission for urban health, approved in 2013. |\n| 39 | Women Transforming India Awards  | NITI Aayog  | 2016  | Awards started by NITI Aayog in 2016. |\n| 40 | Pradhan Mantri Swasthya Suraksha Yojana  | N/A | 2003  | A health protection scheme launched in 2003. |\n| 41 | Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)  | Ministry of Agriculture Cooperation & Farmer Welfare  | January 2006  | The major objective is 'Per Drop More Crop'. |\n| 42 | Namami Gange Programme  | Union Government  | June 2014  | An Integrated Conservation Mission to abate pollution and conserve the National River Ganga. |\n| 43 | National Mission for Clean Ganga (NMCG)  | National Ganga Council  | 12 August 2011  | Implemented by the National Ganga Council and established as a registered society. |\n| 44 | Target Olympic Podium Scheme (TOPS)  | Ministry of Youth Affairs and Sports  | 2014  | Aims to provide financial assistance to athletes for their pursuit of medals in the Olympics and other international sporting events. |\n| 45 | Pradhan Mantri Kaushal Vikas Yojana (PMKVY)  | Ministry of Skill Development & Entrepreneurship (MSDE)  | 2015  | The flagship scheme of MSDE, implemented by the National Skill Development Corporation, and launched in 600 districts. |\n| 46 | Central Rural Sanitation Programme  | N/A | 1986  | One of India's first efforts to provide safe sanitation in rural areas. |\n| 47 | Pravasi Teerth Darshan Scheme  | Government of India (Started by PM) | 22 January 2019  | Sponsors a religious tour in India for Non-Residential Indians (NRIs), with first preference given to people from Girmitiya countries. |\n| 48 | Project Mausam  | Ministry of Culture  | June 2014  | An initiative launched by the Ministry of Culture to be implemented by the Archeological Survey of India. |\n| 49 | Indian Social Conference (pledge movement)  | Indian Social Conference | N/A | Launched the pledge movement with the motive to prohibit child marriage. |\n| 50 | E-Sampark  | Government of India  | N/A | A mechanism to contact citizens across India electronically via emails, outbound dialing, and SMS. |\n| 51 | SATH (Sustainable Action for Transforming Human Capital) & SATH-E Project  | NITI Aayog (implied) | N/A | SATH-E project is associated with providing high-quality education to school-going children in Jharkhand, Madhya Pradesh, and Odisha. |\n| 52 | Hariyali  | Central and State Government  | N/A | A watershed development and management program implemented by the central and state governments. |\n| 53 | SETU BHARATAM PROGRAM  | N/A | 4 March 2016  | Aims to make all national highways free from railway level crossings. |\n| 54 | National social assistance program  | N/A | N/A | Encompasses the National Disability Pension Program, Indira Gandhi National Widow Pension Scheme, and Annapurna Yojana. |\n| 55 | Pradhan Mantri Gramodaya Yojana  | N/A | 2000  | Aims to meet rural needs such as primary education, healthcare, drinking water, housing, and rural roads. |\n| 56 | Dr. Ambedkar Centres of Excellence (DACE) Scheme  | Ministry of Social Justice and Empowerment  | April 2022  | Aims to provide high-quality free coaching facilities to Scheduled Caste students for the UPSC Civil Services examinations. |\n| 57 | SMILE-75 Initiative  | Ministry of Social Justice & Empowerment  | August 2022  | The objective is to make cities/towns and municipal areas beggar-free. |\n| 58 | Antyodaya Anna Yojana (AAY)  | Government of India  | 2000  | A public distribution system scheme to provide food security at a minimum price. Wheat is provided at ₹2/Kg and rice at ₹3/Kg, with eligible families receiving 35 kg of food grain monthly. |\n| 59 | Deen Dayal Antyodaya Yojana (DAY)  | Ministry of Rural Development  | June 2011  | Helps the poor by providing skill training, with an expenditure of ₹15,000 permissible per person for training the urban poor. |\n| 60 | Mission Antyodaya  | Ministry of Rural Development  | Budget 2017-18  | A mission mode project aiming to bring optimum use and management of resources through a convergence and accountability framework. |\n| 61 | Nikshay Poshan Yojana  | Government of India  | April 2018  | Aims to help tuberculosis patients by providing ₹500 per month for food. |\n| 62 | Scheme For Residential Education For Students In High Schools In Targeted Areas (SHRESTHA)  | Ministry of Education and Ministry of Social Justice and Empowerment  | 3 June 2022  | A scheme for residential education for students in high schools in targeted areas. |\n| 63 | National Digital Education Architecture (NDEAR)  | Ministry of Education  | February 2021  | An architectural blueprint that lays down guiding principles for creating digital technology-based applications for education. |\n| 64 | Services E-Health Assistance and Teleconsultation (SeHAT)  | Ministry of Defense  | 27 May 2021 (Launched), 1 February 2022 (Started)  | An online medical consultation platform that provides home delivery of medicines for veterans and serving military personnel. |\n| 65 | The twenty Point Programme (TPP)  | N/A | 1975  | A twenty-point program launched in 1975. |\n| 66 | The Pradhan Mantri Rojgar Yojana  | N/A | 1993 (Eighth Five Year Plan)  | An employment scheme started in 1993. |\n| 67 | SAMAGRA SHIKSHA ABHIYAN  | N/A | May 2018  | A scheme for school education that extends from pre-nursery to class XII. |\n| 68 | National Ropeways Development Programme \"Parvatmala\"  | N/A | N/A | A preferred ecologically sustainable alternative to conventional roads in difficult hilly areas to improve connectivity. |\n| 69 | SAMARTH initiative  | Ministry of MSME  | 8 March 2022  | Will provide women with self-employment opportunities to make them self-reliant and independent. |\n| 70 | Mission Vatsalya  | Ministry of Women and Child Development  | 2021-22  | Aims to achieve child protection and development objectives, launched as a revamped version of the Integrated Child Protection Scheme (ICPS). |\n| 71 | Pradhan Mantri Gramin Digital Saksharta Abhiyan (PMGDISHA)  | Government of India  | 2017 (Approved)  | A flagship Digital Literacy scheme for rural areas to provide Digital Literacy to all digital villages, with UNESCO as an international partner. |\n| 72 | Sangathan Se Samridhhi Campaign  | DAY-NRLM | April 2023  | Launched under DAY-NRLM with the aim of ensuring \"Leaving no Rural Woman Behind\" by including 10 crore women from rural households in Self-Help Groups (SHGs). |\n| 73 | Pradhan Mantri Mudra Bank Yojana (PMMY)  | N/A | 8 April 2015  | Aims to fund non-corporate small businesses by providing loans from ₹50,000 to ₹10 lakh. |\n| 74 | Meri Policy Mere Haath campaign  | Part of Pradhan Mantri Fasal Bima Yojana | 18 February 2022  | A doorstep distribution campaign to provide crop insurance policies to farmers under the Pradhan Mantri Fasal Bima Yojana. |\n| 75 | Atma Nirbhar Bharat Scheme  | N/A | 12 May 2020  | It has 5 important pillars: Economy, Infrastructure, Systems, Democracy, and Demand, and focuses on land, labour, liquidity, and law. |\n| 76 | Pandit Deen Dayal Upadhyay Unnat Krishi Shiksha Yojana  | N/A | 2016  | An advanced agricultural education scheme launched in 2016. |\n| 77 | Pradhan Mantri Garib Kalyan Deposit Scheme (PMGKDS)  | Government of India  | 2016  | A deposit scheme for the welfare of the poor launched in 2016. |\n| 78 | Paramparagat Krishi Vikas Yojana  | N/A | 2015  | Aims to promote organic farming by providing each farmer with ₹20,000 per acre over three years for seeds, harvesting, and transport of produce. |\n| 79 | National program of nutrition support to primary education  | N/A | 15 August 1995  | A national program for nutrition support to primary education. |\n| 80 | Swajaldhara Yojana  | N/A | 2002  | Aims to ensure drinking water supply to all villages. |",
-					"settings":
-					{
-						"buffer_size": 15833,
-						"line_ending": "Unix",
-						"name": "A comprehensive list of central government schemes"
-					},
-					"undo_stack":
-					[
-						[
-							12,
-							1,
-							"",
-							null,
-							"AQAAAAAAAAAAAAAAKVcAAAAAAAAAAAAA",
-							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
-						],
-						[
-							13,
-							1,
-							"",
-							null,
-							"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"
-						]
-					]
-				},
-				{
-					"contents": "My apologies for the misunderstanding. Here is the corrected table with only the requested fields, covering all the schemes from the provided document.\n\n| Scheme Name | Ministry / Authority | Launch Date / Year |\n| :--- | :--- | :--- |\n| **Sangathan Se Samridhhi Campaign** | Ministry of Rural Development (under DAY-NRLM)  | April 2023  |\n| **Pradhan Mantri Mudra Bank Yojana (PMMY)** | - | 8 April 2015  |\n| **Meri Policy Mere Haath campaign** | - | 18 February 2022  |\n| **Atma Nirbhar Bharat Scheme** | - | 12 May 2020  |\n| **Pandit Deen Dayal Upadhyay Unnat Krishi Shiksha Yojana** | - | 2016  |\n| **Pradhan Mantri Garib Kalyan Deposit Scheme (PMGKDS)** | Government of India  | 2016  |\n| **Parmparagat Krishi Vikas Yojana** | - | 2015  |\n| **National program of nutrition support to primary education** | - | 15 August 1995  |\n| **Swajaldhara Yojana** | - | 2002  |\n| **AVSAR Scheme** | Airports Authority of India  | - |\n| **Members of Parliament Local Area Development Scheme (MPLADS)** | Ministry of Statistics and Implementation  | 23 December 1993  |\n| **Swadesh Darshan Scheme** | Ministry of Tourism, Government of India  | 2014-15  |\n| **Pradhan Mantri Khanij Kshetra Kalyan Yojana (PMKKKY)** | Ministry of Mines  | 2015  |\n| **Information and communication technology (ICT)** | - | 2004  |\n| **Sharma Shakti Portal** | Ministry of Tribal affairs  | - |\n| **Vidyanjali** | Ministry of Education (Shiksha Mantralay)  | - |\n| **Sakhi Center or One Stop Centre** | Ministry of Women and Child Development  | 1st April 2015  |\n| **SAGARMALA Project** | - | - |\n| **National Social assistance program (NSAP)** | Ministry of Rural Development  | 15 August 1995  |\n| **ASHA (Accredited Social health activist)** | Ministry of Health and Family Welfare  | 2005  |\n| **INSPIRE Program** | Government of India  | 2008  |\n| **DISHA (District development coordination and Monitoring Committee) scheme** | - | - |\n| **National Policy on Electronics 2019** | - | 2019  |\n| **Swadhar Greh Scheme** | - | 2015  |\n| **SAKSHAT portal** | - | - |\n| **National TB Program (DOTS)** | - | 1993  |\n| **National mission for sustaining the Himalayan ecosystem** | - | June 2010  |\n| **Integrated Child Protection Scheme (ICPS)** | - | 2009-10  |\n| **UNNAT BHARAT ABHIYAN** | - | - |\n| **NATIONAL RURAL HEALTH MISSION (NRHM)** | - | 12th April 2005  |\n| **Clean development mechanism program** | - | - |\n| **Operation Green** | - | - |\n| **National Urban Livelihood Mission (NULM)** | - | - |\n| **Smart Cities and Academia towards Action & Research (SAAR) Program** | - | - |\n| **Indian footwear and leather development programme (IFLDP)** | - | (Continuation approved till 2026)  |\n| **Pradan Mantri Kisan Samruddhi Kendras (PM-KSK)** | - | - |\n| **Pradhan Mantri Virasat ka Samvardhan (PM VIKAS) Scheme** | - | 2012-13 (Renamed Dec 2022)  |\n| **Strategic Interventions for Green Hydrogen Transition Programme (SIGHT)** | - | - |\n| **Mangrove Initiative for Shoreline Habitats and Tangible Incomes (MISHTI)** | - | (Starts FY 2023-2024)  |\n| **Purple or Lavender Revolution** | Ministry of Science & Technology  | - |\n| **REWARD Project** | Central Government, Karnataka, Odisha and the World Bank  | - |\n| **Rashtriya Uchchatar Shiksha Abhiyan (RUSA) / PM-USHA** | - | 2013 (Relaunched as PM-USHA in June 2023)  |\n| **Fast and Secured Transmission of Electronic Records (FASTER)** | - | 31 March 2022  |\n| **E-Shram Portal** | Ministry of Labour and Employment  | 26 August 2021  |\n| **Prime Minister's Special Scholarship Scheme (PMSSS)** | - | 2011  |\n| **Prime Minister's Employment Generation Programme (PMEGP)** | - | 2008  |\n| **Jan Samarth Portal** | - | 6 June 2022  |\n| **NIRYAT Portal** | - | 23 June 2022  |\n| **PM eVIDYA** | Ministry of Education  | May 2020  |\n| **Going Online As Leaders Programme (GOAL)** | Ministry of Tribal Affairs & Facebook India  | 15 May 2020  |\n| **National Intellectual Property Awareness Mission (NIPAM)** | Ministry of Commerce and Industry  | 8 December 2021  |\n| **National Integrated Database on Arrested Narco-offenders (NIDAAN)** | Narcotics Control Bureau (NCB)  | - |\n| **Paalan 1000 campaign** | Ministry of Health & Family Welfare  | - |\n| **UGC e-Samadhan Portal** | UGC  | - |\n| **KIRAN Scheme** | - | - |\n| **Mission LiFE (Lifestyle For Environment)** | NITI Aayog & Ministry of Environment, Forest and Climate Change  | (Launched for period 2022-2027)  |\n| **MAARG portal** | Department for Promotion of Industry and Internal Trade (DPIIT)  | - |\n| **Digital Shakti** | National Commission for Women  | 2018  |\n| **Right To Repair Portal** | Ministry of Consumer Affairs, Food and Public Distribution  | 24 December 2022  |\n| **Credit Guarantee Scheme for Micro and Small Enterprises (CGMSE)** | - | 2000  |\n| **Green Rating for Integrated Habitat Assessment (GRIHA)** | The Energy & Resources Institute (TERI) and Ministry of New and Renewable Energy  | - |\n| **SHAKTI Scheme** | Ministry of Coal  | 2018  |\n| **Aatmanirbhar Skilled Employee Employer Mapping (ASEEM) portal** | Ministry of Skill Development and Entrepreneurship  | July 2020  |\n| **SHWAS and AROG schemes** | Small Industries Development Bank of India (SIDBI)  | April 2021  |\n| **National Initiative for Development and Harnessing Innovations (NIDHI)** | - | 2016  |\n| **Sustainable Aquaculture in Mangrove Ecosystem (SAIME) Initiative** | - | - |\n| **Study Webs of Active Learning For Young Aspiring Minds (SWAYAM)** | Ministry of Human Resource Development  | 9 July 2017  |\n| **Jal Jan Abhiyan** | Ministry of Jal Shakti and Brahma Kumaris  | - |\n| **MAHARISHI Initiative** | - | - |\n| **PRAYAG Platform** | Ministry of Jal Shakti  | - |\n| **Vivad Se Vishwas I Scheme** | Ministry of Finance  | - |\n| **One Station One Product (OSOP) Scheme** | Ministry of Railways  | - |\n| **Project WAVE** | Indian Bank  | - |\n| **Adopt a Heritage Initiative / Monument Mitra** | Ministry of Culture  | 2017  |\n| **National Sickle Cell Anaemia Elimination Mission (NSCEM)** | - | July 2023  |\n| **Atmanirbhar Horticulture Clean Plant Programme** | - | 1 February 2023  |\n| **National Rehabilitation and Resettlement Policy** | - | 2007  |\n| **NAMASTE scheme** | Ministry of Housing and Urban Affairs and Ministry of Social Justice & Empowerment  | August 2022  |",
-					"settings":
-					{
-						"buffer_size": 6266,
-						"line_ending": "Unix",
-						"name": "My apologies for the misunderstanding. Here is the"
-					},
-					"undo_stack":
-					[
-						[
-							2,
-							1,
-							"",
-							null,
-							"AQAAAAAAAAAAAAAAQiAAAAAAAAAAAAAA",
-							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+							"AQAAAAAAAAAAAAAAvwoAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
 						],
 						[
 							3,
 							1,
-							"",
+							"left_delete",
 							null,
-							"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"
+							"AQAAAL4KAAAAAAAAvgoAAAAAAAABAAAALA",
+							"AQAAAAAAAAABAAAAvwoAAAAAAAC/CgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAL4KAAAAAAAAwQoAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAvgoAAAAAAAC+CgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							5,
+							1,
+							"left_delete",
+							null,
+							"AQAAAL8KAAAAAAAAvwoAAAAAAAACAAAAICA",
+							"AQAAAAAAAAABAAAAwQoAAAAAAADBCgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							1,
+							"insert",
+							{
+								"characters": "]"
+							},
+							"AQAAAL8KAAAAAAAAwAoAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAvwoAAAAAAAC/CgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"insert",
+							{
+								"characters": "{"
+							},
+							"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAew",
+							"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							11,
+							1,
+							"insert",
+							{
+								"characters": "["
+							},
+							"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							12,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
 						]
 					]
 				},
 				{
-					"file": "/home/purex/hist.txt",
+					"file": "/home/purex/programming/Python/quiz_era/quiz_data/History/14. Constituent Assembly.json",
+					"settings":
+					{
+						"buffer_size": 4393,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							2,
+							1,
+							"",
+							null,
+							"AQAAAAAAAAAAAAAAKREAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/purex/programming/Python/quiz_era/quiz_data/History/15. Miscellaneous.json",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -965,6 +946,15 @@
 			},
 			"file_history":
 			[
+				"/home/purex/programming/Python/quiz_era/quiz_data/History/13. British Acts and Policies",
+				"/home/purex/programming/Python/quiz_era/quiz_data/History/11. Prominent Leaders and Personalities.json",
+				"/home/purex/programming/Python/quiz_era/quiz_data/History/12. Struggle of Independence.json",
+				"/home/purex/programming/Python/quiz_era/quiz_data/History/10. A Few More Associations.json",
+				"/home/purex/programming/Python/quiz_era/quiz_data/History/2. Expansion of British Power.json",
+				"/home/purex/programming/Python/quiz_era/quiz_data/History/3. GGI, GGB and Voiceroys.json",
+				"/home/purex/programming/Python/quiz_era/quiz_data/History/6. Civil and Tribal.json",
+				"/home/purex/hist.txt",
+				"/home/purex/programming/Python/quiz_era/quiz_data/History/1. Advent of Europeans",
 				"/home/purex/programming/Python/quiz_era/quiz_data/Static Gk/Music 2.json",
 				"/home/purex/programming/Python/quiz_era/quiz_data/Static Gk/Music 1.json",
 				"/home/purex/dotfiles/hypr/hyprland.conf",
@@ -1083,16 +1073,7 @@
 				"/home/purex/2K25/SSC/Untitled.md",
 				"/home/purex/pinnaclepdf.pdf",
 				"/home/purex/pina.pdf",
-				"/home/purex/Pinnacle Quantative Aptitude/Index.pdf",
-				"/home/purex/Downloads/folk_dance_table.md",
-				"/home/purex/2K25/English/ULTIMATE VOCAB/ows/Important Government.txt",
-				"/home/purex/chran",
-				"/home/purex/test_bomb/Master-Bomber/API/SMS/SMS.json",
-				"/home/purex/Downloads/download",
-				"/home/purex/2K24/Lectures/careerwill PDFs",
-				"/home/purex/2K25/English/FOOL.txt",
-				"/home/purex/2K25/English/Important.txt",
-				"/tmp/ark-AvBMhy/SSC/English/120 Rules of Grammar.md"
+				"/home/purex/Pinnacle Quantative Aptitude/Index.pdf"
 			],
 			"find":
 			{
@@ -1107,9 +1088,10 @@
 			},
 			"find_state":
 			{
-				"case_sensitive": false,
+				"case_sensitive": true,
 				"find_history":
 				[
+					"[cite_start]",
 					"\\[cite(.*?)\\]",
 					"  \\<br\\> ",
 					"\\\\<br\\\\>",
@@ -1236,13 +1218,12 @@
 					"* ",
 					"**",
 					"* ",
-					"**",
-					"\\ \\*\\*[0-9]."
+					"**"
 				],
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": true,
+				"regex": false,
 				"replace_history":
 				[
 					"",
@@ -1389,28 +1370,30 @@
 					[
 						{
 							"buffer": 0,
+							"file": "/home/purex/programming/Python/quiz_era/quiz_data/History/7. The Revolutionaries.json",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 61,
+								"buffer_size": 19118,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										61,
-										61
+										19118,
+										19118
 									]
 								],
 								"settings":
 								{
-									"auto_name": "gingersnapuniquegifts.com",
 									"show_line_column": "disabled",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
+									"syntax": "Packages/JSON/JSON.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 14982.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 4,
@@ -1419,58 +1402,30 @@
 						},
 						{
 							"buffer": 1,
+							"file": "/home/purex/programming/Python/quiz_era/quiz_data/History/8. INC.json",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 19121,
+								"buffer_size": 14225,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										19121
+										14223,
+										14223
 									]
 								],
 								"settings":
 								{
-									"auto_name": "",
 									"show_line_column": "disabled",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
+									"syntax": "Packages/JSON/JSON.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 2225.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"stack_multiselect": false,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 262,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										262,
-										262
-									]
-								],
-								"settings":
-								{
-									"auto_name": "- Extract every valid scheme that may or may not h",
-									"show_line_column": "disabled",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 12000.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 3,
@@ -1478,29 +1433,31 @@
 							"type": "text"
 						},
 						{
-							"buffer": 3,
+							"buffer": 2,
+							"file": "/home/purex/programming/Python/quiz_era/quiz_data/History/9. Muslim League.json",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 15833,
+								"buffer_size": 2756,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										15833
+										4,
+										4
 									]
 								],
 								"settings":
 								{
-									"auto_name": "A comprehensive list of central government schemes",
 									"show_line_column": "disabled",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
+									"syntax": "Packages/JSON/JSON.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 2339.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 2,
@@ -1508,29 +1465,30 @@
 							"type": "text"
 						},
 						{
-							"buffer": 4,
+							"buffer": 3,
+							"file": "/home/purex/programming/Python/quiz_era/quiz_data/History/14. Constituent Assembly.json",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 6266,
+								"buffer_size": 4393,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										6266
+										4393,
+										4393
 									]
 								],
 								"settings":
 								{
-									"auto_name": "My apologies for the misunderstanding. Here is the",
-									"show_line_column": "disabled",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
+									"syntax": "Packages/JSON/JSON.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 1067.0,
+								"translation.y": 3486.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
@@ -1538,8 +1496,8 @@
 							"type": "text"
 						},
 						{
-							"buffer": 5,
-							"file": "/home/purex/hist.txt",
+							"buffer": 4,
+							"file": "/home/purex/programming/Python/quiz_era/quiz_data/History/15. Miscellaneous.json",
 							"selected": true,
 							"semi_transient": false,
 							"settings":
@@ -1557,7 +1515,7 @@
 								],
 								"settings":
 								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
+									"syntax": "Packages/JSON/JSON.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -1613,7 +1571,7 @@
 			"project": "",
 			"replace":
 			{
-				"height": 62.0
+				"height": 82.0
 			},
 			"save_all_on_build": true,
 			"select_file":
